@@ -12,7 +12,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - solorized-light
       - brand
     css: styles.css
     toc: true
