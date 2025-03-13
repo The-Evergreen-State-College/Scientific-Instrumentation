@@ -27,3 +27,18 @@ format:
 execute:
   freeze: auto
 ---
+
+
+> From readme.qmd
+
+# Gallery
+
+## Data loggers
+
+## Imaging
+
+## Microscopy
+
+## Spectroscopy
+
+## Other
