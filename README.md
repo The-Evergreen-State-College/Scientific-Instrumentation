@@ -1,2 +1,14 @@
 # Scientific-Instrumentation
-Scientific Instrumentation reposiroty for The Evergreen State College
+Scientific Instrumentation repository for The Evergreen State College
+
+## Gallery
+
+### Data loggers
+
+### Imaging
+
+### Microscopy
+
+### Spectroscopy
+
+### Other
