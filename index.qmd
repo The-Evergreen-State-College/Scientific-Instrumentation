@@ -1,7 +1,29 @@
 ---
-title: "Scientific-Instrumentation"
+# YAML Header for Quarto
+# Note: nothing should go above the YAML header
+lang: "en-US"
+title: "title"
+subtitle: "subtitle"
+author: "David Geeraerts"
+email: "geeraerd@evergreen.edu"
+date-format: iso
+date-modified: "2025-03-11"
+params:
+    edition: 1.0
+format:
+    html:
+        toc: TRUE
+        toc-title: Content
+        toc-location: left
+        toc-depth: 6
+        toc-expand: 6
+        code-fold: false
+        html-math-method:
+          method: mathjax
+        citations-hover: false
+        footnotes-hover: false
+        crossrefs-hover: false
+        theme: solar
+execute:
+  freeze: auto
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
