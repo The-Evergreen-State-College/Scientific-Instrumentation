@@ -1,24 +1,4 @@
-# Scientific Instrumentation skeleton
-work in progress...
+# This is the Github readme...
+Go to website: [Scientific-Instrumentation][(](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/Scientific-Instrumentation.html))
 
-- [Scientific Instrumentation skeleton](#scientific-instrumentation-skeleton)
-- [Gallery](#gallery)
-  - [Data loggers](#data-loggers)
-  - [Imaging](#imaging)
-  - [Microscopy](#microscopy)
-  - [Spectroscopy](#spectroscopy)
-  - [Other](#other)
-
- From readme.md
-
-# Gallery
-
-## Data loggers
-
-## Imaging
-
-## Microscopy
-
-## Spectroscopy
-
-## Other
+### WORK IN PROGRESS...
