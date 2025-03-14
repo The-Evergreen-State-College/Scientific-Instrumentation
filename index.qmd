@@ -27,3 +27,5 @@ format:
 execute:
   freeze: auto
 ---
+
+from index.qmd
