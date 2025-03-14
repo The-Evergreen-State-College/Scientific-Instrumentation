@@ -3,3 +3,5 @@ project:
   title: "Scientific-Instrumentation"
   output-dir: docs
 
+execute:
+  freeze: auto
