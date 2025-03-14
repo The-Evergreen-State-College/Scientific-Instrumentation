@@ -2,7 +2,7 @@
 # YAML Header for Quarto
 # Note: nothing should go above the YAML header
 lang: "en-US"
-title: "Scientific Instrumentation skeleton"
+title: "title"
 subtitle: "subtitle"
 author: "David Geeraerts"
 email: "geeraerd@evergreen.edu"
@@ -29,7 +29,7 @@ execute:
 ---
 
 
- From readme.qmd
+> From readme.qmd
 
 # Gallery
 
