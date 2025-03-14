@@ -10,7 +10,7 @@ format:
     css: styles.css
 ---
 
-# Gallery
+# Instrument Gallery
 
 ## Data loggers
 
@@ -22,4 +22,9 @@ format:
 
 ## Other
 
-![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg)
+::: {layout-ncol=2}
+
+![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){width=200}
+
+:::
+
