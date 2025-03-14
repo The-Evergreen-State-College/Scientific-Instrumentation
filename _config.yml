@@ -2,6 +2,35 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+- jekyll-sitemap
 
 title: [Scientific Instrumentation]
 description: [The Evergreen State College]
+timezone: America/Los_Angeles
+encoding: utf-8
+baseurl: "/Scientific-Instrumentation"
+url: "https://the-evergreen-state-college.github.io"
+github_username: "The-Evergreen-State-College"
+markdown: kramdown
+kramdown:
+  input: GFM  # GitHub Flavored Markdown
+  hard_wrap: false
+institution: "The Evergreen State College"
+categories:
+  - Spectroscopy
+  - Microscopy
+  - Imaging
+  - Data Loggers
+  - Other
+
+  ###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "about"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
