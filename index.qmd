@@ -10,17 +10,17 @@ format:
     css: styles.css
 ---
 
-# Instrument Gallery
+# [Instrument Gallery]
 
-## Data loggers
+## [Data loggers](/MetaCategory/DataLoggers.qmd)
 
-## Imaging
+## [Imaging](/MetaCategory/Imaging.qmd)
 
-## Microscopy
+## [Microscopy](/MetaCategory/Microscopy.qmd)
 
-## Spectroscopy
+## [Spectroscopy](/MetaCategory/Spectroscopy.qmd)
 
-## Other
+## [Other](/MetaCategory/Other.qmd)
 
 ::: {layout-ncol=2}
 
