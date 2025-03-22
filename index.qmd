@@ -12,15 +12,25 @@ format:
 
 # [Instrument Gallery]
 
-## [Data loggers](/MetaCategory/DataLoggers.qmd)
+## Data loggers
 
-## [Imaging](/MetaCategory/Imaging.qmd)
+[Meta-Category: Data loggers](/MetaCategory/DataLoggers.qmd)
 
-## [Microscopy](/MetaCategory/Microscopy.qmd)
+## Imaging
 
-## [Spectroscopy](/MetaCategory/Spectroscopy.qmd)
+[Meta-Category: Data loggers](/MetaCategory/Imaging.qmd)
 
-## [Other](/MetaCategory/Other.qmd)
+## Microscopy
+
+[Meta-Category: Microscopy](/MetaCategory/Microscopy.qmd)
+
+## Spectroscopy
+
+[Meta-Category: Spectroscopy](/MetaCategory/Spectroscopy.qmd)
+
+## Other
+
+[Meta-Category: Other](/MetaCategory/Other.qmd)
 
 ::: {layout-ncol=2}
 
