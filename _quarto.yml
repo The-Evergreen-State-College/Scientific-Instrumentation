@@ -2,10 +2,6 @@ project:
   type: website
   title: "Scientific-Instrumentation"
   output-dir: docs
-  render:
-    - "!_*.qmd"
-    - "*.qmd"
-    - "MetaCategory/*.qmd"
 
 execute:
-  freeze: auto
+  freeze: false

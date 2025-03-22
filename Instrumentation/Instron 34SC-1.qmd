@@ -17,6 +17,9 @@ format:
 
 # Technical Details
 
+![Serial Number](/assets/images/Instron-34SC-1-Serial.jpg){width=200}
+
+
 # Manuals
 
 ## (SOP) Standard Operating Procedure
