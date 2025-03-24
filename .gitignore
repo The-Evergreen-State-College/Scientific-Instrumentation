@@ -17,5 +17,9 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
+# Quarto files and directories
 /.quarto/
 /cache
+
+# VS Code files and directories
+.vscode/

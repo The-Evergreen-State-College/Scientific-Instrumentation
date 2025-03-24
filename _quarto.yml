@@ -4,5 +4,5 @@ project:
   output-dir: docs
 
 execute:
-  freeze: false
+  freeze: auto
   cache: true
