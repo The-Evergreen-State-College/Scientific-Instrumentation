@@ -1,6 +1,5 @@
 ---
 title: "Instron 34SC-1 Universal Testing System"
-
 format:
   html:
     theme: solar 
@@ -10,7 +9,8 @@ format:
     css: styles.css
 ---
 
-![](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){width=200}
+
+[![](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){width=200}](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg)
 
 
 # Description
@@ -56,9 +56,16 @@ The 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N
 | **Noise Level**                  | <70 dB during operation          
 
 
-![Serial Number](/assets/images/Instron-34SC-1-Serial.jpg){width=200}
+[![Serial Number plate](/assets/images/Instron-34SC-1-Serial.jpg){width=200}](/assets/images/Instron-34SC-1-Serial.jpg)
 
 
 # Manuals
 
 ## (SOP) Standard Operating Procedure
+
+
+# Instrument Table
+[SI-Table-Instron-34SC-1](/Instrumentation/SI-Table-Instron-34SC-1.qmd)
+
+## Disaster Recovery Table
+[Disaster Recovery Table](/Instrumentation/Disaster_Recovery_Table.qmd)

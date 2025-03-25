@@ -1,12 +1,33 @@
 project:
   type: website
-  title: "Scientific-Instrumentation"
+  title: "Scientific Instrumentation at The Evergreen State College"
   output-dir: docs
   render:
     - "*.qmd"
   resources:
     - "Instrumentation/*.qmd"
     - "MetaCategory/*.qmd"
+website:
+  navbar:
+    search: true
+    left:
+      - text: "Home"
+        href: "index.qmd"
+      - text: "Meta-Categories" 
+        menu:
+          - text: "Other"
+            href: "MetaCategory/Other.qmd"
+      - text: "Instruments" 
+        menu:
+          - text: "Instron 34SC-1"
+            href: "Instrumentation/Instron-34SC-1.qmd"            
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href: https://github.com/The-Evergreen-State-College/Scientific-Instrumentation
+          - text: Submit ticket
+            href: https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues
 execute:
   freeze: auto
   cache: true

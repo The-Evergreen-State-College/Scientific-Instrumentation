@@ -1,1 +1,6 @@
 date: today
+format:
+  html:
+    theme: solar 
+    toc: false
+    page-layout: full

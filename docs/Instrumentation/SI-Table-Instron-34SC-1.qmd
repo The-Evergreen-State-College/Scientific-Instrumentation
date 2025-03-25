@@ -1,0 +1,32 @@
+# Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | 34SC-1 Universal Testing System     |
+| Instrument_Acquisition_Date    | 2025-03     |
+| Instrument_CommonName          | Tensile Strength Tester  |
+| Instrument_Manufacturer        | Instron  |
+| Instrument_Model               | 34SC-1   |
+| Instrument_Serial#             | 34SC1B32396  |
+| Instrument_Asset_Tag           | NA     |
+| Instrument_MAC                 | 00-02-CE-80-80-4A    |
+| Instrument_IP                  | 169.254.1.2/24 [255.255.255.0]  |
+| Instrument_TurnKeySolution     | Yes    |
+| Instrument_Roaming             | No     |
+| Instrument_Building            | Lab I  |
+| Instrument_Floor               | 3      |
+| Instrument_Room                | 3057   |
+| Computer_Hostname              | SC-Instron-34SC-1    |
+| Computer_IP                    | DHCP      |
+| Computer_MAC                   | 10-98-19-2F-E4-54   |
+| Computer_Make                  | Dell      |
+| Computer_Model                 | Precision 5860     |
+| Computer_Asset_Tag             | NA      |
+| Computer_OS                    | Windows      |
+| Computer_OS_Version            | 11 [24H2]    |
+| Computer_RAM                   | 16GB      |
+| Computer_HD                    | NVMe 500 GB      |
+| Software_Vendor                | Instron       |
+| Software_Product_Name          | BlueHill Elements    |
+| Software_Version               | 4.48     |
+| Software_Last_Updated_Date     | 2025-03      |
