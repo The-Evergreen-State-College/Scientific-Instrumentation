@@ -13,6 +13,6 @@ typography:
   base:
     family: Open Sans
   headings:
-    family: Roboto Slab
+    family: Roboto
   monospace:
     family: Fira Code
