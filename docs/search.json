@@ -4,49 +4,42 @@
     "href": "index.html",
     "title": "Scientific Instrumentation at The Evergreen State College",
     "section": "",
-    "text": "Date: 2025-03-22 Build: 11:00"
+    "text": "by meta-categories\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#data-loggers",
     "href": "index.html#data-loggers",
     "title": "Scientific Instrumentation at The Evergreen State College",
-    "section": "Data loggers",
-    "text": "Data loggers\nMeta-Category: Data loggers"
+    "section": "",
+    "text": "Meta-Category: Data loggers"
   },
   {
     "objectID": "index.html#imaging",
     "href": "index.html#imaging",
     "title": "Scientific Instrumentation at The Evergreen State College",
-    "section": "Imaging",
-    "text": "Imaging\nMeta-Category: Data loggers"
+    "section": "",
+    "text": "Meta-Category: Data loggers"
   },
   {
     "objectID": "index.html#microscopy",
     "href": "index.html#microscopy",
     "title": "Scientific Instrumentation at The Evergreen State College",
-    "section": "Microscopy",
-    "text": "Microscopy\nMeta-Category: Microscopy"
+    "section": "",
+    "text": "Meta-Category: Microscopy"
   },
   {
     "objectID": "index.html#spectroscopy",
     "href": "index.html#spectroscopy",
     "title": "Scientific Instrumentation at The Evergreen State College",
-    "section": "Spectroscopy",
-    "text": "Spectroscopy\nMeta-Category: Spectroscopy"
+    "section": "",
+    "text": "Meta-Category: Spectroscopy"
   },
   {
     "objectID": "index.html#other",
     "href": "index.html#other",
     "title": "Scientific Instrumentation at The Evergreen State College",
-    "section": "Other",
-    "text": "Other\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
-  },
-  {
-    "objectID": "Instrumentation/Instron-34SC-1.html#sop-standard-operating-procedure",
-    "href": "Instrumentation/Instron-34SC-1.html#sop-standard-operating-procedure",
-    "title": "Instron 34SC-1 Universal Testing System",
-    "section": "(SOP) Standard Operating Procedure",
-    "text": "(SOP) Standard Operating Procedure"
+    "section": "",
+    "text": "Meta-Category: Other\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "MetaCategory/Other.html",
@@ -54,5 +47,12 @@
     "title": "Meta-Category: Other",
     "section": "",
     "text": "Instron 34SC-1"
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#sop-standard-operating-procedure",
+    "href": "Instrumentation/Instron-34SC-1.html#sop-standard-operating-procedure",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "(SOP) Standard Operating Procedure",
+    "text": "(SOP) Standard Operating Procedure"
   }
 ]

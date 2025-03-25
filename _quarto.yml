@@ -2,7 +2,11 @@ project:
   type: website
   title: "Scientific-Instrumentation"
   output-dir: docs
-
+  render:
+    - "*.qmd"
+  resources:
+    - "Instrumentation/*.qmd"
+    - "MetaCategory/*.qmd"
 execute:
   freeze: auto
   cache: true
