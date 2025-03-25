@@ -7,6 +7,8 @@ project:
   resources:
     - "Instrumentation/*.qmd"
     - "MetaCategory/*.qmd"
+  preview:
+    browser: false
 website:
   navbar:
     search: true

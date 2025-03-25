@@ -56,7 +56,7 @@ The 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N
 | **Noise Level**                  | <70 dB during operation          
 
 
-[![Serial Number plate](/assets/images/Instron-34SC-1-Serial.jpg){width=200}](/assets/images/Instron-34SC-1-Serial.jpg)
+[![Serial Number plate](/assets/images/Instron-34SC-1-Serial.jpg){fig-align="left" width=200}](/assets/images/Instron-34SC-1-Serial.jpg)
 
 
 # Manuals

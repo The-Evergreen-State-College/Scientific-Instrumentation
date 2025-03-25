@@ -1,0 +1,18 @@
+meta:
+  name: brand.yml
+  link: https://posit-dev.github.io/brand-yml
+
+logo:
+  images:
+    icon: /assets/logo/evergreen-state-college-logo.ico
+  medium:
+    light: /assets/logo/Evergreen-full-name--white.png
+    dark: /assets/logo/Evergreen-full-name--black.png
+
+typography:
+  base:
+    family: Open Sans
+  headings:
+    family: Roboto Slab
+  monospace:
+    family: Fira Code
