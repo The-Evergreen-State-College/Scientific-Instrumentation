@@ -1,6 +1,6 @@
 project:
   type: website
-  title: "Scientific Instrumentation at The Evergreen State College"
+  title: "Scientific Instrumentation"
   output-dir: docs
   render:
     - "*.qmd"
