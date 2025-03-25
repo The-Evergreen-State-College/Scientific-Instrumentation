@@ -8,6 +8,8 @@ format:
     toc-location: right
     toc-title: Contents
     page-layout: full
+    tbl-colwidths: [2,21,21,14,7,7,28]
+    
 ---
 
 # Basic Information
