@@ -1,0 +1,15 @@
+---
+title: "Scientific Instrumentation Logbooks"
+Date: last-modified
+format:
+  html:
+    theme: solar
+    toc: false
+    toc-location: right
+    toc-title: Contents
+    page-layout: full
+---
+
+# Index
+
+- [Instron 34SC-1](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2)

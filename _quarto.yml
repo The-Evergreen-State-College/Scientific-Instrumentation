@@ -17,12 +17,28 @@ website:
         href: "index.qmd"
       - text: "Meta-Categories" 
         menu:
+          - text: "Data Loggers"
+            href: "MetaCategory/DataLoggers.qmd"
+          - text: "Imaging"
+            href: "MetaCategory/Imaging.qmd"
+          - text: "Microscopy"
+            href: "MetaCategory/Microscopy.qmd"
+          - text: "Spectroscopy"
+            href: "MetaCategory/Spectroscopy.qmd"                      
           - text: "Other"
             href: "MetaCategory/Other.qmd"
       - text: "Instruments" 
         menu:
           - text: "Instron 34SC-1"
-            href: "Instrumentation/Instron-34SC-1.qmd"            
+            href: "Instrumentation/Instron-34SC-1.qmd"
+      - text: "Logbooks"
+        menu:
+          - text: "Index"
+            href: "Instrumentation/Logbooks.qmd"
+          - text: "Disaster Recovery"
+            href: "Instrumentation/Disaster_Recovery_Table.qmd"
+          - text: "Instron 34SC-1"
+            href: "https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2"  
     tools:
       - icon: github
         menu:

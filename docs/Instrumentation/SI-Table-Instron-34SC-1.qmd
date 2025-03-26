@@ -1,3 +1,14 @@
+---
+title: "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System"
+format:
+  html:
+    theme: solar 
+    toc: false
+    css: styles.css
+---
+
+
+
 # Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System
 
 | Field                          | Value |
