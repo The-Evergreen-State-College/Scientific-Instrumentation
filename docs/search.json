@@ -49,11 +49,32 @@
     "text": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System\n\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03"
   },
   {
-    "objectID": "Instrumentation/Instron-34SC-1.html#sop-standard-operating-procedure",
-    "href": "Instrumentation/Instron-34SC-1.html#sop-standard-operating-procedure",
+    "objectID": "Instrumentation/Instron-34SC-1.html#description",
+    "href": "Instrumentation/Instron-34SC-1.html#description",
     "title": "Instron 34SC-1 Universal Testing System",
-    "section": "(SOP) Standard Operating Procedure",
-    "text": "(SOP) Standard Operating Procedure"
+    "section": "Description",
+    "text": "Description\nThe Instron 34SC-1 Universal Testing System is a single-column, electromechanical testing machine designed for low-force mechanical testing applications, offering precision, reliability, and versatility. Part of Instron’s 3400 Series, it has a force capacity of up to 1 kN (1000 N or approximately 225 lbf), making it ideal for tensile, compression, flexure, peel, puncture, friction, and shear tests on a wide range of materials, including plastics, textiles, biomaterials, thin films, and small components.\nThe 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N pneumatic side-action grip, and is controlled by Instron’s Bluehill Universal software, which allows for easy test setup, data acquisition, and analysis. The system is also equipped with a video extensometer for non-contact strain measurement, and a temperature chamber for testing at controlled temperatures."
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#technical-details",
+    "href": "Instrumentation/Instron-34SC-1.html#technical-details",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nModel\nInstron 34SC-1 (3400 Series, Single Column)\n\n\nForce Capacity\n1 kN (1000 N, ~225 lbf)\n\n\nLoad Accuracy\n±0.5% of reading down to 1/500th of load cell capacity (±1% below 1/500)\n\n\nLoad Cell Compatibility\nInstron Smart Load Cells (e.g., 5 N to 1 kN range)\n\n\nCrosshead Travel (Standard)\n~675 mm (26.6 in)\n\n\nCrosshead Travel (Extra Height)\n~975 mm (38.4 in)\n\n\nMaximum Speed\n1000 mm/min (40 in/min)\n\n\nMinimum Speed\n0.001 mm/min (0.00004 in/min)\n\n\nSpeed Accuracy\n±0.1% of set speed under load\n\n\nReturn Speed\nUp to 2000 mm/min (80 in/min)\n\n\nVertical Test Space (Standard)\n~772 mm (30.4 in) from base to crosshead\n\n\nVertical Test Space (Extra Height)\n~1072 mm (42.2 in)\n\n\nHorizontal Test Space\n100 mm (3.94 in) throat depth\n\n\nData Acquisition Rate\nUp to 1 kHz (1000 data points per second)\n\n\nDrive System\nBrushless AC servomotor, pre-loaded ball screws\n\n\nPosition Control Resolution\n&lt;0.001 mm (0.00004 in)\n\n\nPower Requirements\n100-240 VAC, 50/60 Hz, single phase, 400 VA max\n\n\nOperating Temperature\n+10°C to +38°C (+50°F to +100°F)\n\n\nStorage Temperature\n-40°C to +66°C (-40°F to +150°F)\n\n\nHumidity Range\n10% to 90% non-condensing\n\n\nHeight (Standard)\n1048 mm (41.3 in)\n\n\nHeight (Extra Height)\n1348 mm (53.1 in)\n\n\nWidth\n575 mm (22.6 in)\n\n\nDepth\n608 mm (23.9 in)\n\n\nWeight\n~65 kg (143 lb)\n\n\nSoftware\nBluehill Universal (touchscreen or PC interface)\n\n\nSafety Features\nOperator Protect (status-aware operation), emergency stop, limit switches\n\n\nStandards Compliance\nSupports ASTM, ISO, EN, JIS, and custom test methods\n\n\nAccessory Compatibility\nGrips, fixtures, extensometers (contact Instron for catalog)\n\n\nFrame Stiffness\n~1.2 kN/mm (nominal, varies with setup)\n\n\nNoise Level\n&lt;70 dB during operation\n\n\n\n\n\n\n\n\n\n\nSerial Number plate"
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#manuals",
+    "href": "Instrumentation/Instron-34SC-1.html#manuals",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure\n\n\nCertifications\n\nCertificate of Calibration Displacement\nCertificate of Calibration Speed\nCertificate of Calibration Force"
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#instrument-table",
+    "href": "Instrumentation/Instron-34SC-1.html#instrument-table",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Instron-34SC-1"
   },
   {
     "objectID": "Instrumentation/Instron-34SC-1.html#disaster-recovery-table",
@@ -81,7 +102,7 @@
     "href": "Instrumentation/SI-Table-Schema.html",
     "title": "Scientific Instrumentation Table Schema",
     "section": "",
-    "text": "Scientific Instrumentation Table Schema\n\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\n\n\n\nInstrument_Manufacturer\n\n\n\nInstrument_Model\n\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+    "text": "Table Schema\n\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\n\n\n\nInstrument_Manufacturer\n\n\n\nInstrument_Model\n\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
   },
   {
     "objectID": "MetaCategory/Other.html",

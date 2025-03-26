@@ -13,13 +13,13 @@ format:
 [![](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){width=200}](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg)
 
 
-# Description
+## Description
 
-The Instron 34SC-1 Universal Testing System is a single-column, electromechanical testing machine designed for low-force mechanical testing applications, offering precision, reliability, and versatility. Part of Instron’s 3400 Series, it has a force capacity of up to 1 kN (1000 N or approximately 225 lbf), making it ideal for tensile, compression, flexure, peel, puncture, friction, and shear tests on a wide range of materials, including plastics, textiles, biomaterials, thin films, and small components. 
+The [Instron](https://www.instron.com/en/) 34SC-1 Universal Testing System is a single-column, electromechanical testing machine designed for low-force mechanical testing applications, offering precision, reliability, and versatility. Part of Instron’s 3400 Series, it has a force capacity of up to 1 kN (1000 N or approximately 225 lbf), making it ideal for tensile, compression, flexure, peel, puncture, friction, and shear tests on a wide range of materials, including plastics, textiles, biomaterials, thin films, and small components. 
 
 The 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N pneumatic side-action grip, and is controlled by Instron’s Bluehill Universal software, which allows for easy test setup, data acquisition, and analysis. The system is also equipped with a video extensometer for non-contact strain measurement, and a temperature chamber for testing at controlled temperatures.
 
-# Technical Details
+## Technical Details
 
 | **Specification**                | **Details**                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
@@ -59,12 +59,17 @@ The 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N
 [![Serial Number plate](/assets/images/Instron-34SC-1-Serial.jpg){fig-align="left" width=200}](/assets/images/Instron-34SC-1-Serial.jpg)
 
 
-# Manuals
+## Manuals
 
-## (SOP) Standard Operating Procedure
+### (SOP) Standard Operating Procedure
 
+### Certifications
 
-# Instrument Table
+- [Certificate of Calibration Displacement](/Instrumentation/Manuals/Instron_34SC-1_Certificate_of_Calibration_Displacement_ASTM%20E2309.pdf)
+- [Certificate of Calibration Speed](/Instrumentation/Manuals/Instron_34SC-1_Certificate_of_Calibration_Speed_ASTM%20E2658.pdf)
+- [Certificate of Calibration Force](/Instrumentation/Manuals/Instron_34SC-1_Certificate_of_Calibration_Force_ASTM%20E4.pdf)
+
+## Instrument Table
 [SI-Table-Instron-34SC-1](/Instrumentation/SI-Table-Instron-34SC-1.qmd)
 
 ## Disaster Recovery Table

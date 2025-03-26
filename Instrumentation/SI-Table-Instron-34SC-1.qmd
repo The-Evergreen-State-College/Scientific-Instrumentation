@@ -16,7 +16,7 @@ format:
 | Instrument_Name                | 34SC-1 Universal Testing System     |
 | Instrument_Acquisition_Date    | 2025-03     |
 | Instrument_CommonName          | Tensile Strength Tester  |
-| Instrument_Manufacturer        | Instron  |
+| Instrument_Manufacturer        | [Instron](https://www.instron.com/en/)  |
 | Instrument_Model               | 34SC-1   |
 | Instrument_Serial#             | 34SC1B32396  |
 | Instrument_Asset_Tag           | NA     |
