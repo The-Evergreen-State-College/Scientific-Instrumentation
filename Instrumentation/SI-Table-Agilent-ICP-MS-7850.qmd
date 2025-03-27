@@ -1,0 +1,47 @@
+---
+title: "Scientific Instrumentation Table: Agilent ICP-MS 7850"
+format:
+  html:
+    theme: solar 
+    toc: false
+    css: styles.css
+---
+
+# Table
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | ICP-MS 7850      |
+| Instrument_Acquisition_Date    | 2025-03 (NIST grant) |
+| Instrument_CommonName          | ICP-MS           |
+| Instrument_Manufacturer        | [Agilent](https://www.agilent.com/)  |
+| Instrument_Model               | [7850](https://www.agilent.com/en/product/atomic-spectroscopy/inductively-coupled-plasma-mass-spectrometry-icp-ms/icp-ms-instruments/7850-icp-ms)             |
+| Instrument_Serial#             | [SG25011003](/assets/images/Agilent-ICP-MS-7850_Serial_plate.jpg)           |
+| Instrument_Asset_Tag           | NA                   |
+| Instrument_MAC                 |                      |
+| Instrument_IP                  | 192.168.1.128/24 [255.255.255.0]     |
+| Instrument_Hostname            | ICPMS01              |
+| Instrument_TurnKeySolution     | Yes                  |
+| Instrument_Roaming             | No                   |
+| Instrument_Building            | Lab II               |
+| Instrument_Floor               | 3                    |
+| Instrument_Room                | 3223                 |
+| Computer_Hostname              | SC-ICP-MS-7850       |
+| Computer_IP                    | DHCP                 |
+| Computer_MAC                   | 10-98-19-30-72-48    |
+| Computer_Make                  | Dell                 |
+| Computer_Model                 | Precision 5860       |
+| Computer_Asset_Tag             | NA                   |
+| Computer_OS                    | Windows              |
+| Computer_OS_Version            | 11 [24H2]            |
+| Computer_RAM                   | 32 GB                |
+| Computer_HD                    | NVMe 1 TB            |
+| Software_Vendor                | Agilent              |
+| Software_Product_Name          | Mass Hunter          |
+| Software_Version               | 5.3 [G7OID v.D.0.1.03 Build 748.2]     |
+| Software_Last_Updated_Date     | 2025-03              |
+
+: Table {.bordered .hover}
+
+## Disaster Recovery Table
+[Disaster Recovery Table](/Instrumentation/Disaster_Recovery_Table.qmd)

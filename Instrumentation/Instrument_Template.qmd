@@ -1,0 +1,28 @@
+---
+title: "Instrument Template"
+format:
+  html:
+    theme: solar 
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+Make a copy of this template to create a new instrument page.
+
+
+## Description
+
+
+
+## Technical Details
+
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table

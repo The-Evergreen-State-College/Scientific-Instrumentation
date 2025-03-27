@@ -31,13 +31,15 @@ format:
 
 [Meta-Category: Spectroscopy](/MetaCategory/Spectroscopy.qmd)
 
+[![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
+
 ## Other
 
 [Meta-Category: Other](/MetaCategory/Other.qmd)
 
 ::: {layout-ncol=2}
 
-[![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg "Instron 34SC-1"){fig-align="left" width=200}](/Instrumentation/Instron-34SC-1.html)
+[![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg "Instron 34SC-1"){fig-align="left" width=200}](/Instrumentation/Instron-34SC-1.qmd)
 
 :::
 

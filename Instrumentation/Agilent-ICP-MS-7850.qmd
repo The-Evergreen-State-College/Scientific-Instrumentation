@@ -1,0 +1,96 @@
+---
+title: "Agilent ICP-MS 7850"
+format:
+  html:
+    theme: solar 
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="center" width=200}
+
+## Description
+
+Inductively Coupled Plasma Mass Spectrometry (ICP-MS) is an advanced analytical technique used to detect and quantify trace elements and isotopes in a wide variety of samples, from environmental waters to biological tissues. Renowned for its exceptional sensitivity—capable of detecting elements at parts-per-trillion (ppt) levels—and broad elemental coverage, ICP-MS combines the high-temperature ionization power of an inductively coupled plasma (ICP) with the precise mass analysis of a mass spectrometer (MS).
+
+
+The Agilent 7850 ICP-MS is a high-performance, single quadrupole inductively coupled plasma mass spectrometer designed for efficient and reliable trace element analysis across a wide range of sample types. Engineered to streamline laboratory workflows, it can handle samples with up to 25% total dissolved solids (TDS) thanks to its Ultra High Matrix Introduction (UHMI) technology, reducing the need for time-consuming dilutions. The instrument features a helium-mode collision cell and half-mass correction to eliminate polyatomic and doubly charged ion interferences, simplifying method development and ensuring accurate results. Paired with the intuitive ICP-MS MassHunter software, the 7850 offers preset methods, automated setup via the Method Wizard, and smart tools like Outlier Conditional Formatting (OCF) and Early Maintenance Feedback (EMF) to enhance productivity and data quality. Ideal for routine and regulated applications in environmental, food safety, and pharmaceutical testing, the Agilent 7850 combines robust performance with user-friendly operation to deliver fast, precise, and reproducible elemental analysis.
+
+
+### How it works
+ICP-MS operates through a multi-step process:
+
+1. Sample Introduction: The sample, typically a liquid, is introduced into the system via a nebulizer, which converts it into a fine aerosol. This aerosol is carried by an inert gas (usually argon) into the plasma.
+
+2. Plasma Ionization: The aerosol enters the inductively coupled plasma, a highly energized gas sustained by radiofrequency energy in a torch assembly. Operating at temperatures of 6,000–10,000 K, the plasma atomizes the sample, breaking molecular bonds, and ionizes the resulting atoms by stripping off electrons. This creates a cloud of positively charged ions representative of the sample’s elemental composition.
+
+3. Ion Extraction: The ions are extracted from the plasma through a series of cones (sampler and skimmer cones) into a high-vacuum environment. These cones focus the ion beam while minimizing neutral particles and photons that could interfere with detection.
+
+4. Mass Separation: The ion beam enters the mass spectrometer, typically a quadrupole, which acts as a mass filter. The quadrupole uses oscillating electric fields to selectively allow ions of specific mass-to-charge ratios (m/z) to pass through, separating them based on their elemental or isotopic mass.
+
+5. Detection: The filtered ions strike a detector—often an electron multiplier or dynode system—which converts the ion impacts into electrical signals. These signals are amplified and processed to produce a spectrum, where peak intensities correlate to element concentrations.
+
+6. Data Analysis: Software interprets the mass spectrum, matching m/z peaks to known elements or isotopes and quantifying their abundance using calibration standards. Advanced systems can correct for interferences (e.g., polyatomic ions) using collision/reaction cells or mathematical adjustments.
+
+
+### Key Features and Capabilities
+
+- **Sensitivity and Range:** ICP-MS can detect elements across the periodic table, from lithium to uranium, at concentrations as low as ppt, making it ideal for ultra-trace analysis.
+- **Interference Management:** Techniques like helium collision mode or reaction gases (e.g., ammonia) mitigate spectral overlaps from polyatomic ions (e.g., ArCl+ interfering with As+), enhancing accuracy.
+- **High Throughput:** Automated sample introduction and rapid multi-element analysis enable hundreds of samples per day.
+- **Versatility:** It handles diverse matrices—liquids, solids (with laser ablation), or gases—after appropriate preparation.
+
+
+### Notes
+
+- ICP-MS requires careful sample preparation to avoid matrix effects (e.g., high salt content suppressing signals) and can be sensitive to isobaric interferences without proper mitigation.
+- Calibration standards, quality control samples, and blank measurements are essential for accurate quantification and data validation.
+- Regular maintenance, cleaning, and calibration are crucial to ensure instrument performance and data integrity.
+
+## Technical Details
+
+| **Specification**                | **Details**                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Model**                        | Agilent 7850 ICP-MS (Single Quadrupole)                                    |
+| **Mass Range**                   | 2–260 amu (atomic mass units)                                              |
+| **Sensitivity**                  | >500 Mcps/ppm (at 10 µg/L, e.g., for In at m/z 115)                        |
+| **Detection Limits**             | <1 ppt (parts per trillion) for most elements                              |
+| **Dynamic Range**                | 11 orders of magnitude (0.1 cps to >10^9 cps)                              |
+| **Plasma RF Power**              | 500–1600 W, adjustable                                                     |
+| **Plasma Gas Flow**              | Argon, ~15 L/min (typical operating condition)                             |
+| **Nebulizer Gas Flow**           | 0.7–1.2 L/min, software-controlled                                        |
+| **Sample Introduction**          | Concentric nebulizer with UHMI (Ultra High Matrix Introduction)            |
+| **Matrix Tolerance**             | Up to 25% total dissolved solids (TDS) with UHMI                           |
+| **Interference Removal**         | Helium collision mode (KED), half-mass correction                          |
+| **Quadrupole Resolution**        | ~0.7 amu (FWHM, full width at half maximum)                                |
+| **Scan Speed**                   | >5000 amu/sec                                                              |
+| **Data Acquisition Rate**        | Up to 10 Hz (10 spectra per second)                                        |
+| **Ion Optics**                   | High-efficiency extraction lenses, off-axis design                         |
+| **Detector**                     | Dual-stage electron multiplier (analog and pulse counting)                 |
+| **Vacuum System**                | Three-stage differential pumping, turbomolecular pumps                    |
+| **Power Requirements**           | 200–240 VAC, 50/60 Hz, single phase, 5 kVA max                            |
+| **Operating Temperature**        | +15°C to +30°C (+59°F to +86°F)                                           |
+| **Storage Temperature**          | -20°C to +60°C (-4°F to +140°F)                                           |
+| **Humidity Range**               | 20% to 80% non-condensing                                                  |
+| **Height**                       | 597 mm (23.5 in)                                                           |
+| **Width**                        | 840 mm (33.1 in)                                                           |
+| **Depth**                        | 590 mm (23.2 in)                                                           |
+| **Weight**                       | ~115 kg (254 lb)                                                           |
+| **Software**                     | ICP-MS MassHunter (with Method Wizard, OCF, EMF features)                  |
+| **Safety Features**              | Plasma interlocks, exhaust monitoring, emergency shutdown                  |
+| **Standards Compliance**         | Supports EPA, USP, ICH, and ISO methods (e.g., EPA 200.8, USP <232>)       |
+| **Accessory Compatibility**      | Autosampler (e.g., SPS 4), laser ablation, discrete sampling systems       |
+| **Cooling Water Requirement**    | 2.5–4 L/min, 15–30°C, external chiller recommended                         |
+| **Noise Level**                  | <60 dB during operation       
+
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+[SI-Table-Agilent-ICP-MS-7850](/Instrumentation/SI-Table-Agilent-ICP-MS-7850.qmd)

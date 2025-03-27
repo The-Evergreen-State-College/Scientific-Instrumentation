@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2025-03-27">
+
+<title>Agilent ICP-MS 7850 – Scientific Instrumentation</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-52344140e666b6081bcf6167ae8c18d5.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dce78672afb57bec12c76ca12f811825.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/logo/Evergreen-full-name--white.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Scientific Instrumentation</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-meta-categories" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Meta-Categories</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-meta-categories">    
+        <li>
+    <a class="dropdown-item" href="../MetaCategory/DataLoggers.html">
+ <span class="dropdown-text">Data Loggers</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../MetaCategory/Imaging.html">
+ <span class="dropdown-text">Imaging</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../MetaCategory/Microscopy.html">
+ <span class="dropdown-text">Microscopy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../MetaCategory/Spectroscopy.html">
+ <span class="dropdown-text">Spectroscopy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../MetaCategory/Other.html">
+ <span class="dropdown-text">Other</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-instruments" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Instruments</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-instruments">    
+        <li>
+    <a class="dropdown-item" href="../Instrumentation/Instron-34SC-1.html">
+ <span class="dropdown-text">Instron 34SC-1</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-logbooks" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Logbooks</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-logbooks">    
+        <li>
+    <a class="dropdown-item" href="../Instrumentation/Logbooks.html">
+ <span class="dropdown-text">Index</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../Instrumentation/Disaster_Recovery_Table.html">
+ <span class="dropdown-text">Disaster Recovery</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/The-Evergreen-State-College/Scientific-Instrumentation">
+            Source Code
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues">
+            Submit ticket
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a>
+  <ul class="collapse">
+  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How it works</a></li>
+  <li><a href="#key-features-and-capabilities" id="toc-key-features-and-capabilities" class="nav-link" data-scroll-target="#key-features-and-capabilities">Key Features and Capabilities</a></li>
+  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
+  </ul></li>
+  <li><a href="#technical-details" id="toc-technical-details" class="nav-link" data-scroll-target="#technical-details">Technical Details</a></li>
+  <li><a href="#manuals" id="toc-manuals" class="nav-link" data-scroll-target="#manuals">Manuals</a>
+  <ul class="collapse">
+  <li><a href="#sop-standard-operating-procedure" id="toc-sop-standard-operating-procedure" class="nav-link" data-scroll-target="#sop-standard-operating-procedure">(SOP) Standard Operating Procedure</a></li>
+  </ul></li>
+  <li><a href="#instrument-table" id="toc-instrument-table" class="nav-link" data-scroll-target="#instrument-table">Instrument Table</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
+<!-- main -->
+<main class="content column-page-right" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Agilent ICP-MS 7850</h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-page-right">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 27, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="..\assets/images/Agilent-ICP-MS-7850.png" title="Agilent ICP-MS 7850" class="img-fluid quarto-figure quarto-figure-center figure-img" width="200"></p>
+</figure>
+</div>
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>Inductively Coupled Plasma Mass Spectrometry (ICP-MS) is an advanced analytical technique used to detect and quantify trace elements and isotopes in a wide variety of samples, from environmental waters to biological tissues. Renowned for its exceptional sensitivity—capable of detecting elements at parts-per-trillion (ppt) levels—and broad elemental coverage, ICP-MS combines the high-temperature ionization power of an inductively coupled plasma (ICP) with the precise mass analysis of a mass spectrometer (MS).</p>
+<p>The Agilent 7850 ICP-MS is a high-performance, single quadrupole inductively coupled plasma mass spectrometer designed for efficient and reliable trace element analysis across a wide range of sample types. Engineered to streamline laboratory workflows, it can handle samples with up to 25% total dissolved solids (TDS) thanks to its Ultra High Matrix Introduction (UHMI) technology, reducing the need for time-consuming dilutions. The instrument features a helium-mode collision cell and half-mass correction to eliminate polyatomic and doubly charged ion interferences, simplifying method development and ensuring accurate results. Paired with the intuitive ICP-MS MassHunter software, the 7850 offers preset methods, automated setup via the Method Wizard, and smart tools like Outlier Conditional Formatting (OCF) and Early Maintenance Feedback (EMF) to enhance productivity and data quality. Ideal for routine and regulated applications in environmental, food safety, and pharmaceutical testing, the Agilent 7850 combines robust performance with user-friendly operation to deliver fast, precise, and reproducible elemental analysis.</p>
+<section id="how-it-works" class="level3">
+<h3 class="anchored" data-anchor-id="how-it-works">How it works</h3>
+<p>ICP-MS operates through a multi-step process:</p>
+<ol type="1">
+<li><p>Sample Introduction: The sample, typically a liquid, is introduced into the system via a nebulizer, which converts it into a fine aerosol. This aerosol is carried by an inert gas (usually argon) into the plasma.</p></li>
+<li><p>Plasma Ionization: The aerosol enters the inductively coupled plasma, a highly energized gas sustained by radiofrequency energy in a torch assembly. Operating at temperatures of 6,000–10,000 K, the plasma atomizes the sample, breaking molecular bonds, and ionizes the resulting atoms by stripping off electrons. This creates a cloud of positively charged ions representative of the sample’s elemental composition.</p></li>
+<li><p>Ion Extraction: The ions are extracted from the plasma through a series of cones (sampler and skimmer cones) into a high-vacuum environment. These cones focus the ion beam while minimizing neutral particles and photons that could interfere with detection.</p></li>
+<li><p>Mass Separation: The ion beam enters the mass spectrometer, typically a quadrupole, which acts as a mass filter. The quadrupole uses oscillating electric fields to selectively allow ions of specific mass-to-charge ratios (m/z) to pass through, separating them based on their elemental or isotopic mass.</p></li>
+<li><p>Detection: The filtered ions strike a detector—often an electron multiplier or dynode system—which converts the ion impacts into electrical signals. These signals are amplified and processed to produce a spectrum, where peak intensities correlate to element concentrations.</p></li>
+<li><p>Data Analysis: Software interprets the mass spectrum, matching m/z peaks to known elements or isotopes and quantifying their abundance using calibration standards. Advanced systems can correct for interferences (e.g., polyatomic ions) using collision/reaction cells or mathematical adjustments.</p></li>
+</ol>
+</section>
+<section id="key-features-and-capabilities" class="level3">
+<h3 class="anchored" data-anchor-id="key-features-and-capabilities">Key Features and Capabilities</h3>
+<ul>
+<li><strong>Sensitivity and Range:</strong> ICP-MS can detect elements across the periodic table, from lithium to uranium, at concentrations as low as ppt, making it ideal for ultra-trace analysis.</li>
+<li><strong>Interference Management:</strong> Techniques like helium collision mode or reaction gases (e.g., ammonia) mitigate spectral overlaps from polyatomic ions (e.g., ArCl+ interfering with As+), enhancing accuracy.</li>
+<li><strong>High Throughput:</strong> Automated sample introduction and rapid multi-element analysis enable hundreds of samples per day.</li>
+<li><strong>Versatility:</strong> It handles diverse matrices—liquids, solids (with laser ablation), or gases—after appropriate preparation.</li>
+</ul>
+</section>
+<section id="notes" class="level3">
+<h3 class="anchored" data-anchor-id="notes">Notes</h3>
+<ul>
+<li>ICP-MS requires careful sample preparation to avoid matrix effects (e.g., high salt content suppressing signals) and can be sensitive to isobaric interferences without proper mitigation.</li>
+<li>Calibration standards, quality control samples, and blank measurements are essential for accurate quantification and data validation.</li>
+<li>Regular maintenance, cleaning, and calibration are crucial to ensure instrument performance and data integrity.</li>
+</ul>
+</section>
+</section>
+<section id="technical-details" class="level2">
+<h2 class="anchored" data-anchor-id="technical-details">Technical Details</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 69%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Specification</strong></th>
+<th><strong>Details</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Model</strong></td>
+<td>Agilent 7850 ICP-MS (Single Quadrupole)</td>
+</tr>
+<tr class="even">
+<td><strong>Mass Range</strong></td>
+<td>2–260 amu (atomic mass units)</td>
+</tr>
+<tr class="odd">
+<td><strong>Sensitivity</strong></td>
+<td>&gt;500 Mcps/ppm (at 10 µg/L, e.g., for In at m/z 115)</td>
+</tr>
+<tr class="even">
+<td><strong>Detection Limits</strong></td>
+<td>&lt;1 ppt (parts per trillion) for most elements</td>
+</tr>
+<tr class="odd">
+<td><strong>Dynamic Range</strong></td>
+<td>11 orders of magnitude (0.1 cps to &gt;10^9 cps)</td>
+</tr>
+<tr class="even">
+<td><strong>Plasma RF Power</strong></td>
+<td>500–1600 W, adjustable</td>
+</tr>
+<tr class="odd">
+<td><strong>Plasma Gas Flow</strong></td>
+<td>Argon, ~15 L/min (typical operating condition)</td>
+</tr>
+<tr class="even">
+<td><strong>Nebulizer Gas Flow</strong></td>
+<td>0.7–1.2 L/min, software-controlled</td>
+</tr>
+<tr class="odd">
+<td><strong>Sample Introduction</strong></td>
+<td>Concentric nebulizer with UHMI (Ultra High Matrix Introduction)</td>
+</tr>
+<tr class="even">
+<td><strong>Matrix Tolerance</strong></td>
+<td>Up to 25% total dissolved solids (TDS) with UHMI</td>
+</tr>
+<tr class="odd">
+<td><strong>Interference Removal</strong></td>
+<td>Helium collision mode (KED), half-mass correction</td>
+</tr>
+<tr class="even">
+<td><strong>Quadrupole Resolution</strong></td>
+<td>~0.7 amu (FWHM, full width at half maximum)</td>
+</tr>
+<tr class="odd">
+<td><strong>Scan Speed</strong></td>
+<td>&gt;5000 amu/sec</td>
+</tr>
+<tr class="even">
+<td><strong>Data Acquisition Rate</strong></td>
+<td>Up to 10 Hz (10 spectra per second)</td>
+</tr>
+<tr class="odd">
+<td><strong>Ion Optics</strong></td>
+<td>High-efficiency extraction lenses, off-axis design</td>
+</tr>
+<tr class="even">
+<td><strong>Detector</strong></td>
+<td>Dual-stage electron multiplier (analog and pulse counting)</td>
+</tr>
+<tr class="odd">
+<td><strong>Vacuum System</strong></td>
+<td>Three-stage differential pumping, turbomolecular pumps</td>
+</tr>
+<tr class="even">
+<td><strong>Power Requirements</strong></td>
+<td>200–240 VAC, 50/60 Hz, single phase, 5 kVA max</td>
+</tr>
+<tr class="odd">
+<td><strong>Operating Temperature</strong></td>
+<td>+15°C to +30°C (+59°F to +86°F)</td>
+</tr>
+<tr class="even">
+<td><strong>Storage Temperature</strong></td>
+<td>-20°C to +60°C (-4°F to +140°F)</td>
+</tr>
+<tr class="odd">
+<td><strong>Humidity Range</strong></td>
+<td>20% to 80% non-condensing</td>
+</tr>
+<tr class="even">
+<td><strong>Height</strong></td>
+<td>597 mm (23.5 in)</td>
+</tr>
+<tr class="odd">
+<td><strong>Width</strong></td>
+<td>840 mm (33.1 in)</td>
+</tr>
+<tr class="even">
+<td><strong>Depth</strong></td>
+<td>590 mm (23.2 in)</td>
+</tr>
+<tr class="odd">
+<td><strong>Weight</strong></td>
+<td>~115 kg (254 lb)</td>
+</tr>
+<tr class="even">
+<td><strong>Software</strong></td>
+<td>ICP-MS MassHunter (with Method Wizard, OCF, EMF features)</td>
+</tr>
+<tr class="odd">
+<td><strong>Safety Features</strong></td>
+<td>Plasma interlocks, exhaust monitoring, emergency shutdown</td>
+</tr>
+<tr class="even">
+<td><strong>Standards Compliance</strong></td>
+<td>Supports EPA, USP, ICH, and ISO methods (e.g., EPA 200.8, USP &lt;232&gt;)</td>
+</tr>
+<tr class="odd">
+<td><strong>Accessory Compatibility</strong></td>
+<td>Autosampler (e.g., SPS 4), laser ablation, discrete sampling systems</td>
+</tr>
+<tr class="even">
+<td><strong>Cooling Water Requirement</strong></td>
+<td>2.5–4 L/min, 15–30°C, external chiller recommended</td>
+</tr>
+<tr class="odd">
+<td><strong>Noise Level</strong></td>
+<td>&lt;60 dB during operation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="manuals" class="level2">
+<h2 class="anchored" data-anchor-id="manuals">Manuals</h2>
+<section id="sop-standard-operating-procedure" class="level3">
+<h3 class="anchored" data-anchor-id="sop-standard-operating-procedure">(SOP) Standard Operating Procedure</h3>
+</section>
+</section>
+<section id="instrument-table" class="level2">
+<h2 class="anchored" data-anchor-id="instrument-table">Instrument Table</h2>
+<p><a href="../Instrumentation/SI-Table-Agilent-ICP-MS-7850.html">SI-Table-Agilent-ICP-MS-7850</a></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

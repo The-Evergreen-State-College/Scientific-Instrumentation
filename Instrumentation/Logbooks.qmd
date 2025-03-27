@@ -12,4 +12,5 @@ format:
 
 # Index
 
+- [Agilent ICP-MS 7850](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/4)
 - [Instron 34SC-1](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2)

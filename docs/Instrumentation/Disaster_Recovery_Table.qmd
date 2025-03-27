@@ -24,7 +24,7 @@ All images can be found here: `\\SC-Vanadium\Scientific_Instrumentation_Images`
 
 # Table
 
-**Total Storage: ~836 GB**
+**Total Storage: ~871 GB**
 
 | #  | Scientific Instrument                     | Computer Hostname         | Image Name                                      | Image Size | Image Date  | Notes                                                                 |
 |----|-------------------------------------------|---------------------------|-------------------------------------------------|------------|-------------|----------------------------------------------------------------------|
@@ -58,6 +58,7 @@ All images can be found here: `\\SC-Vanadium\Scientific_Instrumentation_Images`
 | 28 | [Olympus BX63 Upright Microscope](Olympus BX63 Upright Microscope) | [SC-Olympus-BX63](Olympus BX63 Upright Microscope Information Table) | Olympus-BX63-20180130-img                       | 25 GB      | 2018-01-30  |                                                                      |
 | 29 | [Packard Tri-Carb 2200CA](Packard Tri-Carb 2200CA) | [SC-Packard-TriCarb](Packard Tri-Carb 2200CA Information Table) | PACKARD-TRICARD-2200CA-20180129-img             | 10 MB      | 2018-01-29  | There's a -part image also available.                                |
 | 30 | [Instron 34SC-1](/Instrumentation/Instron-34SC-1.qmd) | [SC-Instron-34SC-1](/Instrumentation/SI-Table-Instron-34SC-1.qmd) | Instron-34SC-1-img  | 29.4 GB     | 2025-03-17  |                                                                      |
+| 31 | [Agilent ICP-MS 7850](/Instrumentation/Agilent-ICP-MS-7850.qmd) | [SC-ICP-MS-7850](/Instrumentation/SI-Table-Agilent-ICP-MS-7850.qmd) | SC-Agilent-ICP-MS-7850-img  | 35 GB     | 2025-03-27  |                            |
 
 : Table {.striped .bordered .hover}
 

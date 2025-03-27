@@ -37,8 +37,6 @@ website:
             href: "Instrumentation/Logbooks.qmd"
           - text: "Disaster Recovery"
             href: "Instrumentation/Disaster_Recovery_Table.qmd"
-          - text: "Instron 34SC-1"
-            href: "https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2"  
     tools:
       - icon: github
         menu:

@@ -7,6 +7,7 @@ format:
     toc-location: left
     toc-title: Contents
     css: styles.css
+    page-layout: full
 ---
 
 
@@ -72,5 +73,3 @@ The 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N
 ## Instrument Table
 [SI-Table-Instron-34SC-1](/Instrumentation/SI-Table-Instron-34SC-1.qmd)
 
-## Disaster Recovery Table
-[Disaster Recovery Table](/Instrumentation/Disaster_Recovery_Table.qmd)

@@ -9,7 +9,7 @@ format:
 
 
 
-# Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System
+# Table
 
 | Field                          | Value |
 |--------------------------------|-------|
@@ -41,3 +41,8 @@ format:
 | Software_Product_Name          | BlueHill Elements    |
 | Software_Version               | 4.48     |
 | Software_Last_Updated_Date     | 2025-03      |
+
+: Table {.bordered .hover}
+
+## Disaster Recovery Table
+[Disaster Recovery Table](/Instrumentation/Disaster_Recovery_Table.qmd)

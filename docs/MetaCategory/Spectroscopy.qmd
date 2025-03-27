@@ -1,0 +1,13 @@
+---
+title: "Meta-Category: Spectroscopy"
+format:
+  html:
+    theme: solar 
+---
+
+
+::: {layout-ncol=2}
+
+[![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
+
+:::

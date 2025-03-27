@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Data loggers\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#data-loggers",
@@ -32,7 +32,7 @@
     "href": "index.html#spectroscopy",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Spectroscopy"
+    "text": "Meta-Category: Spectroscopy\n\n\n\n\n\n\n\nAgilent ICP-MS 7850"
   },
   {
     "objectID": "index.html#other",
@@ -42,11 +42,32 @@
     "text": "Meta-Category: Other\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
+    "objectID": "MetaCategory/Spectroscopy.html",
+    "href": "MetaCategory/Spectroscopy.html",
+    "title": "Meta-Category: Spectroscopy",
+    "section": "",
+    "text": "Agilent ICP-MS 7850"
+  },
+  {
     "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
     "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
     "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
     "section": "",
-    "text": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System\n\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03"
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "section": "",
+    "text": "Disaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/Logbooks.html",
+    "href": "Instrumentation/Logbooks.html",
+    "title": "Scientific Instrumentation Logbooks",
+    "section": "",
+    "text": "Index\n\nAgilent ICP-MS 7850\nInstron 34SC-1"
   },
   {
     "objectID": "Instrumentation/Instron-34SC-1.html#description",
@@ -77,25 +98,88 @@
     "text": "Instrument Table\nSI-Table-Instron-34SC-1"
   },
   {
-    "objectID": "Instrumentation/Instron-34SC-1.html#disaster-recovery-table",
-    "href": "Instrumentation/Instron-34SC-1.html#disaster-recovery-table",
-    "title": "Instron 34SC-1 Universal Testing System",
-    "section": "Disaster Recovery Table",
-    "text": "Disaster Recovery Table\nDisaster Recovery Table"
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#description",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#description",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Description",
+    "text": "Description\nInductively Coupled Plasma Mass Spectrometry (ICP-MS) is an advanced analytical technique used to detect and quantify trace elements and isotopes in a wide variety of samples, from environmental waters to biological tissues. Renowned for its exceptional sensitivity—capable of detecting elements at parts-per-trillion (ppt) levels—and broad elemental coverage, ICP-MS combines the high-temperature ionization power of an inductively coupled plasma (ICP) with the precise mass analysis of a mass spectrometer (MS).\nThe Agilent 7850 ICP-MS is a high-performance, single quadrupole inductively coupled plasma mass spectrometer designed for efficient and reliable trace element analysis across a wide range of sample types. Engineered to streamline laboratory workflows, it can handle samples with up to 25% total dissolved solids (TDS) thanks to its Ultra High Matrix Introduction (UHMI) technology, reducing the need for time-consuming dilutions. The instrument features a helium-mode collision cell and half-mass correction to eliminate polyatomic and doubly charged ion interferences, simplifying method development and ensuring accurate results. Paired with the intuitive ICP-MS MassHunter software, the 7850 offers preset methods, automated setup via the Method Wizard, and smart tools like Outlier Conditional Formatting (OCF) and Early Maintenance Feedback (EMF) to enhance productivity and data quality. Ideal for routine and regulated applications in environmental, food safety, and pharmaceutical testing, the Agilent 7850 combines robust performance with user-friendly operation to deliver fast, precise, and reproducible elemental analysis.\n\nHow it works\nICP-MS operates through a multi-step process:\n\nSample Introduction: The sample, typically a liquid, is introduced into the system via a nebulizer, which converts it into a fine aerosol. This aerosol is carried by an inert gas (usually argon) into the plasma.\nPlasma Ionization: The aerosol enters the inductively coupled plasma, a highly energized gas sustained by radiofrequency energy in a torch assembly. Operating at temperatures of 6,000–10,000 K, the plasma atomizes the sample, breaking molecular bonds, and ionizes the resulting atoms by stripping off electrons. This creates a cloud of positively charged ions representative of the sample’s elemental composition.\nIon Extraction: The ions are extracted from the plasma through a series of cones (sampler and skimmer cones) into a high-vacuum environment. These cones focus the ion beam while minimizing neutral particles and photons that could interfere with detection.\nMass Separation: The ion beam enters the mass spectrometer, typically a quadrupole, which acts as a mass filter. The quadrupole uses oscillating electric fields to selectively allow ions of specific mass-to-charge ratios (m/z) to pass through, separating them based on their elemental or isotopic mass.\nDetection: The filtered ions strike a detector—often an electron multiplier or dynode system—which converts the ion impacts into electrical signals. These signals are amplified and processed to produce a spectrum, where peak intensities correlate to element concentrations.\nData Analysis: Software interprets the mass spectrum, matching m/z peaks to known elements or isotopes and quantifying their abundance using calibration standards. Advanced systems can correct for interferences (e.g., polyatomic ions) using collision/reaction cells or mathematical adjustments.\n\n\n\nKey Features and Capabilities\n\nSensitivity and Range: ICP-MS can detect elements across the periodic table, from lithium to uranium, at concentrations as low as ppt, making it ideal for ultra-trace analysis.\nInterference Management: Techniques like helium collision mode or reaction gases (e.g., ammonia) mitigate spectral overlaps from polyatomic ions (e.g., ArCl+ interfering with As+), enhancing accuracy.\nHigh Throughput: Automated sample introduction and rapid multi-element analysis enable hundreds of samples per day.\nVersatility: It handles diverse matrices—liquids, solids (with laser ablation), or gases—after appropriate preparation.\n\n\n\nNotes\n\nICP-MS requires careful sample preparation to avoid matrix effects (e.g., high salt content suppressing signals) and can be sensitive to isobaric interferences without proper mitigation.\nCalibration standards, quality control samples, and blank measurements are essential for accurate quantification and data validation.\nRegular maintenance, cleaning, and calibration are crucial to ensure instrument performance and data integrity."
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#technical-details",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#technical-details",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nModel\nAgilent 7850 ICP-MS (Single Quadrupole)\n\n\nMass Range\n2–260 amu (atomic mass units)\n\n\nSensitivity\n&gt;500 Mcps/ppm (at 10 µg/L, e.g., for In at m/z 115)\n\n\nDetection Limits\n&lt;1 ppt (parts per trillion) for most elements\n\n\nDynamic Range\n11 orders of magnitude (0.1 cps to &gt;10^9 cps)\n\n\nPlasma RF Power\n500–1600 W, adjustable\n\n\nPlasma Gas Flow\nArgon, ~15 L/min (typical operating condition)\n\n\nNebulizer Gas Flow\n0.7–1.2 L/min, software-controlled\n\n\nSample Introduction\nConcentric nebulizer with UHMI (Ultra High Matrix Introduction)\n\n\nMatrix Tolerance\nUp to 25% total dissolved solids (TDS) with UHMI\n\n\nInterference Removal\nHelium collision mode (KED), half-mass correction\n\n\nQuadrupole Resolution\n~0.7 amu (FWHM, full width at half maximum)\n\n\nScan Speed\n&gt;5000 amu/sec\n\n\nData Acquisition Rate\nUp to 10 Hz (10 spectra per second)\n\n\nIon Optics\nHigh-efficiency extraction lenses, off-axis design\n\n\nDetector\nDual-stage electron multiplier (analog and pulse counting)\n\n\nVacuum System\nThree-stage differential pumping, turbomolecular pumps\n\n\nPower Requirements\n200–240 VAC, 50/60 Hz, single phase, 5 kVA max\n\n\nOperating Temperature\n+15°C to +30°C (+59°F to +86°F)\n\n\nStorage Temperature\n-20°C to +60°C (-4°F to +140°F)\n\n\nHumidity Range\n20% to 80% non-condensing\n\n\nHeight\n597 mm (23.5 in)\n\n\nWidth\n840 mm (33.1 in)\n\n\nDepth\n590 mm (23.2 in)\n\n\nWeight\n~115 kg (254 lb)\n\n\nSoftware\nICP-MS MassHunter (with Method Wizard, OCF, EMF features)\n\n\nSafety Features\nPlasma interlocks, exhaust monitoring, emergency shutdown\n\n\nStandards Compliance\nSupports EPA, USP, ICH, and ISO methods (e.g., EPA 200.8, USP &lt;232&gt;)\n\n\nAccessory Compatibility\nAutosampler (e.g., SPS 4), laser ablation, discrete sampling systems\n\n\nCooling Water Requirement\n2.5–4 L/min, 15–30°C, external chiller recommended\n\n\nNoise Level\n&lt;60 dB during operation"
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#manuals",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#manuals",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#instrument-table",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#instrument-table",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Agilent-ICP-MS-7850"
   },
   {
     "objectID": "Instrumentation/Disaster_Recovery_Table.html",
     "href": "Instrumentation/Disaster_Recovery_Table.html",
     "title": "Scientific Instrumentation Disaster Recovery Table",
     "section": "",
-    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Vanadium\\Scientific_Instrumentation_Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nTable\nTotal Storage: ~836 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-20180503-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-20180503-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\n\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\n\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-2\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP Diode Array 8452A\nsc-diodearray4\nHP-8452A-DiodeArray-img\n4.88 GB\n2016-06-22\n\n\n\n10\nHP Diode Array 8452A\nsc-diodearray5\nHP-8452A-DiodeArray-img\n4.88 GB\n2016-06-22\n\n\n\n11\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\n\n\n\n12\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n13\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n14\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n15\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n16\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n17\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n18\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n19\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\n\n\n\n20\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\n\n\n\n21\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n22\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n23\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n24\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n25\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n26\nVarian NMR-400\nlocal\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n27\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n28\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n29\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nThere’s a -part image also available.\n\n\n30\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17"
+    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Vanadium\\Scientific_Instrumentation_Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nTable\nTotal Storage: ~871 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-20180503-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-20180503-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\n\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\n\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-2\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP Diode Array 8452A\nsc-diodearray4\nHP-8452A-DiodeArray-img\n4.88 GB\n2016-06-22\n\n\n\n10\nHP Diode Array 8452A\nsc-diodearray5\nHP-8452A-DiodeArray-img\n4.88 GB\n2016-06-22\n\n\n\n11\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\n\n\n\n12\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n13\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n14\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n15\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n16\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n17\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n18\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n19\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\n\n\n\n20\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\n\n\n\n21\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n22\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n23\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n24\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n25\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n26\nVarian NMR-400\nlocal\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n27\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n28\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n29\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nThere’s a -part image also available.\n\n\n30\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n31\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27"
   },
   {
-    "objectID": "Instrumentation/Logbooks.html",
-    "href": "Instrumentation/Logbooks.html",
-    "title": "Scientific Instrumentation Logbooks",
+    "objectID": "Instrumentation/Instrument_Template.html",
+    "href": "Instrumentation/Instrument_Template.html",
+    "title": "Instrument Template",
     "section": "",
-    "text": "Index\n\nInstron 34SC-1"
+    "text": "Make a copy of this template to create a new instrument page."
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#description",
+    "href": "Instrumentation/Instrument_Template.html#description",
+    "title": "Instrument Template",
+    "section": "Description",
+    "text": "Description"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#technical-details",
+    "href": "Instrumentation/Instrument_Template.html#technical-details",
+    "title": "Instrument Template",
+    "section": "Technical Details",
+    "text": "Technical Details"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#manuals",
+    "href": "Instrumentation/Instrument_Template.html#manuals",
+    "title": "Instrument Template",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#instrument-table",
+    "href": "Instrumentation/Instrument_Template.html#instrument-table",
+    "title": "Instrument Template",
+    "section": "Instrument Table",
+    "text": "Instrument Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "section": "",
+    "text": "Disaster Recovery Table"
   },
   {
     "objectID": "Instrumentation/SI-Table-Schema.html",
