@@ -1,8 +1,5 @@
 ---
 title: "Meta-Category: Other"
-format:
-  html:
-    theme: solar 
 ---
 
 

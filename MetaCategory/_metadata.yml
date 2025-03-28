@@ -1,6 +1,6 @@
 date: today
 format:
   html:
-    theme: solar 
+    theme: flatly
     toc: false
     page-layout: full

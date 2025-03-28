@@ -2,7 +2,6 @@
 title: "Instron 34SC-1 Universal Testing System"
 format:
   html:
-    theme: solar 
     toc: true
     toc-location: left
     toc-title: Contents

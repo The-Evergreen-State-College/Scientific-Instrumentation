@@ -1,7 +1,7 @@
 date: today
 format:
   html:
-    theme: solar 
+    theme: flatly
     toc: true
     toc-location: left
     toc-title: Contents

@@ -2,7 +2,7 @@ title: "Scientific Instrumentation at The Evergreen State College"
 date: today
 format:
   html:
-    theme: solar 
+    theme: flatly
     toc: true
     toc-location: left
     toc-title: Contents

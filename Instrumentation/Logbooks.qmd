@@ -3,7 +3,6 @@ title: "Scientific Instrumentation Logbooks"
 Date: last-modified
 format:
   html:
-    theme: solar
     toc: false
     toc-location: right
     toc-title: Contents
