@@ -1,0 +1,52 @@
+---
+title: "Molecular Devices SpectraMax iD3 Microplate Reader"
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=300}
+
+
+## Description
+
+The Molecular Devices SpectraMax iD3 Multi-Mode Microplate Reader is a versatile, high-performance instrument designed for a wide range of laboratory applications in life sciences research. It offers three primary detection modes: absorbance, fluorescence, and luminescence ,making it suitable for assays such as ELISAs, nucleic acid and protein quantification, and microbial growth studies. The iD3 is equipped with a large, high-resolution touchscreen interface, allowing users to set up custom protocols, run experiments, and access preconfigured protocols without needing a dedicated computer workstation. Its built-in near-field communication (NFC) functionality enables personalized workflows, letting users tap NFC tags to quickly access custom protocols and results, which is particularly useful in multi-user labs.
+The optical system of the SpectraMax iD3 features a xenon flash lamp and an ultra-cooled photomultiplier tube (PMT) detector, which reduces background noise to provide excellent sensitivity and a wide dynamic range. This makes it ideal for demanding applications requiring high precision. The instrument supports flexible temperature control, adjustable from ambient up to 66°C, enabling temperature-sensitive assays. It also includes the QuickSync feature, which pushes data to any computer on the same network in an Excel-compatible format, streamlining data management. The iD3 is compatible with 6- to 384-well microplate formats and offers orbital shaking for uniform sample mixing.
+Powered by Molecular Devices’ industry-leading SoftMax Pro Software, the iD3 provides over 160 ready-to-run protocols, advanced data analysis tools, and 21 curve-fit options. For regulated environments, the SoftMax Pro GxP Compliance Software ensures compliance with FDA 21 CFR Part 11 and EudraLex Annex 11, offering secure data integrity for GMP/GLP labs. The instrument is modular and upgradeable, with options to expand capabilities for additional assays, though it does not include advanced modes like TR-FRET or BRET, which are available in the iD5 model.
+
+## Technical Details
+
+| Specification                          | Details                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------|
+| Read modes                             | Absorbance, Fluorescence (top/bottom read), Luminescence (top read)     |
+| Wavelength ranges                      | Abs: 230 - 1000 nm, FL Ex: 250 - 830 nm, FL Em: 270 - 850 nm, Lumi: 300 - 850 nm |
+| Wavelength selection                   | Monochromator tunable in 1-nm increments                                |
+| Absorbance photometric accuracy/linearity | < ±0.010 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV                          |
+| Absorbance photometric precision/repeatability | < ±0.003 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV                     |
+| Sensitivity top read optimized         | FL: 1 pM fluorescein 96 well, 1 pM fluorescein 384 well, Lumi: 2 pM ATP 96 well, 4 pM |
+| Light source(s)                        | High power xenon flash lamp                                             |
+| Detector(s)                            | Silicon photodiode, Ultra-cooled photomultiplier tube                   |
+| Read types (endpoint, kinetic, etc)    | Endpoint, Kinetic, Spectrum scan, Well scan                             |
+| Read times                             | Abs: 28 seconds, FL: 21 seconds, Lumi: 21 seconds                      |
+| Plate shaking                          | Linear, Orbital, Double orbital                                         |
+| Injectors                              | true                                                                    |
+| Western blot                           | false                                                                   |
+| Stand-alone touchscreen operation      | true                                                                    |
+| Robotics / automation                  | true                                                                    |
+| Plate type(s)                          | 6-384 well plates                                                       |
+| Temperature control                    | true, Ambient + 5°C to 66°C                                             |
+| Dimensions                             | H 40.1 cm x W 53.2 cm x D 59.8 cm                                      |
+| Validation tools                       | true, Absorbance validation plate, Fluorescence validation plate, Luminescence validation plate, SoftMax® Pro GxP Software |
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader](/Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)

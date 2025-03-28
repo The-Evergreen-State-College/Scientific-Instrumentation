@@ -2,7 +2,6 @@
 title: "Scientific Instrumentation Table Schema"
 format:
   html:
-    theme: solar 
     toc: false
     css: styles.css
 ---
@@ -39,3 +38,5 @@ format:
 | Software_Product_Name          |       |
 | Software_Version               |       |
 | Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}

@@ -33,6 +33,8 @@ website:
             href: "Instrumentation/Agilent-ICP-MS-7850.qmd"
           - text: "Instron 34SC-1"
             href: "Instrumentation/Instron-34SC-1.qmd"
+          - text: "Molecular Devices SpectraMax iD3 Microplate Reader"
+            href: "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd"
       - text: "Logbooks"
         menu:
           - text: "Index"

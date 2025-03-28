@@ -1,0 +1,42 @@
+---
+title: "Scientific Instrumentation Table: Molecular Devices SpectraMax iD3 Microplate Reader"
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+# Table Schema
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | [SpectraMax iD3 Microplate Reader](https://www.moleculardevices.com/products/microplate-readers/multi-mode-readers/spectramax-id3-id5-readers#overview)      |
+| Instrument_Acquisition_Date    | 2025-03      |
+| Instrument_CommonName          | Plate-Reader      |
+| Instrument_Manufacturer        | [Molecular Devices](https://www.moleculardevices.com)      |
+| Instrument_Model               | [iD3](https://www.moleculardevices.com/products/microplate-readers/multi-mode-readers/spectramax-id3-id5-readers#overview)      |
+| Instrument_Serial#             | 2887      |
+| Instrument_Asset_Tag           | NA      |
+| Instrument_MAC                 | 00-13-95-50-FF-38      |
+| Instrument_IP                  | DHCP      |
+| Instrument_TurnKeySolution     | No      |
+| Instrument_Roaming             | No      |
+| Instrument_Building            | Lab I      |
+| Instrument_Floor               | 2      |
+| Instrument_Room                | 2050      |
+| Computer_Hostname              | SC-MD-iD3-PR      |
+| Computer_IP                    | DHCP      |
+| Computer_MAC                   | AC-B4-80-2F-5A-13      |
+| Computer_Make                  | Dell      |
+| Computer_Model                 | Precision 3680      |
+| Computer_Asset_Tag             | 12198      |
+| Computer_OS                    | Windows      |
+| Computer_OS_Version            | 11 Enterprise 24H2      |
+| Computer_RAM                   | 32 GB      |
+| Computer_HD                    | 500 GB      |
+| Software_Vendor                | Molecular Devices      |
+| Software_Product_Name          | SoftMax Pro     |
+| Software_Version               |  7.3.1     |
+| Software_Last_Updated_Date     |  2025-03     |
+
+: Table {.bordered .hover}
