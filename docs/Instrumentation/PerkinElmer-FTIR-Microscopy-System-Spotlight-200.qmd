@@ -1,0 +1,54 @@
+---
+title: "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/PerkinElmer-FT-IR-Spotlight-200-with-Spectrum-Two-Image.png "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"){fig-align="left" width=300}
+
+
+## Description
+
+The PerkinElmer Spotlight 200i is an integrated Fourier Transform Infrared (FTIR) microscopy system coupled with a Spectrum Two spectrometer. This instrument combines infrared spectroscopy with optical microscopy for molecular characterization of microscale samples and spatially-resolved chemical analysis. The system features dual-mode operation allowing both visible and infrared imaging of samples.
+
+The Spotlight 200i microscope enables both point-by-point spectral data collection and rapid infrared imaging using a linear array detector. It provides automated sample stage control, multiple objectives for different magnifications, and can be configured for transmission, reflection, and attenuated total reflection (ATR) sampling modes. The system is designed for applications in materials science, polymer analysis, pharmaceutical development, forensic science, and biomedical research where microscale chemical identification is required.
+
+Key capabilities include chemical mapping of heterogeneous samples, identifying contaminants, analyzing layer structures, and performing quality control on small samples or defined regions of larger specimens. The integration with the Spectrum Two spectrometer provides a complete spectroscopic solution with extended spectral range capabilities.
+
+## Technical Details
+
+| Specification | Value |
+|---------------|-------|
+| Microscope Model | Spotlight 200i |
+| Spectrometer | Integrated Spectrum Two FTIR |
+| Spectral Range | 7,800 - 450 cm⁻¹ (with standard KBr beamsplitter) |
+| Spectral Resolution | 1 cm⁻¹ - 64 cm⁻¹ (adjustable) |
+| Detector Options | MCT (Mercury Cadmium Telluride), Linear MCT Array |
+| Imaging Modes | Transmission, Reflectance, ATR |
+| Pixel Size | 1.56 μm (minimum) - 25 μm (maximum) |
+| Maximum Image Area | 10 × 10 cm |
+| Sample Viewing | Digital Color Camera with 10× and 40× objectives |
+| Stage Control | Computer-controlled, motorized XYZ stage |
+| Software | Spectrum 10, Spotlight, ImageAnalyze |
+| Liquid Nitrogen Cooling | Required for MCT detector (4-hour minimum hold time) |
+| Optical Purge | Available for microscope and sample compartment |
+| Dimensions (approx.) | 71 × 73 × 51 cm (W × D × H) |
+| Weight | Approximately 84 kg (combined system) |
+| Power Requirements | 100-240 V, 50/60 Hz |
+| Operating Temperature | 15-35°C |
+| Operating Humidity | <80% RH, non-condensing |
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200](/Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd)

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Data loggers\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#data-loggers",
@@ -32,7 +32,7 @@
     "href": "index.html#spectroscopy",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two"
+    "text": "Meta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
   },
   {
     "objectID": "index.html#other",
@@ -46,63 +46,70 @@
     "href": "MetaCategory/Spectroscopy.html",
     "title": "Meta-Category: Spectroscopy",
     "section": "",
-    "text": "Agilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two"
+    "text": "Agilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
   },
   {
     "objectID": "Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.html",
     "href": "Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.html",
     "title": "Scientific Instrumentation Table Schema: PerkinElmer FT-IR Spectrum Two",
     "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectrum Two FT-IR\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpectrum Two\n\n\nInstrument_Serial#\n126501\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-01\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-73-32\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nEME12201\n\n\nComputer_OS\nWindows 11\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectrum Two FT-IR\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpectrum Two\n\n\nInstrument_Serial#\n126501\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-01\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-73-32\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nEME12201\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
-    "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
-    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "objectID": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
+    "href": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
+    "title": "Scientific Instrumentation Table: Molecular Devices SpectraMax iD3 Microplate Reader",
     "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectraMax iD3 Microplate Reader\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nPlate-Reader\n\n\nInstrument_Manufacturer\nMolecular Devices\n\n\nInstrument_Model\niD3\n\n\nInstrument_Serial#\n2887\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-13-95-50-FF-38\n\n\nInstrument_IP\nDHCP\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n2\n\n\nInstrument_Room\n2050\n\n\nComputer_Hostname\nSC-MD-iD3-PR\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\nAC-B4-80-2F-5A-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 3680\n\n\nComputer_Asset_Tag\n12198\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 Enterprise 24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n500 GB\n\n\nSoftware_Vendor\nMolecular Devices\n\n\nSoftware_Product_Name\nSoftMax Pro\n\n\nSoftware_Version\n7.3.1\n\n\nSoftware_Last_Updated_Date\n2025-03"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
-    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
-    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
     "section": "",
     "text": "Disaster Recovery Table"
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
-    "title": "PerkinElmer FT-IR Spectrum Two",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
     "section": "Description",
-    "text": "Description\nThe PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.\nThe instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems."
+    "text": "Description\nThe PerkinElmer Spotlight 200i is an integrated Fourier Transform Infrared (FTIR) microscopy system coupled with a Spectrum Two spectrometer. This instrument combines infrared spectroscopy with optical microscopy for molecular characterization of microscale samples and spatially-resolved chemical analysis. The system features dual-mode operation allowing both visible and infrared imaging of samples.\nThe Spotlight 200i microscope enables both point-by-point spectral data collection and rapid infrared imaging using a linear array detector. It provides automated sample stage control, multiple objectives for different magnifications, and can be configured for transmission, reflection, and attenuated total reflection (ATR) sampling modes. The system is designed for applications in materials science, polymer analysis, pharmaceutical development, forensic science, and biomedical research where microscale chemical identification is required.\nKey capabilities include chemical mapping of heterogeneous samples, identifying contaminants, analyzing layer structures, and performing quality control on small samples or defined regions of larger specimens. The integration with the Spectrum Two spectrometer provides a complete spectroscopic solution with extended spectral range capabilities."
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
-    "title": "PerkinElmer FT-IR Spectrum Two",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
     "section": "Technical Details",
-    "text": "Technical Details\n\n\n\nSpecification [1]\nValue\n\n\n\n\n21 CFR Part 11 Compatible\nYes\n\n\nDepth\n30.0 cm\n\n\nDetector Type\nLiTaO₃\n\n\nHeight\n21.0 cm\n\n\nModel Name\nSpectrum Two FT-IR Spectrometer (LiTaO₃ Detector)\n\n\nOperating Range\n5 - 45 °C\n\n\nPortable\nYes\n\n\nProduct Brand Name\nSpectrum Two\n\n\nWarranty\n1 year\n\n\nWave Length\n8\n\n\nWave Length Range\n8,300 – 350 cm⁻¹\n\n\nWeight\n13.0 kg\n\n\nWidth\n45.0 cm\n\n\n\n[1]: Spectrum Two Specifications"
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nValue\n\n\n\n\nMicroscope Model\nSpotlight 200i\n\n\nSpectrometer\nIntegrated Spectrum Two FTIR\n\n\nSpectral Range\n7,800 - 450 cm⁻¹ (with standard KBr beamsplitter)\n\n\nSpectral Resolution\n1 cm⁻¹ - 64 cm⁻¹ (adjustable)\n\n\nDetector Options\nMCT (Mercury Cadmium Telluride), Linear MCT Array\n\n\nImaging Modes\nTransmission, Reflectance, ATR\n\n\nPixel Size\n1.56 μm (minimum) - 25 μm (maximum)\n\n\nMaximum Image Area\n10 × 10 cm\n\n\nSample Viewing\nDigital Color Camera with 10× and 40× objectives\n\n\nStage Control\nComputer-controlled, motorized XYZ stage\n\n\nSoftware\nSpectrum 10, Spotlight, ImageAnalyze\n\n\nLiquid Nitrogen Cooling\nRequired for MCT detector (4-hour minimum hold time)\n\n\nOptical Purge\nAvailable for microscope and sample compartment\n\n\nDimensions (approx.)\n71 × 73 × 51 cm (W × D × H)\n\n\nWeight\nApproximately 84 kg (combined system)\n\n\nPower Requirements\n100-240 V, 50/60 Hz\n\n\nOperating Temperature\n15-35°C\n\n\nOperating Humidity\n&lt;80% RH, non-condensing"
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
-    "title": "PerkinElmer FT-IR Spectrum Two",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
     "section": "Manuals",
     "text": "Manuals\n\n(SOP) Standard Operating Procedure"
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
-    "title": "PerkinElmer FT-IR Spectrum Two",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
     "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Spectrum-Two"
+    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200"
   },
   {
     "objectID": "Instrumentation/Logbooks.html",
     "href": "Instrumentation/Logbooks.html",
     "title": "Scientific Instrumentation Logbooks",
     "section": "",
-    "text": "Index\n\nAgilent ICP-MS 7850\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two"
+    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
   },
   {
     "objectID": "Instrumentation/Instron-34SC-1.html#description",
@@ -165,7 +172,7 @@
     "href": "Instrumentation/Disaster_Recovery_Table.html",
     "title": "Scientific Instrumentation Disaster Recovery Table",
     "section": "",
-    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Vanadium\\Scientific_Instrumentation_Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nTable\nTotal Storage: ~871 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\nDecommissioned\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\nDecommissioned\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-#\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\nDecommissioned\n\n\n10\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n11\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n12\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n13\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n14\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n15\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n16\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n17\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\nDecommissioned\n\n\n18\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\nDecommissioned\n\n\n19\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n20\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n21\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n22\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n23\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n24\nVarian NMR-400\nSC-NMR\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n25\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n26\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n27\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nDecommissioned\n\n\n28\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n29\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27\n\n\n\n30\nMolecular Devices SpectraMax iD3\nSC-MD-iD3-PL\nSC-MD-iD3-PL-img\n35 GB\n2025-03-27"
+    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Vanadium\\Scientific_Instrumentation_Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nTable\nTotal Storage: ~871 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\nDecommissioned\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\nDecommissioned\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-#\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\nDecommissioned\n\n\n10\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n11\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n12\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n13\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n14\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n15\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n16\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n17\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\nDecommissioned\n\n\n18\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\nDecommissioned\n\n\n19\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n20\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n21\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n22\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n23\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\n\n\n\n24\nVarian NMR-400\nSC-NMR\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n25\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n26\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n27\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nDecommissioned\n\n\n28\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n29\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27\n\n\n\n30\nMolecular Devices SpectraMax iD3\nSC-MD-iD3-PL\nSC-MD-iD3-PL-img\n35 GB\n2025-03-27\n\n\n\n31\nPerkinElmer FT-IR Spectrum Two\nSC-PE-FTIR-01\nPerkinElmer-FTIR-Spectrum-Two-01-img\n69.2 GB\n2025-04-14\n\n\n\n32\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nSC-PE-FTIR-02\nPerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img\n70.4 GB\n2025-04-14"
   },
   {
     "objectID": "Instrumentation/Instrument_Template.html#description",
@@ -224,25 +231,53 @@
     "text": "Instrument Table\nSI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
-    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
-    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Description",
+    "text": "Description\nThe PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.\nThe instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems."
   },
   {
-    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
-    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
-    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\nSpecification [1]\nValue\n\n\n\n\n21 CFR Part 11 Compatible\nYes\n\n\nDepth\n30.0 cm\n\n\nDetector Type\nLiTaO₃\n\n\nHeight\n21.0 cm\n\n\nModel Name\nSpectrum Two FT-IR Spectrometer (LiTaO₃ Detector)\n\n\nOperating Range\n5 - 45 °C\n\n\nPortable\nYes\n\n\nProduct Brand Name\nSpectrum Two\n\n\nWarranty\n1 year\n\n\nWave Length\n8\n\n\nWave Length Range\n8,300 – 350 cm⁻¹\n\n\nWeight\n13.0 kg\n\n\nWidth\n45.0 cm\n\n\n\n[1]: Spectrum Two Specifications"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Spectrum-Two"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
     "section": "",
     "text": "Disaster Recovery Table"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
-    "href": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
-    "title": "Scientific Instrumentation Table: Molecular Devices SpectraMax iD3 Microplate Reader",
+    "objectID": "Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html",
+    "href": "Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
     "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectraMax iD3 Microplate Reader\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nPlate-Reader\n\n\nInstrument_Manufacturer\nMolecular Devices\n\n\nInstrument_Model\niD3\n\n\nInstrument_Serial#\n2887\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-13-95-50-FF-38\n\n\nInstrument_IP\nDHCP\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n2\n\n\nInstrument_Room\n2050\n\n\nComputer_Hostname\nSC-MD-iD3-PR\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\nAC-B4-80-2F-5A-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 3680\n\n\nComputer_Asset_Tag\n12198\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 Enterprise 24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n500 GB\n\n\nSoftware_Vendor\nMolecular Devices\n\n\nSoftware_Product_Name\nSoftMax Pro\n\n\nSoftware_Version\n7.3.1\n\n\nSoftware_Last_Updated_Date\n2025-03"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpotlight 200i FT-IR Microscopy System with Spectrum Two\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR with Microscope\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpotlight 200i FT-IR Microscopy System\n\n\nInstrument_Serial#\n127082\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-02\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-71-D2\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\n12200\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
   },
   {
     "objectID": "Instrumentation/SI-Table-Schema.html",

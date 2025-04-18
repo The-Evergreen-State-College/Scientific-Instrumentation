@@ -11,4 +11,6 @@ title: "Meta-Category: Spectroscopy"
 
 [![PerkinElmer FT-IR Spectrum Two](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd)
 
+[![PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](/assets/images/PerkinElmer-FT-IR-Spotlight-200-with-Spectrum-Two-Image.png "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd)
+
 :::

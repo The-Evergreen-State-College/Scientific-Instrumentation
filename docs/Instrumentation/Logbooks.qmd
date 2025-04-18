@@ -9,9 +9,10 @@ format:
     page-layout: full
 ---
 
-# Index
+# Digital Logbook Index
 
 - [Agilent ICP-MS 7850](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/4)
 - [Instron 34SC-1](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2)
 - [Molecular Devices SpectraMax iD3 Microplate Reader](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/5)
 - [PerkinElmer FT-IR Spectrum Two](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/6)
+- [PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/7)
