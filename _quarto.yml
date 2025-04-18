@@ -37,6 +37,8 @@ website:
             href: "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd"
           - text: "PerkinElmer FI-IR Spectrum Two" 
             href: "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd"
+          - text: "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
+            href: "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spectrum-Two.qmd"
       - text: "Logbooks"
         menu:
           - text: "Index"

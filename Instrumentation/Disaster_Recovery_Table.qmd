@@ -57,7 +57,9 @@ All images can be found here: `\\SC-Vanadium\Scientific_Instrumentation_Images`
 | 27 | Packard Tri-Carb 2200CA                                                  | SC-Packard-TriCarb        | PACKARD-TRICARD-2200CA-20180129-img             | 10 MB      | 2018-01-29  | <span style="color: red;">Decommissioned</span>                       |
 | 28 | [Instron 34SC-1](/Instrumentation/Instron-34SC-1.qmd)                    | [SC-Instron-34SC-1](/Instrumentation/SI-Table-Instron-34SC-1.qmd) | Instron-34SC-1-img   |  29.4 GB     | 2025-03-17  |                                                        |
 | 29 | [Agilent ICP-MS 7850](/Instrumentation/Agilent-ICP-MS-7850.qmd)          | [SC-ICP-MS-7850](/Instrumentation/SI-Table-Agilent-ICP-MS-7850.qmd) | SC-Agilent-ICP-MS-7850-img  | 35 GB     | 2025-03-27  |                                                  |
-| 30 | Molecular Devices SpectraMax iD3                                       | SC-MD-iD3-PL              | SC-MD-iD3-PL-img                                 | 35 GB     | 2025-03-27  |                                                                       |
+| 30 | Molecular Devices SpectraMax iD3                                         | SC-MD-iD3-PL              | SC-MD-iD3-PL-img                                 | 35 GB     | 2025-03-27  |                                                                       |
+| 31 | PerkinElmer FT-IR Spectrum Two                                           | SC-PE-FTIR-01             | PerkinElmer-FTIR-Spectrum-Two-01-img      | 69.2 GB    | 2025-04-14  |                  |
+| 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two      | SC-PE-FTIR-02             | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img | 70.4 GB    | 2025-04-14  |                  |
 
 : Table {.striped .bordered .hover}
 

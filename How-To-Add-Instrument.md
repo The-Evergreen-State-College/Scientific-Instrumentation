@@ -2,7 +2,7 @@
 
 ## Get image(s) of the instrument
 1. Get a high-resolution image of the instrument from the internet or take a photo of it.
-2. save the image(s) in: 'assets/images' with the following naming convention:
+2. save the image(s) in: `assets/images` with the following naming convention:
    - Make-InstrumentClass-Model {.jpg, .png}
 
 ## Make a copy of the instrument template: Instrumentation/Instrument-Template.qmd
@@ -25,3 +25,10 @@
 
 ## Create Github issue that is the digital logbook entry for the instrument
 1. Add the Digital logbook to the logbook index page: Instrumentation/Logbook.qmd
+
+## Quarto must now be rendered
+
+## Commit local project
+
+## Push to remote repository or create a GitHub pull request
+1. Push the changes to the remote repository or create a pull request for the changes to be merged into the main branch.
