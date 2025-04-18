@@ -1,0 +1,49 @@
+---
+title: "PerkinElmer FT-IR Spectrum Two"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=300}
+
+
+## Description
+
+The PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.
+
+The instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems.
+
+## Technical Details
+
+| Specification [1] | Value |
+|---------------|-------|
+| 21 CFR Part 11 Compatible | Yes |
+| Depth | 30.0 cm |
+| Detector Type | LiTaO₃ |
+| Height | 21.0 cm |
+| Model Name | Spectrum Two FT-IR Spectrometer (LiTaO₃ Detector) |
+| Operating Range | 5 - 45 °C |
+| Portable | Yes |
+| Product Brand Name | Spectrum Two |
+| Warranty | 1 year |
+| Wave Length | 8 |
+| Wave Length Range | 8,300 – 350 cm⁻¹ |
+| Weight | 13.0 kg |
+| Width | 45.0 cm |
+
+[1]: [Spectrum Two Specifications](https://www.perkinelmer.com/Product/spectrum-two-ft-ir-sp10-software-l160000a?_gl=1*d24g6z*_gcl_au*MTM4OTQ5NTY0NS4xNzQzNDM2MzY1)
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[SI-Table-PerkinElmer-FTIR-Spectrum-Two](/Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.qmd)

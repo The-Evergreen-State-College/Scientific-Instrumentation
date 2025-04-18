@@ -5,6 +5,8 @@ Go to website: [Scientific-Instrumentation](https://the-evergreen-state-college.
 
 <h2 align="center"> :bangbang:  :construction:  :bangbang: WORK IN PROGRESS... :bangbang:  :construction:  :bangbang: </h2> <br>
 
+### How To Add Instrumentation
+- [How-To-Add-Instrumentation](How-To-Add-Instrument.md)
 
 
 ## Resources

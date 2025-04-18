@@ -1,5 +1,6 @@
 ---
 title: "Scientific Instrumentation Table Schema"
+date: last-modified
 format:
   html:
     toc: false

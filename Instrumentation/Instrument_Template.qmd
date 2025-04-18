@@ -1,5 +1,6 @@
 ---
 title: "Instrument Template"
+date: last-modified
 format:
   html:
     toc: true
@@ -9,7 +10,7 @@ format:
     page-layout: full
 ---
 
-Make a copy of this template to create a new instrument page.
+![](/assets/images/<image> "Instrument Name"){fig-align="left" width=300}
 
 
 ## Description

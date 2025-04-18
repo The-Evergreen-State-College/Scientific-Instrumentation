@@ -9,4 +9,6 @@ title: "Meta-Category: Spectroscopy"
 
 [![Molecular Devices SpectraMax iD3 Microplate Reader](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=300}](/Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)
 
+[![PerkinElmer FT-IR Spectrum Two](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd)
+
 :::
