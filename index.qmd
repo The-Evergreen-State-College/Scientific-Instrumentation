@@ -1,6 +1,6 @@
 ---
 title: "Instrument Gallery"
-
+date: last-modified
 format:
   html:
     theme: flatly

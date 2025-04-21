@@ -16,15 +16,15 @@ format:
 
 Scientific instrumentation disaster recovery images are based on [CloneZilla](http://clonezilla.org/) images.
 
-All images can be found here: `\\SC-Vanadium\Scientific_Instrumentation_Images`
+All images can be found here: `\\SC-Tellus\Images`
 
 - Secondary file storage is on an external (Western Digital) hard drive (USB)
 - *img* means a full disk image
 - *part* means a partition image
 
-# Table
+# DR Table
 
-**Total Storage: ~871 GB**
+**Total Storage: ~680 GB**
 
 | #  | Scientific Instrument                                                    | Computer Hostname         | Image Name                                      | Image Size | Image Date  | Notes                                                                 |
 |----|--------------------------------------------------------------------------|---------------------------|-------------------------------------------------|------------|-------------|-----------------------------------------------------------------------|
@@ -33,7 +33,7 @@ All images can be found here: `\\SC-Vanadium\Scientific_Instrumentation_Images`
 | 3  | Agilent GC-MSD 7890A                                                     | SC-GCMS-2                 | Agilent-GCMSD-7890A-20181120-img                | 9.5 GB     | 2018-11-21  |                                                                       |
 | 4  | Dionex Ion Chromatography 2020i                                          | SC-IC-2020i-1             | IC2020i-part                                    | 7.35 GB    | 2013-08-13  | <span style="color: red;">Decommissioned</span>                       |
 | 5  | Dionex IC IC25A                                                          | SC-IC2                    | Dionex-IC25-20170814-img                        | 5.42 GB    | 2017-08-14  |                                                                       |
-| 6  | Dionex IC DX 500                                                         | SC-IC-DX500-3             | IC-DX500-img                                    | 7.35 GB    | 2013-07-02  | Decommissioned                                                        |
+| 6  | Dionex IC DX 500                                                         | SC-IC-DX500-3             | IC-DX500-img                                    | 7.35 GB    | 2013-07-02  | <span style="color: red;">Decommissioned</span>                                                       |
 | 7  | GOW-MAC 69-350                                                           | SCI-GOWMAC-#              | GOWMAC                                          | 13.1 GB    | 2018-07-26  | Generic Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument. |
 | 8  | HP Diode Array 8452A                                                     | sc-diodearray-#           | HP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img | 1.8 GB   | 2018-05-04  |                                                                       |
 | 9  | HP GC-MSD 5890                                                           | SC-GCMS-1                 | GC-MSD-1-img                                    | 1.35 GB    | 2013-07-18  | <span style="color: red;">Decommissioned</span>                       |
@@ -49,17 +49,17 @@ All images can be found here: `\\SC-Vanadium\Scientific_Instrumentation_Images`
 | 19 | Princeton Applied Research ETA 394                                       | SC-Polarograph            | ETA-1-img                                       | 9.13 GB    | 2013-08-16  |                                                                       |
 | 20 | Seal Analytical Discrete Analyzer                                        | SC-DA-1                   | Seal-AQ1-DA-20191127-img                        | 21.7 GB    | 2019-11-27  |                                                                       |
 | 21 | TECAN Spectra Fluor                                                      | SC-Fluor                  | TECAN-Spectra-Fluor-20191004-img                | 15.6 GB    | 2019-10-04  |                                                                       |
-| 22 | Thermo Electron Corp FTIR Nicolet IR200                                  | SC-FTIR-2                 | SC-FTIR-2-20190731-img                          | 3.5 GB     | 2019-07-31  |                                                                       |
-| 23 | Thermo Electron Corp FTIR Nicolet IR200                                  | SC-FTIR-3                 | SC-FTIR-3-20190731-img                          | 3.5 GB     | 2019-07-31  |                                                                       |
+| 22 | Thermo Electron Corp FTIR Nicolet IR200                                  | SC-FTIR-2                 | SC-FTIR-2-20190731-img                          | 3.5 GB     | 2019-07-31  | <span style="color: red;">Decommissioned</span>                                                                       |
+| 23 | Thermo Electron Corp FTIR Nicolet IR200                                  | SC-FTIR-3                 | SC-FTIR-3-20190731-img                          | 3.5 GB     | 2019-07-31  | <span style="color: red;">Decommissioned</span>                                                                    |
 | 24 | Varian NMR-400                                                           | SC-NMR                    | Varian-NMR-20190122-img                         | 1.8 GB     | 2019-01-22  |                                                                       |
 | 25 | Newport ORIEL Monochromator                                              | SC-Monochrom-1            | Newport-ORIEL-Monochromator-CS260-img           | 20.7 GB    | 2017-07-11  | Image not really needed; application is easy to install. Use Windows 10 base image. |
 | 26 | Olympus BX63 Upright Microscope                                          | SC-Olympus-BX63           | Olympus-BX63-20180130-img                       | 25 GB      | 2018-01-30  |                                                                       |
 | 27 | Packard Tri-Carb 2200CA                                                  | SC-Packard-TriCarb        | PACKARD-TRICARD-2200CA-20180129-img             | 10 MB      | 2018-01-29  | <span style="color: red;">Decommissioned</span>                       |
-| 28 | [Instron 34SC-1](/Instrumentation/Instron-34SC-1.qmd)                    | [SC-Instron-34SC-1](/Instrumentation/SI-Table-Instron-34SC-1.qmd) | Instron-34SC-1-img   |  29.4 GB     | 2025-03-17  |                                                        |
-| 29 | [Agilent ICP-MS 7850](/Instrumentation/Agilent-ICP-MS-7850.qmd)          | [SC-ICP-MS-7850](/Instrumentation/SI-Table-Agilent-ICP-MS-7850.qmd) | SC-Agilent-ICP-MS-7850-img  | 35 GB     | 2025-03-27  |                                                  |
-| 30 | Molecular Devices SpectraMax iD3                                         | SC-MD-iD3-PL              | SC-MD-iD3-PL-img                                 | 35 GB     | 2025-03-27  |                                                                       |
-| 31 | PerkinElmer FT-IR Spectrum Two                                           | SC-PE-FTIR-01             | PerkinElmer-FTIR-Spectrum-Two-01-img      | 69.2 GB    | 2025-04-14  |                  |
-| 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two      | SC-PE-FTIR-02             | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img | 70.4 GB    | 2025-04-14  |                  |
+| 28 | [Instron 34SC-1](/Instrumentation/Instron-34SC-1.qmd)                    | SC-Instron-34SC-1         | Instron-34SC-1-img                              |  29.4 GB   | 2025-03-17  |                                                        |
+| 29 | [Agilent ICP-MS 7850](/Instrumentation/Agilent-ICP-MS-7850.qmd)          | SC-ICP-MS-7850            | SC-Agilent-ICP-MS-7850-img                      | 35 GB      | 2025-03-27  |                                                  |
+| 30 | Molecular Devices SpectraMax iD3                                         | SC-MD-iD3-PL              | SC-MD-iD3-PL-img                                | 35 GB      | 2025-03-27  |                                                                       |
+| 31 | PerkinElmer FT-IR Spectrum Two                                           | SC-PE-FTIR-01             | PerkinElmer-FTIR-Spectrum-Two-01-img            | 69.2 GB    | 2025-04-14  |                  |
+| 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two      | SC-PE-FTIR-02             | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img  | 70.4 GB  | 2025-04-14  |                  |
 
 : Table {.striped .bordered .hover}
 
