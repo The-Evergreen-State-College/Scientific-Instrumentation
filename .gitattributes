@@ -1,3 +1,5 @@
 # Exclude CSS files from language stats
-*.css linguist-vendored
-*.qmd linguist-language=Quarto
+docs/* linguist-vendored
+*.qmd linguist-detectable
+*.qmd linguist-language=Markdown
+*.md linguist-language=Markdown
