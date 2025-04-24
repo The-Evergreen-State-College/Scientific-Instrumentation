@@ -17,6 +17,8 @@ website:
         href: "index.qmd"
       - text: "Meta-Categories" 
         menu:
+          - text: "NIST-2024"
+            href: "MetaCategory/2024-NIST.qmd"
           - text: "Data Loggers"
             href: "MetaCategory/DataLoggers.qmd"
           - text: "Imaging"

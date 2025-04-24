@@ -1,0 +1,18 @@
+---
+title: "2024 NIST Grant Instrumentation List"
+---
+
+
+::: {layout-ncol=2}
+
+[![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
+
+[![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){fig-align="left" width=200}](/Instrumentation/Instron-34SC-1.html)
+
+[![Molecular Devices SpectraMax iD3 Microplate Reader](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=300}](/Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)
+
+[![PerkinElmer FT-IR Spectrum Two](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd)
+
+[![PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](/assets/images/PerkinElmer-FT-IR-Spotlight-200-with-Spectrum-Two-Image.png "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd)
+
+:::
