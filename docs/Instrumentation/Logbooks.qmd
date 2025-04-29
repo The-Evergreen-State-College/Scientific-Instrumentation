@@ -16,3 +16,4 @@ format:
 - [Molecular Devices SpectraMax iD3 Microplate Reader](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/5)
 - [PerkinElmer FT-IR Spectrum Two](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/6)
 - [PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/7)
+- [YSI EXO1 Sonde](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/8)

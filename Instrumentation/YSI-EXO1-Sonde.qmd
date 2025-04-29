@@ -1,0 +1,39 @@
+---
+title: "YSI EXO1 Multiparameter Water Quality Sonde"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/YSI-EXO1-Sonde-HH.jpg "YSI EXO1 Sonde"){fig-align="left" width=300}
+
+
+## Description
+
+The YSI EXO1 Multiparameter Sonde is a compact, high-performance water quality monitoring instrument designed for estuarine, surface water, and groundwater applications. Featuring four universal sensor ports, the EXO1 supports a range of titanium smart sensors for parameters like temperature, conductivity, pH, dissolved oxygen, turbidity, total algae, and fDOM. Its rugged, wet-mateable connectors and welded titanium components ensure durability in harsh environments, while built-in antifouling systems, including optional wiper technology, maintain data integrity during long-term deployments. 
+
+
+## Technical Details
+
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+### Notes
+
+- Remember when pairing the instrument with a computer running KOR application, that the instrument has to be in bluetooth pairing mode, which is done via a special [magnetic] tool.
+
+- Connecting the YSI EXO1
+  - Use the KOR software to connect
+  - Will have to search several times, possibly 3 times.
+- The KOR software is profile specific for settings and instrument, meaning each profile will have to pair and connect with the YSI EXO1 sonde.
+
+## Instrument Table
+
+[SI-Table-YSI-EXO1-Sonde](/Instrumentation/SI-Table-YSI-EXO1-Sonde.qmd)

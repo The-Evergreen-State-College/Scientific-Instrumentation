@@ -19,6 +19,12 @@ format:
 
 [Meta-Category: Data loggers](/MetaCategory/DataLoggers.qmd)
 
+::: {layout-ncol=2}
+
+[![YSI EXO1 Sonde](/assets/images/YSI-EXO1-Sonde-HH.jpg "YSI EXO1 Sonde"){fig-align="left" width=200}](/Instrumentation/YSI-EXO1-Sonde.qmd)
+
+:::
+
 ## Imaging
 
 [Meta-Category: Data loggers](/MetaCategory/Imaging.qmd)

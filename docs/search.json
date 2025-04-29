@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#data-loggers",
     "href": "index.html#data-loggers",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers"
+    "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde"
   },
   {
     "objectID": "index.html#imaging",
@@ -61,6 +61,34 @@
     "title": "2024 Congressionally Directed Spending (CDS), [NIST] Instrumentation List",
     "section": "",
     "text": "In 2024, The Evergreen State College in Olympia, Washington, received $2.135 million through Congressionally Directed Spending (CDS) to acquire advanced laboratory equipment for STEM research and research training programs. This funding was secured by U.S. Senator Patty Murray, formerly Chair of the Senate Appropriations Committee, as part of the fiscal year 2024 Commerce, Justice, Science, and Related Agencies appropriations bill. The National Institute of Standards and Technology (NIST), part of the U.S. Department of Commerce, administers the funds, managing their distribution and compliance, though the funding was directed by Congress.\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1\n\n\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#description",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#description",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Description",
+    "text": "Description\nThe YSI EXO1 Multiparameter Sonde is a compact, high-performance water quality monitoring instrument designed for estuarine, surface water, and groundwater applications. Featuring four universal sensor ports, the EXO1 supports a range of titanium smart sensors for parameters like temperature, conductivity, pH, dissolved oxygen, turbidity, total algae, and fDOM. Its rugged, wet-mateable connectors and welded titanium components ensure durability in harsh environments, while built-in antifouling systems, including optional wiper technology, maintain data integrity during long-term deployments."
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#technical-details",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#technical-details",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Technical Details",
+    "text": "Technical Details"
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#manuals",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#manuals",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure\n\n\nNotes\n\nRemember when pairing the instrument with a computer running KOR application, that the instrument has to be in bluetooth pairing mode, which is done via a special [magnetic] tool.\nConnecting the YSI EXO1\n\nUse the KOR software to connect\nWill have to search several times, possibly 3 times.\n\nThe KOR software is profile specific for settings and instrument, meaning each profile will have to pair and connect with the YSI EXO1 sonde."
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#instrument-table",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#instrument-table",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-YSI-EXO1-Sonde"
   },
   {
     "objectID": "Instrumentation/SI-Table-Schema.html",
@@ -242,7 +270,7 @@
     "href": "Instrumentation/Logbooks.html",
     "title": "Scientific Instrumentation Logbooks",
     "section": "",
-    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
+    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nYSI EXO1 Sonde"
   },
   {
     "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
@@ -299,6 +327,20 @@
     "title": "Scientific Instrumentation Table Schema: PerkinElmer FT-IR Spectrum Two",
     "section": "",
     "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectrum Two FT-IR\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpectrum Two\n\n\nInstrument_Serial#\n126501\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-01\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-73-32\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nEME12201\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
+    "href": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
+    "title": "Scientific Instrumentation Table YSI EXO1 Sonde",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nYSI EXO1 Sonde\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\nSonde\n\n\nInstrument_Manufacturer\nYSI\n\n\nInstrument_Model\nEXO1\n\n\nInstrument_Serial#\n16E101024\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\nNA\n\n\nInstrument_IP\nNA\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nYes\n\n\nInstrument_Building\nNA\n\n\nInstrument_Floor\nNA\n\n\nInstrument_Room\nNA\n\n\nSoftware_Vendor\nYSI\n\n\nSoftware_Product_Name\nKOR\n\n\nSoftware_Version\n1.4.1.10\n\n\nSoftware_Last_Updated_Date\n2025-04-29"
+  },
+  {
+    "objectID": "MetaCategory/DataLoggers.html",
+    "href": "MetaCategory/DataLoggers.html",
+    "title": "Meta-Category: Data loggers",
+    "section": "",
+    "text": "YSI EXO1 Sonde"
   },
   {
     "objectID": "MetaCategory/Other.html",
