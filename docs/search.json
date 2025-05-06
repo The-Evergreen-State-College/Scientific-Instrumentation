@@ -333,7 +333,7 @@
     "href": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
     "title": "Scientific Instrumentation Table YSI EXO1 Sonde",
     "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nYSI EXO1 Sonde\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\nSonde\n\n\nInstrument_Manufacturer\nYSI\n\n\nInstrument_Model\nEXO1\n\n\nInstrument_Serial#\n16E101024\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\nNA\n\n\nInstrument_IP\nNA\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nYes\n\n\nInstrument_Building\nNA\n\n\nInstrument_Floor\nNA\n\n\nInstrument_Room\nNA\n\n\nSoftware_Vendor\nYSI\n\n\nSoftware_Product_Name\nKOR\n\n\nSoftware_Version\n1.4.1.10\n\n\nSoftware_Last_Updated_Date\n2025-04-29"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nYSI EXO1 Sonde\n\n\nInstrument_Acquisition_Date\n2016-05\n\n\nInstrument_CommonName\nSonde\n\n\nInstrument_Manufacturer\nYSI\n\n\nInstrument_Model\nEXO1\n\n\nInstrument_Serial#\n16E101024\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\nNA\n\n\nInstrument_IP\nNA\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nYes\n\n\nInstrument_Building\nNA\n\n\nInstrument_Floor\nNA\n\n\nInstrument_Room\nNA\n\n\nSoftware_Vendor\nYSI\n\n\nSoftware_Product_Name\nKOR\n\n\nSoftware_Version\n1.4.1.10\n\n\nSoftware_Last_Updated_Date\n2025-04-29"
   },
   {
     "objectID": "MetaCategory/DataLoggers.html",
