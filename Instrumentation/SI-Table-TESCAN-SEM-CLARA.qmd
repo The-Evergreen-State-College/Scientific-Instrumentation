@@ -1,0 +1,43 @@
+---
+title: "Scientific Instrumentation Table TESCAN SEM CLARA"
+date: last-modified
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+# Table Schema
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                |       |
+| Instrument_Acquisition_Date    |       |
+| Instrument_CommonName          |       |
+| Instrument_Manufacturer        |       |
+| Instrument_Model               |       |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |       |
+| Instrument_Roaming             |       |
+| Instrument_Building            |       |
+| Instrument_Floor               |       |
+| Instrument_Room                |       |
+| Computer_Hostname              |       |
+| Computer_IP                    |       |
+| Computer_MAC                   |       |
+| Computer_Make                  |       |
+| Computer_Model                 |       |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |       |
+| Computer_OS_Version            |       |
+| Computer_RAM                   |       |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}

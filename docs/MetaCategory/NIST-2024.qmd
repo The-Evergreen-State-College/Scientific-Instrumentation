@@ -19,4 +19,6 @@ In 2024, The Evergreen State College in Olympia, Washington, received $2.135 mil
 
 [![PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](/assets/images/PerkinElmer-FT-IR-Spotlight-200-with-Spectrum-Two-Image.png "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd)
 
+[![TESCAN SEM CLARA](/assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA"){fig-align="left" width=300}](/Instrumentation/TESCAN-SEM-CLARA.qmd)
+
 :::

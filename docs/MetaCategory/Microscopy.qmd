@@ -1,0 +1,9 @@
+---
+title: "Meta-Category: Microscopy"
+---
+
+::: {layout-ncol=2}
+
+[![TESCAN SEM CLARA](/assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA"){fig-align="left" width=300}](/Instrumentation/TESCAN-SEM-CLARA.qmd)
+
+:::

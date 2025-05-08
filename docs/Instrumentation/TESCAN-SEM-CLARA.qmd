@@ -1,0 +1,29 @@
+---
+title: "TESCAN SEM CLARA"
+subtitle: "Scanning Electron Microscope"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA"){fig-align="left" width=300}
+
+
+## Description
+
+
+
+## Technical Details
+
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
