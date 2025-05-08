@@ -1,0 +1,30 @@
+---
+title: "TESCAN SEM CLARA"
+subtitle: "Scanning Electron Microscope"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA"){fig-align="left" width=300}
+
+
+## Description
+
+The TESCAN CLARA is a versatile ultra-high-resolution scanning electron microscope (UHR-SEM) designed for advanced materials characterization at the nanoscale, offering exceptional imaging and analysis capabilities for a wide range of samples, including magnetic and beam-sensitive materials. Featuring TESCAN’s BrightBeam™ field-free technology, it delivers unparalleled contrast and detail at low beam energies, with a multidetector system that selectively collects electrons based on angle and energy for enhanced topographic and compositional insights. Its open-access architecture and hardware-configurable platform allow customization to meet diverse research needs, while the Essence™ software with guided workflows and In-Flight™ automation ensures ease of use and rapid data acquisition for users of all skill levels. The CLARA supports multimodal techniques like Raman spectroscopy, serial block face imaging, and tensile stage testing, making it ideal for applications such as battery research, quality control, and dynamic materials analysis.
+
+
+## Technical Details
+
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
