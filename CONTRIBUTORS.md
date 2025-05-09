@@ -9,19 +9,15 @@ This file lists the contributors to the Scientific-Instrumentation project.
 
 ### Level 4
 
-* [Student Name] (@github-username) - [Brief description of contributions]
   
 ### Level 3
 
-* [Student Name] (@github-username) - [Brief description of contributions]
+* [Jake Church](@Jake-Church-13) - Blue Robotics BlueROV2
   
 ### Level 2
 
-* [Student Name] (@github-username) - [Brief description of contributions]
-* 
+  
 ### Level 1
-* [Student Name] (@github-username) - [Brief description of contributions]
-* [Student Name] (@github-username) - [Brief description of contributions]
 
 
 ## Acknowledgments

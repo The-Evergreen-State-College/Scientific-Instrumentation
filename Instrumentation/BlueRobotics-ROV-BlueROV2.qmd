@@ -1,6 +1,6 @@
 ---
 title: "Blue Robotics BlueROV2"
-date: 05/07/2025
+date: last-modified
 format:
   html:
     toc: true
