@@ -11,6 +11,8 @@ In 2024, The Evergreen State College in Olympia, Washington, received $2.135 mil
 
 [![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
 
+[![Blue Robotics BlueROV2](/assets/images/BlueRobotics-ROV-BlueROV2.jpg){fig-align="left" width=200}](/Instrumentation/BlueRobotics-ROV-BlueROV2.html)
+
 [![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){fig-align="left" width=200}](/Instrumentation/Instron-34SC-1.html)
 
 [![Molecular Devices SpectraMax iD3 Microplate Reader](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=300}](/Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)
