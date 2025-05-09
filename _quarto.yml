@@ -33,7 +33,7 @@ website:
         menu:
           - text: "Agilent ICP-MS 7850"
             href: "Instrumentation/Agilent-ICP-MS-7850.qmd"
-          - text: "Blue Robotics BlueROV2 (Heavy Configuration)"
+          - text: "Blue Robotics BlueROV2"
             href: "Instrumentation/BlueRobotics-ROV-BlueROV2.qmd"
           - text: "Instron 34SC-1"
             href: "Instrumentation/Instron-34SC-1.qmd"
