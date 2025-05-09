@@ -3,7 +3,7 @@
 This file lists the contributors to the Scientific-Instrumentation project.
 
 ## Maintainers (Level 5)
-* David Geeraerts (@DavidGeeraerts) - Project Lead
+* David Geeraerts ([@DavidGeeraerts](https://github.com/DavidGeeraerts)) - Project Lead
 
 ## Contributors
 
@@ -12,7 +12,7 @@ This file lists the contributors to the Scientific-Instrumentation project.
   
 ### Level 3
 
-* [Jake Church](@Jake-Church-13) - Blue Robotics BlueROV2
+* Jake Church ([Jake-Church-13](https://github.com/Jake-Church-13)) - Blue Robotics BlueROV2
   
 ### Level 2
 
