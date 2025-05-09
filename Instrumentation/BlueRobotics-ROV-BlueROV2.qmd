@@ -1,0 +1,214 @@
+---
+title: "Blue Robotics BlueROV2"
+date: 05/07/2025
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+
+![](/assets/images/BlueRobotics-ROV-BlueROV2.jpg "BlueROV2 (Heavy Configuration)"){fig-align="left" width=300}
+
+
+
+## Description
+
+The **BlueROV2** is a versatile, open-source remotely operated vehicle (ROV) developed by Blue Robotics. Designed for underwater exploration, inspection, and research, the BlueROV2 is known for its modular architecture, affordability, and adaptability to a wide range of marine applications.
+
+This project utilizes the **Heavy Configuration** of the BlueROV2, equipped with eight T200 thrusters for true six degrees of freedom (6-DOF) control. This setup enables precise movement in surge, sway, and heave directions, as well as full rotational control (pitch, roll, yaw). With this enhanced control, the BlueROV2 is ideally suited for scientific sampling, autonomous inspection, sensor deployment, and data logging in demanding underwater environments.
+
+### How it Works
+
+1. **Control Input**: The operator sends navigation commands from a topside computer using QGroundControl over a tethered MAVLink connection.
+2. **Computation**: The Raspberry Pi 4 running BlueOS interprets commands and coordinates sensors, lights, and custom Node-RED data pipelines.
+3. **Vehicle Movement**: Thrusters respond to commands via the Pixhawk flight controller, which interprets movement requests in all axes.
+4. **Sensor Feedback**: Depth, orientation, video, and other data streams are relayed back to the operator in real time for adaptive control or autonomous recording.
+
+---
+
+## Technical Details
+
+### Mechanical Configuration
+
+| Component                  | Details                                           |
+|----------------------------|---------------------------------------------------|
+| **Thrusters**              | 8 × T200 (4 horizontal, 4 vertical)               |
+| **Frame Material**         | Anodized aluminum and Delrin                      |
+| **Depth Rating**           | 300 m (with upgraded penetrators and enclosures)  |
+| **Tether**                 | Fathom Slim tether, 150 m (via Fathom-X interface)|
+| **Buoyancy and Ballast**   | Adjustable with ballast weights and buoyancy foam |
+
+---
+
+### Electronics
+
+| Component               | Details                                                |
+|-------------------------|--------------------------------------------------------|
+| **Flight Controller**   | Pixhawk with ArduSub firmware                          |
+| **Companion Computer**  | Raspberry Pi 4 (2 GB)                                  |
+| **Power Supply**        | 14.8V, 18Ah Lithium-ion battery                        |
+| **ESCs**                | Blue Robotics Basic ESCs (30A)                         |
+| **Topside Interface**   | Dell Pro Rugged Laptop with QGroundControl             |
+
+---
+
+### Navigation & Sensors
+
+| Sensor/Device            | Function                                               |
+|--------------------------|--------------------------------------------------------|
+| **Bar30 Pressure Sensor**| Depth + Temperature                                    |
+| **IMU**                  | Orientation (gyro, accelerometer, compass)             |
+| **GPS**                  | Optional, surface-only (not equipped in current build) |
+| **Camera**               | 1080p HD low-light, tilt-mounted                       |
+| **Lighting**             | 4–6 × Lumen Subsea Lights (~1500 lumens each)          |
+
+---
+
+### Software & Control
+
+| Software/System        | Function                                                  |
+|------------------------|-----------------------------------------------------------|
+| **BlueOS**             | Vehicle-side OS, sensor management, and web interface     |
+| **ArduSub**            | ROV firmware on Pixhawk for vehicle stabilization         |
+| **QGroundControl**     | Ground station software for real-time control + telemetry |
+| **Node-RED**           | Sensor integration, real-time data pipelines, logging     |
+| **Telemetry Protocol** | MAVLink over UDP via Fathom-X                             |
+
+---
+
+### Expandability
+
+| Capability               | Details                                                      |
+|--------------------------|--------------------------------------------------------------|
+| **Payload Bay**          | Modular, supports grabbers, sonars, CTD sensors, and more    |
+| **Connectors**           | I2C, UART, and USB for digital sensors and add-ons           |
+| **Third-Party Support**  | Compatible with Blue Robotics, Atlas Scientific, and OpenCTD |
+| **Custom Scripts**       | Node-RED and Python-based control and logging tools          |
+
+
+
+## Manuals
+
+### Assembly Manuals
+
+[BlueROV2 Heavy Assembly](https://bluerobotics.com/learn/bluerov2-assembly/#introduction)
+
+[Payload Skid Assembly](https://bluerobotics.com/learn/bluerov2-payload-skid-assembly-guide/)
+
+[Newton Subsea Gripper](https://bluerobotics.com/learn/newton-subsea-gripper-installation/)
+
+[Ping360 Sonar](https://bluerobotics.com/learn/ping360-installation-guide-for-the-bluerov2/)
+
+---
+
+### Repair Manuals
+
+[Newton Subsea Gripper](https://bluerobotics.com/learn/newton-gripper-repair-guide/)
+
+[Ping360 Sonar](https://bluerobotics.com/learn/changing-communications-interface-on-the-ping360/): This details how to change the communication interface for the Ping360 sonar
+
+---
+
+### Software Manuals
+
+[BlueROV2 Software Setup](https://bluerobotics.com/learn/bluerov2-software-setup/)
+
+[ArduPilot](https://ardupilot.org/sub/)
+
+[Ping Viewer](https://docs.bluerobotics.com/ping-viewer/#installing-and-running-the-application): GUI for Ping360 sonar
+
+---
+
+### Learning Manuals
+
+[Operation Guide](https://bluerobotics.com/learn/bluerov2-operation/): Pre-dive checklist, how to arm sub, and how to operate. ***MUST READ BEFORE USE***
+
+[Undestanding/Using Sonar](https://bluerobotics.com/learn/understanding-and-using-scanning-sonars/)
+
+
+## (SOP) Standard Operating Procedure
+
+### Purpose
+
+This SOP outlines the essential steps for safely operating the BlueROV2 in field or lab settings using the Heavy Configuration. It assumes prior assembly, software setup, and pre-dive checks have been completed. [MUST READ BEFORE USE](https://bluerobotics.com/learn/bluerov2-operation/)
+
+---
+
+### 1. Pre-Dive Checklist
+
+- ✅ Inspect tether for damage or kinks
+- ✅ Check watertight enclosures for proper sealing (hand-tight only)
+- ✅ Confirm thruster cables are secure and routed properly
+- ✅ Power battery (fully charged, securely mounted)
+- ✅ Power on topside computer and connect via Fathom-X
+- ✅ Open BlueOS web UI to verify:
+  - Sensor detection (Bar30, camera, IMU)
+  - Firmware (ArduSub) is up-to-date
+  - Network and telemetry are functional
+- ✅ Launch QGroundControl and verify:
+  - Vehicle connection via MAVLink
+  - Joystick/controller input
+  - Live video feed
+
+---
+
+### 2. Deployment Procedure
+
+1. Two-person lift recommended
+2. Carefully lower the ROV into the water
+3. Keep tether slack managed and clear of propellers
+4. Begin dive operations once stabilized at surface
+
+---
+
+### 3. Basic Operation (QGroundControl)
+
+- Use joystick or keyboard to control:
+  - **Surge/Sway**: forward/back and left/right
+  - **Heave**: ascend/descend
+  - **Yaw/Pitch/Roll**: rotation
+- Monitor:
+  - Depth (Bar30 sensor)
+  - Video feed (camera)
+  - Battery voltage
+  - Orientation and heading
+
+---
+
+### 4. Recovery Procedure
+
+1. Return to surface slowly by following tether
+2. Retrieve tether while avoiding snags or thruster contact
+3. Once at surface and ready to recover, disarm system
+4. Lift ROV out by frame, not tether
+5. Disconnect battery
+
+---
+
+### 5. Post-Dive Care
+
+- Rinse vehicle with fresh water (especially thrusters and connectors)
+- Remove and dry tether
+- Inspect O-rings, enclosures, and seals for leaks
+- Review flight logs and sensor data if needed
+
+---
+
+### Safety Notes
+
+- Always operate in pairs
+- Avoid heavily traffic areas (boats and personnel)
+- Maintain line-of-sight and control over the ROV
+- Avoid entanglement zones (kelp, cables)
+- Watch for overheating on topside electronics
+- Never operate with damaged enclosures or exposed wires
+
+---
+
+## Instrument Table
+
+[SI-Table-Blue-Robotics-BlueROV2](/Instrumentation/SI-Table-BlueRobotics-BlueROV2.qmd)
