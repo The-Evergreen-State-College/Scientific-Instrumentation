@@ -1,0 +1,11 @@
+---
+title: "Meta-Category: Drones"
+---
+
+
+::: {layout-ncol=1}
+
+[![Blue Robotics BlueROV2](/assets/images/BlueRobotics-ROV-BlueROV2.jpg){fig-align="left" width=200}](/Instrumentation/BlueRobotics-ROV-BlueROV2.html)
+
+
+:::
