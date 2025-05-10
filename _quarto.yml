@@ -21,6 +21,8 @@ website:
             href: "MetaCategory/NIST-2024.qmd"
           - text: "Data Loggers"
             href: "MetaCategory/DataLoggers.qmd"
+          - text: "Drones"
+            href: "MetaCategory/Drones.qmd"
           - text: "Imaging"
             href: "MetaCategory/Imaging.qmd"
           - text: "Microscopy"

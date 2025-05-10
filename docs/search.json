@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Data loggers\n\n\n\nMeta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Drones\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\nMeta-Category: Imaging\n\n\n\nMeta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#data-loggers",
@@ -14,11 +14,18 @@
     "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde"
   },
   {
+    "objectID": "index.html#drones",
+    "href": "index.html#drones",
+    "title": "Instrument Gallery",
+    "section": "",
+    "text": "Meta-Category: Drones\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2"
+  },
+  {
     "objectID": "index.html#imaging",
     "href": "index.html#imaging",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers"
+    "text": "Meta-Category: Imaging"
   },
   {
     "objectID": "index.html#microscopy",
@@ -39,7 +46,7 @@
     "href": "index.html#other",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Other\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "MetaCategory/Spectroscopy.html",
@@ -63,326 +70,11 @@
     "text": "In 2024, The Evergreen State College in Olympia, Washington, received $2.135 million through Congressionally Directed Spending (CDS) to acquire advanced laboratory equipment for STEM research and research training programs. This funding was secured by U.S. Senator Patty Murray, formerly Chair of the Senate Appropriations Committee, as part of the fiscal year 2024 Commerce, Justice, Science, and Related Agencies appropriations bill. The National Institute of Standards and Technology (NIST), part of the U.S. Department of Commerce, administers the funds, managing their distribution and compliance, though the funding was directed by Congress.\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM"
   },
   {
-    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#description",
-    "href": "Instrumentation/YSI-EXO1-Sonde.html#description",
-    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
-    "section": "Description",
-    "text": "Description\nThe YSI EXO1 Multiparameter Sonde is a compact, high-performance water quality monitoring instrument designed for estuarine, surface water, and groundwater applications. Featuring four universal sensor ports, the EXO1 supports a range of titanium smart sensors for parameters like temperature, conductivity, pH, dissolved oxygen, turbidity, total algae, and fDOM. Its rugged, wet-mateable connectors and welded titanium components ensure durability in harsh environments, while built-in antifouling systems, including optional wiper technology, maintain data integrity during long-term deployments."
-  },
-  {
-    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#technical-details",
-    "href": "Instrumentation/YSI-EXO1-Sonde.html#technical-details",
-    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
-    "section": "Technical Details",
-    "text": "Technical Details"
-  },
-  {
-    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#manuals",
-    "href": "Instrumentation/YSI-EXO1-Sonde.html#manuals",
-    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure\n\n\nNotes\n\nRemember when pairing the instrument with a computer running KOR application, that the instrument has to be in bluetooth pairing mode, which is done via a special [magnetic] tool.\nConnecting the YSI EXO1\n\nUse the KOR software to connect\nWill have to search several times, possibly 3 times.\n\nThe KOR software is profile specific for settings and instrument, meaning each profile will have to pair and connect with the YSI EXO1 sonde."
-  },
-  {
-    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#instrument-table",
-    "href": "Instrumentation/YSI-EXO1-Sonde.html#instrument-table",
-    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-YSI-EXO1-Sonde"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
-    "href": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
-    "title": "Scientific Instrumentation Table YSI EXO1 Sonde",
+    "objectID": "MetaCategory/DataLoggers.html",
+    "href": "MetaCategory/DataLoggers.html",
+    "title": "Meta-Category: Data loggers",
     "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nYSI EXO1 Sonde\n\n\nInstrument_Acquisition_Date\n2016-05\n\n\nInstrument_CommonName\nSonde\n\n\nInstrument_Manufacturer\nYSI\n\n\nInstrument_Model\nEXO1\n\n\nInstrument_Serial#\n16E101024\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\nNA\n\n\nInstrument_IP\nNA\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nYes\n\n\nInstrument_Building\nNA\n\n\nInstrument_Floor\nNA\n\n\nInstrument_Room\nNA\n\n\nSoftware_Vendor\nYSI\n\n\nSoftware_Product_Name\nKOR\n\n\nSoftware_Version\n1.4.1.10\n\n\nSoftware_Last_Updated_Date\n2025-04-29"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-Schema.html",
-    "href": "Instrumentation/SI-Table-Schema.html",
-    "title": "Scientific Instrumentation Table Schema",
-    "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\n\n\n\nInstrument_Manufacturer\n\n\n\nInstrument_Model\n\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html",
-    "href": "Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
-    "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpotlight 200i FT-IR Microscopy System with Spectrum Two\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR with Microscope\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpotlight 200i FT-IR Microscopy System\n\n\nInstrument_Serial#\n127082\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-02\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-71-D2\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\n12200\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
-    "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
-    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
-    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
-    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
-    "section": "",
-    "text": "Disaster Recovery Table"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
-    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
-    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
-    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
-    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
-    "section": "",
-    "text": "Disaster Recovery Table"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
-    "section": "Description",
-    "text": "Description\nThe PerkinElmer Spotlight 200i is an integrated Fourier Transform Infrared (FTIR) microscopy system coupled with a Spectrum Two spectrometer. This instrument combines infrared spectroscopy with optical microscopy for molecular characterization of microscale samples and spatially-resolved chemical analysis. The system features dual-mode operation allowing both visible and infrared imaging of samples.\nThe Spotlight 200i microscope enables both point-by-point spectral data collection and rapid infrared imaging using a linear array detector. It provides automated sample stage control, multiple objectives for different magnifications, and can be configured for transmission, reflection, and attenuated total reflection (ATR) sampling modes. The system is designed for applications in materials science, polymer analysis, pharmaceutical development, forensic science, and biomedical research where microscale chemical identification is required.\nKey capabilities include chemical mapping of heterogeneous samples, identifying contaminants, analyzing layer structures, and performing quality control on small samples or defined regions of larger specimens. The integration with the Spectrum Two spectrometer provides a complete spectroscopic solution with extended spectral range capabilities."
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nValue\n\n\n\n\nMicroscope Model\nSpotlight 200i\n\n\nSpectrometer\nIntegrated Spectrum Two FTIR\n\n\nSpectral Range\n7,800 - 450 cm⁻¹ (with standard KBr beamsplitter)\n\n\nSpectral Resolution\n1 cm⁻¹ - 64 cm⁻¹ (adjustable)\n\n\nDetector Options\nMCT (Mercury Cadmium Telluride), Linear MCT Array\n\n\nImaging Modes\nTransmission, Reflectance, ATR\n\n\nPixel Size\n1.56 μm (minimum) - 25 μm (maximum)\n\n\nMaximum Image Area\n10 × 10 cm\n\n\nSample Viewing\nDigital Color Camera with 10× and 40× objectives\n\n\nStage Control\nComputer-controlled, motorized XYZ stage\n\n\nSoftware\nSpectrum 10, Spotlight, ImageAnalyze\n\n\nLiquid Nitrogen Cooling\nRequired for MCT detector (4-hour minimum hold time)\n\n\nOptical Purge\nAvailable for microscope and sample compartment\n\n\nDimensions (approx.)\n71 × 73 × 51 cm (W × D × H)\n\n\nWeight\nApproximately 84 kg (combined system)\n\n\nPower Requirements\n100-240 V, 50/60 Hz\n\n\nOperating Temperature\n15-35°C\n\n\nOperating Humidity\n&lt;80% RH, non-condensing"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200"
-  },
-  {
-    "objectID": "Instrumentation/Logbooks.html",
-    "href": "Instrumentation/Logbooks.html",
-    "title": "Scientific Instrumentation Digital Logbooks",
-    "section": "",
-    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nBlue Robotics BlueROV2\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nTESCAN CLARA SEM\nYSI EXO1 Sonde"
-  },
-  {
-    "objectID": "Instrumentation/Instron-34SC-1.html#description",
-    "href": "Instrumentation/Instron-34SC-1.html#description",
-    "title": "Instron 34SC-1 Universal Testing System",
-    "section": "Description",
-    "text": "Description\nThe Instron 34SC-1 Universal Testing System is a single-column, electromechanical testing machine designed for low-force mechanical testing applications, offering precision, reliability, and versatility. Part of Instron’s 3400 Series, it has a force capacity of up to 1 kN (1000 N or approximately 225 lbf), making it ideal for tensile, compression, flexure, peel, puncture, friction, and shear tests on a wide range of materials, including plastics, textiles, biomaterials, thin films, and small components.\nThe 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N pneumatic side-action grip, and is controlled by Instron’s Bluehill Universal software, which allows for easy test setup, data acquisition, and analysis. The system is also equipped with a video extensometer for non-contact strain measurement, and a temperature chamber for testing at controlled temperatures."
-  },
-  {
-    "objectID": "Instrumentation/Instron-34SC-1.html#technical-details",
-    "href": "Instrumentation/Instron-34SC-1.html#technical-details",
-    "title": "Instron 34SC-1 Universal Testing System",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nModel\nInstron 34SC-1 (3400 Series, Single Column)\n\n\nForce Capacity\n1 kN (1000 N, ~225 lbf)\n\n\nLoad Accuracy\n±0.5% of reading down to 1/500th of load cell capacity (±1% below 1/500)\n\n\nLoad Cell Compatibility\nInstron Smart Load Cells (e.g., 5 N to 1 kN range)\n\n\nCrosshead Travel (Standard)\n~675 mm (26.6 in)\n\n\nCrosshead Travel (Extra Height)\n~975 mm (38.4 in)\n\n\nMaximum Speed\n1000 mm/min (40 in/min)\n\n\nMinimum Speed\n0.001 mm/min (0.00004 in/min)\n\n\nSpeed Accuracy\n±0.1% of set speed under load\n\n\nReturn Speed\nUp to 2000 mm/min (80 in/min)\n\n\nVertical Test Space (Standard)\n~772 mm (30.4 in) from base to crosshead\n\n\nVertical Test Space (Extra Height)\n~1072 mm (42.2 in)\n\n\nHorizontal Test Space\n100 mm (3.94 in) throat depth\n\n\nData Acquisition Rate\nUp to 1 kHz (1000 data points per second)\n\n\nDrive System\nBrushless AC servomotor, pre-loaded ball screws\n\n\nPosition Control Resolution\n&lt;0.001 mm (0.00004 in)\n\n\nPower Requirements\n100-240 VAC, 50/60 Hz, single phase, 400 VA max\n\n\nOperating Temperature\n+10°C to +38°C (+50°F to +100°F)\n\n\nStorage Temperature\n-40°C to +66°C (-40°F to +150°F)\n\n\nHumidity Range\n10% to 90% non-condensing\n\n\nHeight (Standard)\n1048 mm (41.3 in)\n\n\nHeight (Extra Height)\n1348 mm (53.1 in)\n\n\nWidth\n575 mm (22.6 in)\n\n\nDepth\n608 mm (23.9 in)\n\n\nWeight\n~65 kg (143 lb)\n\n\nSoftware\nBluehill Universal (touchscreen or PC interface)\n\n\nSafety Features\nOperator Protect (status-aware operation), emergency stop, limit switches\n\n\nStandards Compliance\nSupports ASTM, ISO, EN, JIS, and custom test methods\n\n\nAccessory Compatibility\nGrips, fixtures, extensometers (contact Instron for catalog)\n\n\nFrame Stiffness\n~1.2 kN/mm (nominal, varies with setup)\n\n\nNoise Level\n&lt;70 dB during operation\n\n\n\n\n\n\n\n\n\n\nSerial Number plate"
-  },
-  {
-    "objectID": "Instrumentation/Instron-34SC-1.html#manuals",
-    "href": "Instrumentation/Instron-34SC-1.html#manuals",
-    "title": "Instron 34SC-1 Universal Testing System",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure\n\n\nCertifications\n\nCertificate of Calibration Displacement\nCertificate of Calibration Speed\nCertificate of Calibration Force"
-  },
-  {
-    "objectID": "Instrumentation/Instron-34SC-1.html#instrument-table",
-    "href": "Instrumentation/Instron-34SC-1.html#instrument-table",
-    "title": "Instron 34SC-1 Universal Testing System",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-Instron-34SC-1"
-  },
-  {
-    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#description",
-    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#description",
-    "title": "Blue Robotics BlueROV2",
-    "section": "Description",
-    "text": "Description\nThe BlueROV2 is a versatile, open-source remotely operated vehicle (ROV) developed by Blue Robotics. Designed for underwater exploration, inspection, and research, the BlueROV2 is known for its modular architecture, affordability, and adaptability to a wide range of marine applications.\nThis project utilizes the Heavy Configuration of the BlueROV2, equipped with eight T200 thrusters for true six degrees of freedom (6-DOF) control. This setup enables precise movement in surge, sway, and heave directions, as well as full rotational control (pitch, roll, yaw). With this enhanced control, the BlueROV2 is ideally suited for scientific sampling, autonomous inspection, sensor deployment, and data logging in demanding underwater environments.\n\nHow it Works\n\nControl Input: The operator sends navigation commands from a topside computer using QGroundControl over a tethered MAVLink connection.\nComputation: The Raspberry Pi 4 running BlueOS interprets commands and coordinates sensors, lights, and custom Node-RED data pipelines.\nVehicle Movement: Thrusters respond to commands via the Pixhawk flight controller, which interprets movement requests in all axes.\nSensor Feedback: Depth, orientation, video, and other data streams are relayed back to the operator in real time for adaptive control or autonomous recording."
-  },
-  {
-    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#technical-details",
-    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#technical-details",
-    "title": "Blue Robotics BlueROV2",
-    "section": "Technical Details",
-    "text": "Technical Details\n\nMechanical Configuration\n\n\n\n\n\n\n\nComponent\nDetails\n\n\n\n\nThrusters\n8 × T200 (4 horizontal, 4 vertical)\n\n\nFrame Material\nAnodized aluminum and Delrin\n\n\nDepth Rating\n300 m (with upgraded penetrators and enclosures)\n\n\nTether\nFathom Slim tether, 150 m (via Fathom-X interface)\n\n\nBuoyancy and Ballast\nAdjustable with ballast weights and buoyancy foam\n\n\n\n\n\n\nElectronics\n\n\n\n\n\n\n\nComponent\nDetails\n\n\n\n\nFlight Controller\nPixhawk with ArduSub firmware\n\n\nCompanion Computer\nRaspberry Pi 4 (2 GB)\n\n\nPower Supply\n14.8V, 18Ah Lithium-ion battery\n\n\nESCs\nBlue Robotics Basic ESCs (30A)\n\n\nTopside Interface\nDell Pro Rugged Laptop with QGroundControl\n\n\n\n\n\n\nNavigation & Sensors\n\n\n\n\n\n\n\nSensor/Device\nFunction\n\n\n\n\nBar30 Pressure Sensor\nDepth + Temperature\n\n\nIMU\nOrientation (gyro, accelerometer, compass)\n\n\nGPS\nOptional, surface-only (not equipped in current build)\n\n\nCamera\n1080p HD low-light, tilt-mounted\n\n\nLighting\n4–6 × Lumen Subsea Lights (~1500 lumens each)\n\n\n\n\n\n\nSoftware & Control\n\n\n\n\n\n\n\nSoftware/System\nFunction\n\n\n\n\nBlueOS\nVehicle-side OS, sensor management, and web interface\n\n\nArduSub\nROV firmware on Pixhawk for vehicle stabilization\n\n\nQGroundControl\nGround station software for real-time control + telemetry\n\n\nNode-RED\nSensor integration, real-time data pipelines, logging\n\n\nTelemetry Protocol\nMAVLink over UDP via Fathom-X\n\n\n\n\n\n\nExpandability\n\n\n\n\n\n\n\nCapability\nDetails\n\n\n\n\nPayload Bay\nModular, supports grabbers, sonars, CTD sensors, and more\n\n\nConnectors\nI2C, UART, and USB for digital sensors and add-ons\n\n\nThird-Party Support\nCompatible with Blue Robotics, Atlas Scientific, and OpenCTD\n\n\nCustom Scripts\nNode-RED and Python-based control and logging tools"
-  },
-  {
-    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#manuals",
-    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#manuals",
-    "title": "Blue Robotics BlueROV2",
-    "section": "Manuals",
-    "text": "Manuals\n\nAssembly Manuals\nBlueROV2 Heavy Assembly\nPayload Skid Assembly\nNewton Subsea Gripper\nPing360 Sonar\n\n\n\nRepair Manuals\nNewton Subsea Gripper\nPing360 Sonar: This details how to change the communication interface for the Ping360 sonar\n\n\n\nSoftware Manuals\nBlueROV2 Software Setup\nArduPilot\nPing Viewer: GUI for Ping360 sonar\n\n\n\nLearning Manuals\nOperation Guide: Pre-dive checklist, how to arm sub, and how to operate. MUST READ BEFORE USE\nUndestanding/Using Sonar"
-  },
-  {
-    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#sop-standard-operating-procedure",
-    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#sop-standard-operating-procedure",
-    "title": "Blue Robotics BlueROV2",
-    "section": "(SOP) Standard Operating Procedure",
-    "text": "(SOP) Standard Operating Procedure\n\nPurpose\nThis SOP outlines the essential steps for safely operating the BlueROV2 in field or lab settings using the Heavy Configuration. It assumes prior assembly, software setup, and pre-dive checks have been completed. MUST READ BEFORE USE\n\n\n\n1. Pre-Dive Checklist\n\n✅ Inspect tether for damage or kinks\n✅ Check watertight enclosures for proper sealing (hand-tight only)\n✅ Confirm thruster cables are secure and routed properly\n✅ Power battery (fully charged, securely mounted)\n✅ Power on topside computer and connect via Fathom-X\n✅ Open BlueOS web UI to verify:\n\nSensor detection (Bar30, camera, IMU)\nFirmware (ArduSub) is up-to-date\nNetwork and telemetry are functional\n\n✅ Launch QGroundControl and verify:\n\nVehicle connection via MAVLink\nJoystick/controller input\nLive video feed\n\n\n\n\n\n2. Deployment Procedure\n\nTwo-person lift recommended\nCarefully lower the ROV into the water\nKeep tether slack managed and clear of propellers\nBegin dive operations once stabilized at surface\n\n\n\n\n3. Basic Operation (QGroundControl)\n\nUse joystick or keyboard to control:\n\nSurge/Sway: forward/back and left/right\nHeave: ascend/descend\nYaw/Pitch/Roll: rotation\n\nMonitor:\n\nDepth (Bar30 sensor)\nVideo feed (camera)\nBattery voltage\nOrientation and heading\n\n\n\n\n\n4. Recovery Procedure\n\nReturn to surface slowly by following tether\nRetrieve tether while avoiding snags or thruster contact\nOnce at surface and ready to recover, disarm system\nLift ROV out by frame, not tether\nDisconnect battery\n\n\n\n\n5. Post-Dive Care\n\nRinse vehicle with fresh water (especially thrusters and connectors)\nRemove and dry tether\nInspect O-rings, enclosures, and seals for leaks\nReview flight logs and sensor data if needed\n\n\n\n\nSafety Notes\n\nAlways operate in pairs\nAvoid heavily traffic areas (boats and personnel)\nMaintain line-of-sight and control over the ROV\nAvoid entanglement zones (kelp, cables)\nWatch for overheating on topside electronics\nNever operate with damaged enclosures or exposed wires"
-  },
-  {
-    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#instrument-table",
-    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#instrument-table",
-    "title": "Blue Robotics BlueROV2",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-Blue-Robotics-BlueROV2"
-  },
-  {
-    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#description",
-    "href": "Instrumentation/Agilent-ICP-MS-7850.html#description",
-    "title": "Agilent ICP-MS 7850",
-    "section": "Description",
-    "text": "Description\nInductively Coupled Plasma Mass Spectrometry (ICP-MS) is an advanced analytical technique used to detect and quantify trace elements and isotopes in a wide variety of samples, from environmental waters to biological tissues. Renowned for its exceptional sensitivity—capable of detecting elements at parts-per-trillion (ppt) levels—and broad elemental coverage, ICP-MS combines the high-temperature ionization power of an inductively coupled plasma (ICP) with the precise mass analysis of a mass spectrometer (MS).\nThe Agilent 7850 ICP-MS is a high-performance, single quadrupole inductively coupled plasma mass spectrometer designed for efficient and reliable trace element analysis across a wide range of sample types. Engineered to streamline laboratory workflows, it can handle samples with up to 25% total dissolved solids (TDS) thanks to its Ultra High Matrix Introduction (UHMI) technology, reducing the need for time-consuming dilutions. The instrument features a helium-mode collision cell and half-mass correction to eliminate polyatomic and doubly charged ion interferences, simplifying method development and ensuring accurate results. Paired with the intuitive ICP-MS MassHunter software, the 7850 offers preset methods, automated setup via the Method Wizard, and smart tools like Outlier Conditional Formatting (OCF) and Early Maintenance Feedback (EMF) to enhance productivity and data quality. Ideal for routine and regulated applications in environmental, food safety, and pharmaceutical testing, the Agilent 7850 combines robust performance with user-friendly operation to deliver fast, precise, and reproducible elemental analysis.\n\nHow it works\nICP-MS operates through a multi-step process:\n\nSample Introduction: The sample, typically a liquid, is introduced into the system via a nebulizer, which converts it into a fine aerosol. This aerosol is carried by an inert gas (usually argon) into the plasma.\nPlasma Ionization: The aerosol enters the inductively coupled plasma, a highly energized gas sustained by radiofrequency energy in a torch assembly. Operating at temperatures of 6,000–10,000 K, the plasma atomizes the sample, breaking molecular bonds, and ionizes the resulting atoms by stripping off electrons. This creates a cloud of positively charged ions representative of the sample’s elemental composition.\nIon Extraction: The ions are extracted from the plasma through a series of cones (sampler and skimmer cones) into a high-vacuum environment. These cones focus the ion beam while minimizing neutral particles and photons that could interfere with detection.\nMass Separation: The ion beam enters the mass spectrometer, typically a quadrupole, which acts as a mass filter. The quadrupole uses oscillating electric fields to selectively allow ions of specific mass-to-charge ratios (m/z) to pass through, separating them based on their elemental or isotopic mass.\nDetection: The filtered ions strike a detector—often an electron multiplier or dynode system—which converts the ion impacts into electrical signals. These signals are amplified and processed to produce a spectrum, where peak intensities correlate to element concentrations.\nData Analysis: Software interprets the mass spectrum, matching m/z peaks to known elements or isotopes and quantifying their abundance using calibration standards. Advanced systems can correct for interferences (e.g., polyatomic ions) using collision/reaction cells or mathematical adjustments.\n\n\n\nKey Features and Capabilities\n\nSensitivity and Range: ICP-MS can detect elements across the periodic table, from lithium to uranium, at concentrations as low as ppt, making it ideal for ultra-trace analysis.\nInterference Management: Techniques like helium collision mode or reaction gases (e.g., ammonia) mitigate spectral overlaps from polyatomic ions (e.g., ArCl+ interfering with As+), enhancing accuracy.\nHigh Throughput: Automated sample introduction and rapid multi-element analysis enable hundreds of samples per day.\nVersatility: It handles diverse matrices—liquids, solids (with laser ablation), or gases—after appropriate preparation.\n\n\n\nNotes\n\nICP-MS requires careful sample preparation to avoid matrix effects (e.g., high salt content suppressing signals) and can be sensitive to isobaric interferences without proper mitigation.\nCalibration standards, quality control samples, and blank measurements are essential for accurate quantification and data validation.\nRegular maintenance, cleaning, and calibration are crucial to ensure instrument performance and data integrity."
-  },
-  {
-    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#technical-details",
-    "href": "Instrumentation/Agilent-ICP-MS-7850.html#technical-details",
-    "title": "Agilent ICP-MS 7850",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nModel\nAgilent 7850 ICP-MS (Single Quadrupole)\n\n\nMass Range\n2–260 amu (atomic mass units)\n\n\nSensitivity\n&gt;500 Mcps/ppm (at 10 µg/L, e.g., for In at m/z 115)\n\n\nDetection Limits\n&lt;1 ppt (parts per trillion) for most elements\n\n\nDynamic Range\n11 orders of magnitude (0.1 cps to &gt;10^9 cps)\n\n\nPlasma RF Power\n500–1600 W, adjustable\n\n\nPlasma Gas Flow\nArgon, ~15 L/min (typical operating condition)\n\n\nNebulizer Gas Flow\n0.7–1.2 L/min, software-controlled\n\n\nSample Introduction\nConcentric nebulizer with UHMI (Ultra High Matrix Introduction)\n\n\nMatrix Tolerance\nUp to 25% total dissolved solids (TDS) with UHMI\n\n\nInterference Removal\nHelium collision mode (KED), half-mass correction\n\n\nQuadrupole Resolution\n~0.7 amu (FWHM, full width at half maximum)\n\n\nScan Speed\n&gt;5000 amu/sec\n\n\nData Acquisition Rate\nUp to 10 Hz (10 spectra per second)\n\n\nIon Optics\nHigh-efficiency extraction lenses, off-axis design\n\n\nDetector\nDual-stage electron multiplier (analog and pulse counting)\n\n\nVacuum System\nThree-stage differential pumping, turbomolecular pumps\n\n\nPower Requirements\n200–240 VAC, 50/60 Hz, single phase, 5 kVA max\n\n\nOperating Temperature\n+15°C to +30°C (+59°F to +86°F)\n\n\nStorage Temperature\n-20°C to +60°C (-4°F to +140°F)\n\n\nHumidity Range\n20% to 80% non-condensing\n\n\nHeight\n597 mm (23.5 in)\n\n\nWidth\n840 mm (33.1 in)\n\n\nDepth\n590 mm (23.2 in)\n\n\nWeight\n~115 kg (254 lb)\n\n\nSoftware\nICP-MS MassHunter (with Method Wizard, OCF, EMF features)\n\n\nSafety Features\nPlasma interlocks, exhaust monitoring, emergency shutdown\n\n\nStandards Compliance\nSupports EPA, USP, ICH, and ISO methods (e.g., EPA 200.8, USP &lt;232&gt;)\n\n\nAccessory Compatibility\nAutosampler (e.g., SPS 4), laser ablation, discrete sampling systems\n\n\nCooling Water Requirement\n2.5–4 L/min, 15–30°C, external chiller recommended\n\n\nNoise Level\n&lt;60 dB during operation"
-  },
-  {
-    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#manuals",
-    "href": "Instrumentation/Agilent-ICP-MS-7850.html#manuals",
-    "title": "Agilent ICP-MS 7850",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#instrument-table",
-    "href": "Instrumentation/Agilent-ICP-MS-7850.html#instrument-table",
-    "title": "Agilent ICP-MS 7850",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-Agilent-ICP-MS-7850"
-  },
-  {
-    "objectID": "Instrumentation/Disaster_Recovery_Table.html",
-    "href": "Instrumentation/Disaster_Recovery_Table.html",
-    "title": "Scientific Instrumentation Disaster Recovery Table",
-    "section": "",
-    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Tellus\\Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nDR Table\nTotal Storage: ~680 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\nDecommissioned\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\nDecommissioned\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-#\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\nDecommissioned\n\n\n10\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n11\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n12\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n13\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n14\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n15\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n16\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n17\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\nDecommissioned\n\n\n18\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\nDecommissioned\n\n\n19\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n20\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n21\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n22\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n23\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n24\nVarian NMR-400\nSC-NMR\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n25\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n26\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n27\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nDecommissioned\n\n\n28\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n29\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27\n\n\n\n30\nMolecular Devices SpectraMax iD3\nSC-MD-iD3-PL\nSC-MD-iD3-PL-img\n35 GB\n2025-03-27\n\n\n\n31\nPerkinElmer FT-IR Spectrum Two\nSC-PE-FTIR-01\nPerkinElmer-FTIR-Spectrum-Two-01-img\n69.2 GB\n2025-04-14\n\n\n\n32\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nSC-PE-FTIR-02\nPerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img\n70.4 GB\n2025-04-14"
-  },
-  {
-    "objectID": "Instrumentation/Instrument_Template.html#description",
-    "href": "Instrumentation/Instrument_Template.html#description",
-    "title": "Instrument Template",
-    "section": "Description",
-    "text": "Description"
-  },
-  {
-    "objectID": "Instrumentation/Instrument_Template.html#technical-details",
-    "href": "Instrumentation/Instrument_Template.html#technical-details",
-    "title": "Instrument Template",
-    "section": "Technical Details",
-    "text": "Technical Details"
-  },
-  {
-    "objectID": "Instrumentation/Instrument_Template.html#manuals",
-    "href": "Instrumentation/Instrument_Template.html#manuals",
-    "title": "Instrument Template",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/Instrument_Template.html#instrument-table",
-    "href": "Instrumentation/Instrument_Template.html#instrument-table",
-    "title": "Instrument Template",
-    "section": "Instrument Table",
-    "text": "Instrument Table"
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Description",
-    "text": "Description\nThe Molecular Devices SpectraMax iD3 Multi-Mode Microplate Reader is a versatile, high-performance instrument designed for a wide range of laboratory applications in life sciences research. It offers three primary detection modes: absorbance, fluorescence, and luminescence ,making it suitable for assays such as ELISAs, nucleic acid and protein quantification, and microbial growth studies. The iD3 is equipped with a large, high-resolution touchscreen interface, allowing users to set up custom protocols, run experiments, and access preconfigured protocols without needing a dedicated computer workstation. Its built-in near-field communication (NFC) functionality enables personalized workflows, letting users tap NFC tags to quickly access custom protocols and results, which is particularly useful in multi-user labs. The optical system of the SpectraMax iD3 features a xenon flash lamp and an ultra-cooled photomultiplier tube (PMT) detector, which reduces background noise to provide excellent sensitivity and a wide dynamic range. This makes it ideal for demanding applications requiring high precision. The instrument supports flexible temperature control, adjustable from ambient up to 66°C, enabling temperature-sensitive assays. It also includes the QuickSync feature, which pushes data to any computer on the same network in an Excel-compatible format, streamlining data management. The iD3 is compatible with 6- to 384-well microplate formats and offers orbital shaking for uniform sample mixing. Powered by Molecular Devices’ industry-leading SoftMax Pro Software, the iD3 provides over 160 ready-to-run protocols, advanced data analysis tools, and 21 curve-fit options. For regulated environments, the SoftMax Pro GxP Compliance Software ensures compliance with FDA 21 CFR Part 11 and EudraLex Annex 11, offering secure data integrity for GMP/GLP labs. The instrument is modular and upgradeable, with options to expand capabilities for additional assays, though it does not include advanced modes like TR-FRET or BRET, which are available in the iD5 model."
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nRead modes\nAbsorbance, Fluorescence (top/bottom read), Luminescence (top read)\n\n\nWavelength ranges\nAbs: 230 - 1000 nm, FL Ex: 250 - 830 nm, FL Em: 270 - 850 nm, Lumi: 300 - 850 nm\n\n\nWavelength selection\nMonochromator tunable in 1-nm increments\n\n\nAbsorbance photometric accuracy/linearity\n&lt; ±0.010 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nAbsorbance photometric precision/repeatability\n&lt; ±0.003 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nSensitivity top read optimized\nFL: 1 pM fluorescein 96 well, 1 pM fluorescein 384 well, Lumi: 2 pM ATP 96 well, 4 pM\n\n\nLight source(s)\nHigh power xenon flash lamp\n\n\nDetector(s)\nSilicon photodiode, Ultra-cooled photomultiplier tube\n\n\nRead types (endpoint, kinetic, etc)\nEndpoint, Kinetic, Spectrum scan, Well scan\n\n\nRead times\nAbs: 28 seconds, FL: 21 seconds, Lumi: 21 seconds\n\n\nPlate shaking\nLinear, Orbital, Double orbital\n\n\nInjectors\ntrue\n\n\nWestern blot\nfalse\n\n\nStand-alone touchscreen operation\ntrue\n\n\nRobotics / automation\ntrue\n\n\nPlate type(s)\n6-384 well plates\n\n\nTemperature control\ntrue, Ambient + 5°C to 66°C\n\n\nDimensions\nH 40.1 cm x W 53.2 cm x D 59.8 cm\n\n\nValidation tools\ntrue, Absorbance validation plate, Fluorescence validation plate, Luminescence validation plate, SoftMax® Pro GxP Software"
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Description",
-    "text": "Description\nThe PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.\nThe instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems."
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\nSpecification [1]\nValue\n\n\n\n\n21 CFR Part 11 Compatible\nYes\n\n\nDepth\n30.0 cm\n\n\nDetector Type\nLiTaO₃\n\n\nHeight\n21.0 cm\n\n\nModel Name\nSpectrum Two FT-IR Spectrometer (LiTaO₃ Detector)\n\n\nOperating Range\n5 - 45 °C\n\n\nPortable\nYes\n\n\nProduct Brand Name\nSpectrum Two\n\n\nWarranty\n1 year\n\n\nWave Length\n8\n\n\nWave Length Range\n8,300 – 350 cm⁻¹\n\n\nWeight\n13.0 kg\n\n\nWidth\n45.0 cm\n\n\n\n[1]: Spectrum Two Specifications"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Spectrum-Two"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
-    "href": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
-    "title": "Scientific Instrumentation Table Schema",
-    "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nBlue Robotics BlueROV2\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nBlueROV2\n\n\nInstrument_Manufacturer\nBlue Robotics\n\n\nInstrument_Model\nBlueROV2\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
-    "href": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
-    "title": "Scientific Instrumentation Table: Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectraMax iD3 Microplate Reader\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nPlate-Reader\n\n\nInstrument_Manufacturer\nMolecular Devices\n\n\nInstrument_Model\niD3\n\n\nInstrument_Serial#\n2887\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-13-95-50-FF-38\n\n\nInstrument_IP\nDHCP\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n2\n\n\nInstrument_Room\n2050\n\n\nComputer_Hostname\nSC-MD-iD3-PR\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\nAC-B4-80-2F-5A-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 3680\n\n\nComputer_Asset_Tag\n12198\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 Enterprise 24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n500 GB\n\n\nSoftware_Vendor\nMolecular Devices\n\n\nSoftware_Product_Name\nSoftMax Pro\n\n\nSoftware_Version\n7.3.1\n\n\nSoftware_Last_Updated_Date\n2025-03"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.html",
-    "href": "Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.html",
-    "title": "Scientific Instrumentation Table Schema: PerkinElmer FT-IR Spectrum Two",
-    "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectrum Two FT-IR\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpectrum Two\n\n\nInstrument_Serial#\n126501\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-01\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-73-32\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nEME12201\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-TESCAN-CLARA-SEM.html",
-    "href": "Instrumentation/SI-Table-TESCAN-CLARA-SEM.html",
-    "title": "Scientific Instrumentation Table TESCAN CLARA SEM",
-    "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\n\n\n\nInstrument_Manufacturer\n\n\n\nInstrument_Model\n\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+    "text": "YSI EXO1 Sonde"
   },
   {
     "objectID": "Instrumentation/TESCAN-CLARA-SEM.html#description",
@@ -413,11 +105,333 @@
     "text": "Instrument Table"
   },
   {
-    "objectID": "MetaCategory/DataLoggers.html",
-    "href": "MetaCategory/DataLoggers.html",
-    "title": "Meta-Category: Data loggers",
+    "objectID": "Instrumentation/SI-Table-TESCAN-CLARA-SEM.html",
+    "href": "Instrumentation/SI-Table-TESCAN-CLARA-SEM.html",
+    "title": "Scientific Instrumentation Table TESCAN CLARA SEM",
     "section": "",
-    "text": "YSI EXO1 Sonde"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\n\n\n\nInstrument_Manufacturer\n\n\n\nInstrument_Model\n\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.html",
+    "href": "Instrumentation/SI-Table-PerkinElmer-FTIR-Spectrum-Two.html",
+    "title": "Scientific Instrumentation Table Schema: PerkinElmer FT-IR Spectrum Two",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectrum Two FT-IR\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpectrum Two\n\n\nInstrument_Serial#\n126501\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-01\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-73-32\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nEME12201\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
+    "href": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",
+    "title": "Scientific Instrumentation Table: Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpectraMax iD3 Microplate Reader\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nPlate-Reader\n\n\nInstrument_Manufacturer\nMolecular Devices\n\n\nInstrument_Model\niD3\n\n\nInstrument_Serial#\n2887\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-13-95-50-FF-38\n\n\nInstrument_IP\nDHCP\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n2\n\n\nInstrument_Room\n2050\n\n\nComputer_Hostname\nSC-MD-iD3-PR\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\nAC-B4-80-2F-5A-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 3680\n\n\nComputer_Asset_Tag\n12198\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 Enterprise 24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n500 GB\n\n\nSoftware_Vendor\nMolecular Devices\n\n\nSoftware_Product_Name\nSoftMax Pro\n\n\nSoftware_Version\n7.3.1\n\n\nSoftware_Last_Updated_Date\n2025-03"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
+    "href": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
+    "title": "Scientific Instrumentation Table Schema",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nBlue Robotics BlueROV2\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nBlueROV2\n\n\nInstrument_Manufacturer\nBlue Robotics\n\n\nInstrument_Model\nBlueROV2\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Description",
+    "text": "Description\nThe PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.\nThe instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems."
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\nSpecification [1]\nValue\n\n\n\n\n21 CFR Part 11 Compatible\nYes\n\n\nDepth\n30.0 cm\n\n\nDetector Type\nLiTaO₃\n\n\nHeight\n21.0 cm\n\n\nModel Name\nSpectrum Two FT-IR Spectrometer (LiTaO₃ Detector)\n\n\nOperating Range\n5 - 45 °C\n\n\nPortable\nYes\n\n\nProduct Brand Name\nSpectrum Two\n\n\nWarranty\n1 year\n\n\nWave Length\n8\n\n\nWave Length Range\n8,300 – 350 cm⁻¹\n\n\nWeight\n13.0 kg\n\n\nWidth\n45.0 cm\n\n\n\n[1]: Spectrum Two Specifications"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Spectrum-Two"
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "Description",
+    "text": "Description\nThe Molecular Devices SpectraMax iD3 Multi-Mode Microplate Reader is a versatile, high-performance instrument designed for a wide range of laboratory applications in life sciences research. It offers three primary detection modes: absorbance, fluorescence, and luminescence ,making it suitable for assays such as ELISAs, nucleic acid and protein quantification, and microbial growth studies. The iD3 is equipped with a large, high-resolution touchscreen interface, allowing users to set up custom protocols, run experiments, and access preconfigured protocols without needing a dedicated computer workstation. Its built-in near-field communication (NFC) functionality enables personalized workflows, letting users tap NFC tags to quickly access custom protocols and results, which is particularly useful in multi-user labs. The optical system of the SpectraMax iD3 features a xenon flash lamp and an ultra-cooled photomultiplier tube (PMT) detector, which reduces background noise to provide excellent sensitivity and a wide dynamic range. This makes it ideal for demanding applications requiring high precision. The instrument supports flexible temperature control, adjustable from ambient up to 66°C, enabling temperature-sensitive assays. It also includes the QuickSync feature, which pushes data to any computer on the same network in an Excel-compatible format, streamlining data management. The iD3 is compatible with 6- to 384-well microplate formats and offers orbital shaking for uniform sample mixing. Powered by Molecular Devices’ industry-leading SoftMax Pro Software, the iD3 provides over 160 ready-to-run protocols, advanced data analysis tools, and 21 curve-fit options. For regulated environments, the SoftMax Pro GxP Compliance Software ensures compliance with FDA 21 CFR Part 11 and EudraLex Annex 11, offering secure data integrity for GMP/GLP labs. The instrument is modular and upgradeable, with options to expand capabilities for additional assays, though it does not include advanced modes like TR-FRET or BRET, which are available in the iD5 model."
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nRead modes\nAbsorbance, Fluorescence (top/bottom read), Luminescence (top read)\n\n\nWavelength ranges\nAbs: 230 - 1000 nm, FL Ex: 250 - 830 nm, FL Em: 270 - 850 nm, Lumi: 300 - 850 nm\n\n\nWavelength selection\nMonochromator tunable in 1-nm increments\n\n\nAbsorbance photometric accuracy/linearity\n&lt; ±0.010 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nAbsorbance photometric precision/repeatability\n&lt; ±0.003 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nSensitivity top read optimized\nFL: 1 pM fluorescein 96 well, 1 pM fluorescein 384 well, Lumi: 2 pM ATP 96 well, 4 pM\n\n\nLight source(s)\nHigh power xenon flash lamp\n\n\nDetector(s)\nSilicon photodiode, Ultra-cooled photomultiplier tube\n\n\nRead types (endpoint, kinetic, etc)\nEndpoint, Kinetic, Spectrum scan, Well scan\n\n\nRead times\nAbs: 28 seconds, FL: 21 seconds, Lumi: 21 seconds\n\n\nPlate shaking\nLinear, Orbital, Double orbital\n\n\nInjectors\ntrue\n\n\nWestern blot\nfalse\n\n\nStand-alone touchscreen operation\ntrue\n\n\nRobotics / automation\ntrue\n\n\nPlate type(s)\n6-384 well plates\n\n\nTemperature control\ntrue, Ambient + 5°C to 66°C\n\n\nDimensions\nH 40.1 cm x W 53.2 cm x D 59.8 cm\n\n\nValidation tools\ntrue, Absorbance validation plate, Fluorescence validation plate, Luminescence validation plate, SoftMax® Pro GxP Software"
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#description",
+    "href": "Instrumentation/Instrument_Template.html#description",
+    "title": "Instrument Template",
+    "section": "Description",
+    "text": "Description"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#technical-details",
+    "href": "Instrumentation/Instrument_Template.html#technical-details",
+    "title": "Instrument Template",
+    "section": "Technical Details",
+    "text": "Technical Details"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#manuals",
+    "href": "Instrumentation/Instrument_Template.html#manuals",
+    "title": "Instrument Template",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/Instrument_Template.html#instrument-table",
+    "href": "Instrumentation/Instrument_Template.html#instrument-table",
+    "title": "Instrument Template",
+    "section": "Instrument Table",
+    "text": "Instrument Table"
+  },
+  {
+    "objectID": "Instrumentation/Disaster_Recovery_Table.html",
+    "href": "Instrumentation/Disaster_Recovery_Table.html",
+    "title": "Scientific Instrumentation Disaster Recovery Table",
+    "section": "",
+    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Tellus\\Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nDR Table\nTotal Storage: ~680 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\nDecommissioned\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\nDecommissioned\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-#\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\nDecommissioned\n\n\n10\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n11\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n12\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n13\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n14\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n15\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n16\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n17\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\nDecommissioned\n\n\n18\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\nDecommissioned\n\n\n19\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n20\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n21\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n22\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n23\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n24\nVarian NMR-400\nSC-NMR\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n25\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n26\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n27\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nDecommissioned\n\n\n28\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n29\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27\n\n\n\n30\nMolecular Devices SpectraMax iD3\nSC-MD-iD3-PL\nSC-MD-iD3-PL-img\n35 GB\n2025-03-27\n\n\n\n31\nPerkinElmer FT-IR Spectrum Two\nSC-PE-FTIR-01\nPerkinElmer-FTIR-Spectrum-Two-01-img\n69.2 GB\n2025-04-14\n\n\n\n32\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nSC-PE-FTIR-02\nPerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img\n70.4 GB\n2025-04-14"
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#description",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#description",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Description",
+    "text": "Description\nInductively Coupled Plasma Mass Spectrometry (ICP-MS) is an advanced analytical technique used to detect and quantify trace elements and isotopes in a wide variety of samples, from environmental waters to biological tissues. Renowned for its exceptional sensitivity—capable of detecting elements at parts-per-trillion (ppt) levels—and broad elemental coverage, ICP-MS combines the high-temperature ionization power of an inductively coupled plasma (ICP) with the precise mass analysis of a mass spectrometer (MS).\nThe Agilent 7850 ICP-MS is a high-performance, single quadrupole inductively coupled plasma mass spectrometer designed for efficient and reliable trace element analysis across a wide range of sample types. Engineered to streamline laboratory workflows, it can handle samples with up to 25% total dissolved solids (TDS) thanks to its Ultra High Matrix Introduction (UHMI) technology, reducing the need for time-consuming dilutions. The instrument features a helium-mode collision cell and half-mass correction to eliminate polyatomic and doubly charged ion interferences, simplifying method development and ensuring accurate results. Paired with the intuitive ICP-MS MassHunter software, the 7850 offers preset methods, automated setup via the Method Wizard, and smart tools like Outlier Conditional Formatting (OCF) and Early Maintenance Feedback (EMF) to enhance productivity and data quality. Ideal for routine and regulated applications in environmental, food safety, and pharmaceutical testing, the Agilent 7850 combines robust performance with user-friendly operation to deliver fast, precise, and reproducible elemental analysis.\n\nHow it works\nICP-MS operates through a multi-step process:\n\nSample Introduction: The sample, typically a liquid, is introduced into the system via a nebulizer, which converts it into a fine aerosol. This aerosol is carried by an inert gas (usually argon) into the plasma.\nPlasma Ionization: The aerosol enters the inductively coupled plasma, a highly energized gas sustained by radiofrequency energy in a torch assembly. Operating at temperatures of 6,000–10,000 K, the plasma atomizes the sample, breaking molecular bonds, and ionizes the resulting atoms by stripping off electrons. This creates a cloud of positively charged ions representative of the sample’s elemental composition.\nIon Extraction: The ions are extracted from the plasma through a series of cones (sampler and skimmer cones) into a high-vacuum environment. These cones focus the ion beam while minimizing neutral particles and photons that could interfere with detection.\nMass Separation: The ion beam enters the mass spectrometer, typically a quadrupole, which acts as a mass filter. The quadrupole uses oscillating electric fields to selectively allow ions of specific mass-to-charge ratios (m/z) to pass through, separating them based on their elemental or isotopic mass.\nDetection: The filtered ions strike a detector—often an electron multiplier or dynode system—which converts the ion impacts into electrical signals. These signals are amplified and processed to produce a spectrum, where peak intensities correlate to element concentrations.\nData Analysis: Software interprets the mass spectrum, matching m/z peaks to known elements or isotopes and quantifying their abundance using calibration standards. Advanced systems can correct for interferences (e.g., polyatomic ions) using collision/reaction cells or mathematical adjustments.\n\n\n\nKey Features and Capabilities\n\nSensitivity and Range: ICP-MS can detect elements across the periodic table, from lithium to uranium, at concentrations as low as ppt, making it ideal for ultra-trace analysis.\nInterference Management: Techniques like helium collision mode or reaction gases (e.g., ammonia) mitigate spectral overlaps from polyatomic ions (e.g., ArCl+ interfering with As+), enhancing accuracy.\nHigh Throughput: Automated sample introduction and rapid multi-element analysis enable hundreds of samples per day.\nVersatility: It handles diverse matrices—liquids, solids (with laser ablation), or gases—after appropriate preparation.\n\n\n\nNotes\n\nICP-MS requires careful sample preparation to avoid matrix effects (e.g., high salt content suppressing signals) and can be sensitive to isobaric interferences without proper mitigation.\nCalibration standards, quality control samples, and blank measurements are essential for accurate quantification and data validation.\nRegular maintenance, cleaning, and calibration are crucial to ensure instrument performance and data integrity."
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#technical-details",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#technical-details",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nModel\nAgilent 7850 ICP-MS (Single Quadrupole)\n\n\nMass Range\n2–260 amu (atomic mass units)\n\n\nSensitivity\n&gt;500 Mcps/ppm (at 10 µg/L, e.g., for In at m/z 115)\n\n\nDetection Limits\n&lt;1 ppt (parts per trillion) for most elements\n\n\nDynamic Range\n11 orders of magnitude (0.1 cps to &gt;10^9 cps)\n\n\nPlasma RF Power\n500–1600 W, adjustable\n\n\nPlasma Gas Flow\nArgon, ~15 L/min (typical operating condition)\n\n\nNebulizer Gas Flow\n0.7–1.2 L/min, software-controlled\n\n\nSample Introduction\nConcentric nebulizer with UHMI (Ultra High Matrix Introduction)\n\n\nMatrix Tolerance\nUp to 25% total dissolved solids (TDS) with UHMI\n\n\nInterference Removal\nHelium collision mode (KED), half-mass correction\n\n\nQuadrupole Resolution\n~0.7 amu (FWHM, full width at half maximum)\n\n\nScan Speed\n&gt;5000 amu/sec\n\n\nData Acquisition Rate\nUp to 10 Hz (10 spectra per second)\n\n\nIon Optics\nHigh-efficiency extraction lenses, off-axis design\n\n\nDetector\nDual-stage electron multiplier (analog and pulse counting)\n\n\nVacuum System\nThree-stage differential pumping, turbomolecular pumps\n\n\nPower Requirements\n200–240 VAC, 50/60 Hz, single phase, 5 kVA max\n\n\nOperating Temperature\n+15°C to +30°C (+59°F to +86°F)\n\n\nStorage Temperature\n-20°C to +60°C (-4°F to +140°F)\n\n\nHumidity Range\n20% to 80% non-condensing\n\n\nHeight\n597 mm (23.5 in)\n\n\nWidth\n840 mm (33.1 in)\n\n\nDepth\n590 mm (23.2 in)\n\n\nWeight\n~115 kg (254 lb)\n\n\nSoftware\nICP-MS MassHunter (with Method Wizard, OCF, EMF features)\n\n\nSafety Features\nPlasma interlocks, exhaust monitoring, emergency shutdown\n\n\nStandards Compliance\nSupports EPA, USP, ICH, and ISO methods (e.g., EPA 200.8, USP &lt;232&gt;)\n\n\nAccessory Compatibility\nAutosampler (e.g., SPS 4), laser ablation, discrete sampling systems\n\n\nCooling Water Requirement\n2.5–4 L/min, 15–30°C, external chiller recommended\n\n\nNoise Level\n&lt;60 dB during operation"
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#manuals",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#manuals",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/Agilent-ICP-MS-7850.html#instrument-table",
+    "href": "Instrumentation/Agilent-ICP-MS-7850.html#instrument-table",
+    "title": "Agilent ICP-MS 7850",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Agilent-ICP-MS-7850"
+  },
+  {
+    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#description",
+    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#description",
+    "title": "Blue Robotics BlueROV2",
+    "section": "Description",
+    "text": "Description\nThe BlueROV2 is a versatile, open-source remotely operated vehicle (ROV) developed by Blue Robotics. Designed for underwater exploration, inspection, and research, the BlueROV2 is known for its modular architecture, affordability, and adaptability to a wide range of marine applications.\nThis project utilizes the Heavy Configuration of the BlueROV2, equipped with eight T200 thrusters for true six degrees of freedom (6-DOF) control. This setup enables precise movement in surge, sway, and heave directions, as well as full rotational control (pitch, roll, yaw). With this enhanced control, the BlueROV2 is ideally suited for scientific sampling, autonomous inspection, sensor deployment, and data logging in demanding underwater environments.\n\nHow it Works\n\nControl Input: The operator sends navigation commands from a topside computer using QGroundControl over a tethered MAVLink connection.\nComputation: The Raspberry Pi 4 running BlueOS interprets commands and coordinates sensors, lights, and custom Node-RED data pipelines.\nVehicle Movement: Thrusters respond to commands via the Pixhawk flight controller, which interprets movement requests in all axes.\nSensor Feedback: Depth, orientation, video, and other data streams are relayed back to the operator in real time for adaptive control or autonomous recording."
+  },
+  {
+    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#technical-details",
+    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#technical-details",
+    "title": "Blue Robotics BlueROV2",
+    "section": "Technical Details",
+    "text": "Technical Details\n\nMechanical Configuration\n\n\n\n\n\n\n\nComponent\nDetails\n\n\n\n\nThrusters\n8 × T200 (4 horizontal, 4 vertical)\n\n\nFrame Material\nAnodized aluminum and Delrin\n\n\nDepth Rating\n300 m (with upgraded penetrators and enclosures)\n\n\nTether\nFathom Slim tether, 150 m (via Fathom-X interface)\n\n\nTether Holder\nTether holder is capable of holding 300 m capacity\n\n\nBuoyancy and Ballast\nAdjustable with ballast weights and buoyancy foam\n\n\n\n\n\n\nElectronics\n\n\n\n\n\n\n\nComponent\nDetails\n\n\n\n\nFlight Controller\nPixhawk with ArduSub firmware\n\n\nCompanion Computer\nRaspberry Pi 4 (2 GB)\n\n\nPower Supply\n14.8V, 18Ah Lithium-ion battery\n\n\nESCs\nBlue Robotics Basic ESCs (30A)\n\n\nTopside Interface\nDell Pro Rugged Laptop with QGroundControl\n\n\n\n\n\n\nNavigation & Sensors\n\n\n\n\n\n\n\nSensor/Device\nFunction\n\n\n\n\nBar30 Pressure Sensor\nDepth + Temperature\n\n\nIMU\nOrientation (gyro, accelerometer, compass)\n\n\nGPS\nOptional, surface-only (not equipped in current build)\n\n\nCamera\n1080p HD low-light, tilt-mounted\n\n\nLighting\n4–6 × Lumen Subsea Lights (~1500 lumens each)\n\n\n\n\n\n\nSoftware & Control\n\n\n\n\n\n\n\nSoftware/System\nFunction\n\n\n\n\nBlueOS\nVehicle-side OS, sensor management, and web interface\n\n\nArduSub\nROV firmware on Pixhawk for vehicle stabilization\n\n\nQGroundControl\nGround station software for real-time control + telemetry\n\n\nNode-RED\nSensor integration, real-time data pipelines, logging\n\n\nTelemetry Protocol\nMAVLink over UDP via Fathom-X\n\n\n\n\n\n\nExpandability\n\n\n\n\n\n\n\nCapability\nDetails\n\n\n\n\nPayload Bay\nModular, supports grabbers, sonars, CTD sensors, and more\n\n\nConnectors\nI2C, UART, and USB for digital sensors and add-ons\n\n\nThird-Party Support\nCompatible with Blue Robotics, Atlas Scientific, and OpenCTD\n\n\nCustom Scripts\nNode-RED and Python-based control and logging tools"
+  },
+  {
+    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#manuals",
+    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#manuals",
+    "title": "Blue Robotics BlueROV2",
+    "section": "Manuals",
+    "text": "Manuals\n\nAssembly Manuals\nBlueROV2 Heavy Assembly\nPayload Skid Assembly\nNewton Subsea Gripper\nPing360 Sonar\n\n\n\nRepair Manuals\nNewton Subsea Gripper\nPing360 Sonar: This details how to change the communication interface for the Ping360 sonar\n\n\n\nSoftware Manuals\nBlueROV2 Software Setup\nArduPilot\nPing Viewer: GUI for Ping360 sonar\n\n\n\nLearning Manuals\nOperation Guide: Pre-dive checklist, how to arm sub, and how to operate. MUST READ BEFORE USE\nUndestanding/Using Sonar"
+  },
+  {
+    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#sop-standard-operating-procedure",
+    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#sop-standard-operating-procedure",
+    "title": "Blue Robotics BlueROV2",
+    "section": "(SOP) Standard Operating Procedure",
+    "text": "(SOP) Standard Operating Procedure\n\nPurpose\nThis SOP outlines the essential steps for safely operating the BlueROV2 in field or lab settings using the Heavy Configuration. It assumes prior assembly, software setup, and pre-dive checks have been completed. MUST READ BEFORE USE\n\n\n\n1. Pre-Dive Checklist\n\n✅ Inspect tether for damage or kinks\n✅ Check watertight enclosures for proper sealing (hand-tight only)\n✅ Confirm thruster cables are secure and routed properly\n✅ Power battery (fully charged, securely mounted)\n✅ Power on topside computer and connect via Fathom-X\n✅ Open BlueOS web UI to verify:\n\nSensor detection (Bar30, camera, IMU)\nFirmware (ArduSub) is up-to-date\nNetwork and telemetry are functional\n\n✅ Launch QGroundControl and verify:\n\nVehicle connection via MAVLink\nJoystick/controller input\nLive video feed\n\n\n\n\n\n2. Deployment Procedure\n\nTwo-person lift recommended\nCarefully lower the ROV into the water\nKeep tether slack managed and clear of propellers\nBegin dive operations once stabilized at surface\n\n\n\n\n3. Basic Operation (QGroundControl)\n\nUse joystick or keyboard to control:\n\nSurge/Sway: forward/back and left/right\nHeave: ascend/descend\nYaw/Pitch/Roll: rotation\n\nMonitor:\n\nDepth (Bar30 sensor)\nVideo feed (camera)\nBattery voltage\nOrientation and heading\n\n\n\n\n\n4. Recovery Procedure\n\nReturn to surface slowly by following tether\nRetrieve tether while avoiding snags or thruster contact\nOnce at surface and ready to recover, disarm system\nLift ROV out by frame, not tether\nDisconnect battery\n\n\n\n\n5. Post-Dive Care\n\nRinse vehicle with fresh water (especially thrusters and connectors)\nRemove and dry tether\nInspect O-rings, enclosures, and seals for leaks\nReview flight logs and sensor data if needed\n\n\n\n\nSafety Notes\n\nAlways operate in pairs\nAvoid heavily traffic areas (boats and personnel)\nMaintain line-of-sight and control over the ROV\nAvoid entanglement zones (kelp, cables)\nWatch for overheating on topside electronics\nNever operate with damaged enclosures or exposed wires"
+  },
+  {
+    "objectID": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#instrument-table",
+    "href": "Instrumentation/BlueRobotics-ROV-BlueROV2.html#instrument-table",
+    "title": "Blue Robotics BlueROV2",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Blue-Robotics-BlueROV2"
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#description",
+    "href": "Instrumentation/Instron-34SC-1.html#description",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Description",
+    "text": "Description\nThe Instron 34SC-1 Universal Testing System is a single-column, electromechanical testing machine designed for low-force mechanical testing applications, offering precision, reliability, and versatility. Part of Instron’s 3400 Series, it has a force capacity of up to 1 kN (1000 N or approximately 225 lbf), making it ideal for tensile, compression, flexure, peel, puncture, friction, and shear tests on a wide range of materials, including plastics, textiles, biomaterials, thin films, and small components.\nThe 34SC-1 is equipped with a 1000 N load cell, a 1000 N crosshead, and a 1000 N pneumatic side-action grip, and is controlled by Instron’s Bluehill Universal software, which allows for easy test setup, data acquisition, and analysis. The system is also equipped with a video extensometer for non-contact strain measurement, and a temperature chamber for testing at controlled temperatures."
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#technical-details",
+    "href": "Instrumentation/Instron-34SC-1.html#technical-details",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nModel\nInstron 34SC-1 (3400 Series, Single Column)\n\n\nForce Capacity\n1 kN (1000 N, ~225 lbf)\n\n\nLoad Accuracy\n±0.5% of reading down to 1/500th of load cell capacity (±1% below 1/500)\n\n\nLoad Cell Compatibility\nInstron Smart Load Cells (e.g., 5 N to 1 kN range)\n\n\nCrosshead Travel (Standard)\n~675 mm (26.6 in)\n\n\nCrosshead Travel (Extra Height)\n~975 mm (38.4 in)\n\n\nMaximum Speed\n1000 mm/min (40 in/min)\n\n\nMinimum Speed\n0.001 mm/min (0.00004 in/min)\n\n\nSpeed Accuracy\n±0.1% of set speed under load\n\n\nReturn Speed\nUp to 2000 mm/min (80 in/min)\n\n\nVertical Test Space (Standard)\n~772 mm (30.4 in) from base to crosshead\n\n\nVertical Test Space (Extra Height)\n~1072 mm (42.2 in)\n\n\nHorizontal Test Space\n100 mm (3.94 in) throat depth\n\n\nData Acquisition Rate\nUp to 1 kHz (1000 data points per second)\n\n\nDrive System\nBrushless AC servomotor, pre-loaded ball screws\n\n\nPosition Control Resolution\n&lt;0.001 mm (0.00004 in)\n\n\nPower Requirements\n100-240 VAC, 50/60 Hz, single phase, 400 VA max\n\n\nOperating Temperature\n+10°C to +38°C (+50°F to +100°F)\n\n\nStorage Temperature\n-40°C to +66°C (-40°F to +150°F)\n\n\nHumidity Range\n10% to 90% non-condensing\n\n\nHeight (Standard)\n1048 mm (41.3 in)\n\n\nHeight (Extra Height)\n1348 mm (53.1 in)\n\n\nWidth\n575 mm (22.6 in)\n\n\nDepth\n608 mm (23.9 in)\n\n\nWeight\n~65 kg (143 lb)\n\n\nSoftware\nBluehill Universal (touchscreen or PC interface)\n\n\nSafety Features\nOperator Protect (status-aware operation), emergency stop, limit switches\n\n\nStandards Compliance\nSupports ASTM, ISO, EN, JIS, and custom test methods\n\n\nAccessory Compatibility\nGrips, fixtures, extensometers (contact Instron for catalog)\n\n\nFrame Stiffness\n~1.2 kN/mm (nominal, varies with setup)\n\n\nNoise Level\n&lt;70 dB during operation\n\n\n\n\n\n\n\n\n\n\nSerial Number plate"
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#manuals",
+    "href": "Instrumentation/Instron-34SC-1.html#manuals",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure\n\n\nCertifications\n\nCertificate of Calibration Displacement\nCertificate of Calibration Speed\nCertificate of Calibration Force"
+  },
+  {
+    "objectID": "Instrumentation/Instron-34SC-1.html#instrument-table",
+    "href": "Instrumentation/Instron-34SC-1.html#instrument-table",
+    "title": "Instron 34SC-1 Universal Testing System",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Instron-34SC-1"
+  },
+  {
+    "objectID": "Instrumentation/Logbooks.html",
+    "href": "Instrumentation/Logbooks.html",
+    "title": "Scientific Instrumentation Digital Logbooks",
+    "section": "",
+    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nBlue Robotics BlueROV2\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nTESCAN CLARA SEM\nYSI EXO1 Sonde"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Description",
+    "text": "Description\nThe PerkinElmer Spotlight 200i is an integrated Fourier Transform Infrared (FTIR) microscopy system coupled with a Spectrum Two spectrometer. This instrument combines infrared spectroscopy with optical microscopy for molecular characterization of microscale samples and spatially-resolved chemical analysis. The system features dual-mode operation allowing both visible and infrared imaging of samples.\nThe Spotlight 200i microscope enables both point-by-point spectral data collection and rapid infrared imaging using a linear array detector. It provides automated sample stage control, multiple objectives for different magnifications, and can be configured for transmission, reflection, and attenuated total reflection (ATR) sampling modes. The system is designed for applications in materials science, polymer analysis, pharmaceutical development, forensic science, and biomedical research where microscale chemical identification is required.\nKey capabilities include chemical mapping of heterogeneous samples, identifying contaminants, analyzing layer structures, and performing quality control on small samples or defined regions of larger specimens. The integration with the Spectrum Two spectrometer provides a complete spectroscopic solution with extended spectral range capabilities."
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nValue\n\n\n\n\nMicroscope Model\nSpotlight 200i\n\n\nSpectrometer\nIntegrated Spectrum Two FTIR\n\n\nSpectral Range\n7,800 - 450 cm⁻¹ (with standard KBr beamsplitter)\n\n\nSpectral Resolution\n1 cm⁻¹ - 64 cm⁻¹ (adjustable)\n\n\nDetector Options\nMCT (Mercury Cadmium Telluride), Linear MCT Array\n\n\nImaging Modes\nTransmission, Reflectance, ATR\n\n\nPixel Size\n1.56 μm (minimum) - 25 μm (maximum)\n\n\nMaximum Image Area\n10 × 10 cm\n\n\nSample Viewing\nDigital Color Camera with 10× and 40× objectives\n\n\nStage Control\nComputer-controlled, motorized XYZ stage\n\n\nSoftware\nSpectrum 10, Spotlight, ImageAnalyze\n\n\nLiquid Nitrogen Cooling\nRequired for MCT detector (4-hour minimum hold time)\n\n\nOptical Purge\nAvailable for microscope and sample compartment\n\n\nDimensions (approx.)\n71 × 73 × 51 cm (W × D × H)\n\n\nWeight\nApproximately 84 kg (combined system)\n\n\nPower Requirements\n100-240 V, 50/60 Hz\n\n\nOperating Temperature\n15-35°C\n\n\nOperating Humidity\n&lt;80% RH, non-condensing"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "section": "",
+    "text": "Disaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "section": "",
+    "text": "Disaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html",
+    "href": "Instrumentation/SI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpotlight 200i FT-IR Microscopy System with Spectrum Two\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR with Microscope\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpotlight 200i FT-IR Microscopy System\n\n\nInstrument_Serial#\n127082\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-02\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-71-D2\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\n12200\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Schema.html",
+    "href": "Instrumentation/SI-Table-Schema.html",
+    "title": "Scientific Instrumentation Table Schema",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n\n\n\nInstrument_Acquisition_Date\n\n\n\nInstrument_CommonName\n\n\n\nInstrument_Manufacturer\n\n\n\nInstrument_Model\n\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
+    "href": "Instrumentation/SI-Table-YSI-EXO1-Sonde.html",
+    "title": "Scientific Instrumentation Table YSI EXO1 Sonde",
+    "section": "",
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nYSI EXO1 Sonde\n\n\nInstrument_Acquisition_Date\n2016-05\n\n\nInstrument_CommonName\nSonde\n\n\nInstrument_Manufacturer\nYSI\n\n\nInstrument_Model\nEXO1\n\n\nInstrument_Serial#\n16E101024\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\nNA\n\n\nInstrument_IP\nNA\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nYes\n\n\nInstrument_Building\nNA\n\n\nInstrument_Floor\nNA\n\n\nInstrument_Room\nNA\n\n\nSoftware_Vendor\nYSI\n\n\nSoftware_Product_Name\nKOR\n\n\nSoftware_Version\n1.4.1.10\n\n\nSoftware_Last_Updated_Date\n2025-04-29"
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#description",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#description",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Description",
+    "text": "Description\nThe YSI EXO1 Multiparameter Sonde is a compact, high-performance water quality monitoring instrument designed for estuarine, surface water, and groundwater applications. Featuring four universal sensor ports, the EXO1 supports a range of titanium smart sensors for parameters like temperature, conductivity, pH, dissolved oxygen, turbidity, total algae, and fDOM. Its rugged, wet-mateable connectors and welded titanium components ensure durability in harsh environments, while built-in antifouling systems, including optional wiper technology, maintain data integrity during long-term deployments."
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#technical-details",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#technical-details",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Technical Details",
+    "text": "Technical Details"
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#manuals",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#manuals",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure\n\n\nNotes\n\nRemember when pairing the instrument with a computer running KOR application, that the instrument has to be in bluetooth pairing mode, which is done via a special [magnetic] tool.\nConnecting the YSI EXO1\n\nUse the KOR software to connect\nWill have to search several times, possibly 3 times.\n\nThe KOR software is profile specific for settings and instrument, meaning each profile will have to pair and connect with the YSI EXO1 sonde."
+  },
+  {
+    "objectID": "Instrumentation/YSI-EXO1-Sonde.html#instrument-table",
+    "href": "Instrumentation/YSI-EXO1-Sonde.html#instrument-table",
+    "title": "YSI EXO1 Multiparameter Water Quality Sonde",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-YSI-EXO1-Sonde"
+  },
+  {
+    "objectID": "MetaCategory/Drones.html",
+    "href": "MetaCategory/Drones.html",
+    "title": "Meta-Category: Drones",
+    "section": "",
+    "text": "Blue Robotics BlueROV2"
   },
   {
     "objectID": "MetaCategory/Microscopy.html",
@@ -431,6 +445,6 @@
     "href": "MetaCategory/Other.html",
     "title": "Meta-Category: Other",
     "section": "",
-    "text": "Blue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Instron 34SC-1"
   }
 ]

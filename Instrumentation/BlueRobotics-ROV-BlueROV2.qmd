@@ -40,6 +40,7 @@ This project utilizes the **Heavy Configuration** of the BlueROV2, equipped with
 | **Frame Material**         | Anodized aluminum and Delrin                      |
 | **Depth Rating**           | 300 m (with upgraded penetrators and enclosures)  |
 | **Tether**                 | Fathom Slim tether, 150 m (via Fathom-X interface)|
+| **Tether Holder**          | Tether holder is capable of holding 300 m capacity|
 | **Buoyancy and Ballast**   | Adjustable with ballast weights and buoyancy foam |
 
 ---
