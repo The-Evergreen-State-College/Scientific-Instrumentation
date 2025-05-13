@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Drones\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\nMeta-Category: Imaging\n\n\n\nMeta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Imaging\n\n\n\nMeta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Unmanned Vehicle Systems (UVS)\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#data-loggers",
@@ -12,13 +12,6 @@
     "title": "Instrument Gallery",
     "section": "",
     "text": "Meta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde"
-  },
-  {
-    "objectID": "index.html#drones",
-    "href": "index.html#drones",
-    "title": "Instrument Gallery",
-    "section": "",
-    "text": "Meta-Category: Drones\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2"
   },
   {
     "objectID": "index.html#imaging",
@@ -42,6 +35,13 @@
     "text": "Meta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
   },
   {
+    "objectID": "index.html#unmanned-vehicle-systems-uvs",
+    "href": "index.html#unmanned-vehicle-systems-uvs",
+    "title": "Instrument Gallery",
+    "section": "",
+    "text": "Meta-Category: Unmanned Vehicle Systems (UVS)\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2"
+  },
+  {
     "objectID": "index.html#other",
     "href": "index.html#other",
     "title": "Instrument Gallery",
@@ -49,25 +49,25 @@
     "text": "Meta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
-    "objectID": "MetaCategory/Spectroscopy.html",
-    "href": "MetaCategory/Spectroscopy.html",
-    "title": "Meta-Category: Spectroscopy",
+    "objectID": "MetaCategory/UnmannedVehicleSystems.html",
+    "href": "MetaCategory/UnmannedVehicleSystems.html",
+    "title": "Meta-Category: Unmanned Vehicle Systems (UVS)",
     "section": "",
-    "text": "Agilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
+    "text": "Blue Robotics BlueROV2"
   },
   {
-    "objectID": "MetaCategory/NIST-2024.html",
-    "href": "MetaCategory/NIST-2024.html",
-    "title": "2024 Congressionally Directed Spending (CDS), [NIST] Instrumentation List",
+    "objectID": "MetaCategory/Other.html",
+    "href": "MetaCategory/Other.html",
+    "title": "Meta-Category: Other",
     "section": "",
-    "text": "In 2024, The Evergreen State College in Olympia, Washington, received $2.135 million through Congressionally Directed Spending (CDS) to acquire advanced laboratory equipment for STEM research and research training programs. This funding was secured by U.S. Senator Patty Murray, formerly Chair of the Senate Appropriations Committee, as part of the fiscal year 2024 Commerce, Justice, Science, and Related Agencies appropriations bill. The National Institute of Standards and Technology (NIST), part of the U.S. Department of Commerce, administers the funds, managing their distribution and compliance, though the funding was directed by Congress.\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM"
+    "text": "Instron 34SC-1"
   },
   {
-    "objectID": "MetaCategory/NIST-2024.html#summary",
-    "href": "MetaCategory/NIST-2024.html#summary",
-    "title": "2024 Congressionally Directed Spending (CDS), [NIST] Instrumentation List",
+    "objectID": "MetaCategory/Microscopy.html",
+    "href": "MetaCategory/Microscopy.html",
+    "title": "Meta-Category: Microscopy",
     "section": "",
-    "text": "In 2024, The Evergreen State College in Olympia, Washington, received $2.135 million through Congressionally Directed Spending (CDS) to acquire advanced laboratory equipment for STEM research and research training programs. This funding was secured by U.S. Senator Patty Murray, formerly Chair of the Senate Appropriations Committee, as part of the fiscal year 2024 Commerce, Justice, Science, and Related Agencies appropriations bill. The National Institute of Standards and Technology (NIST), part of the U.S. Department of Commerce, administers the funds, managing their distribution and compliance, though the funding was directed by Congress.\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM"
+    "text": "TESCAN CLARA SEM"
   },
   {
     "objectID": "MetaCategory/DataLoggers.html",
@@ -427,24 +427,24 @@
     "text": "Instrument Table\nSI-Table-YSI-EXO1-Sonde"
   },
   {
-    "objectID": "MetaCategory/Drones.html",
-    "href": "MetaCategory/Drones.html",
-    "title": "Meta-Category: Drones",
+    "objectID": "MetaCategory/NIST-2024.html",
+    "href": "MetaCategory/NIST-2024.html",
+    "title": "2024 Congressionally Directed Spending (CDS), [NIST] Instrumentation List",
     "section": "",
-    "text": "Blue Robotics BlueROV2"
+    "text": "In 2024, The Evergreen State College in Olympia, Washington, received $2.135 million through Congressionally Directed Spending (CDS) to acquire advanced laboratory equipment for STEM research and research training programs. This funding was secured by U.S. Senator Patty Murray, formerly Chair of the Senate Appropriations Committee, as part of the fiscal year 2024 Commerce, Justice, Science, and Related Agencies appropriations bill. The National Institute of Standards and Technology (NIST), part of the U.S. Department of Commerce, administers the funds, managing their distribution and compliance, though the funding was directed by Congress.\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM"
   },
   {
-    "objectID": "MetaCategory/Microscopy.html",
-    "href": "MetaCategory/Microscopy.html",
-    "title": "Meta-Category: Microscopy",
+    "objectID": "MetaCategory/NIST-2024.html#summary",
+    "href": "MetaCategory/NIST-2024.html#summary",
+    "title": "2024 Congressionally Directed Spending (CDS), [NIST] Instrumentation List",
     "section": "",
-    "text": "TESCAN CLARA SEM"
+    "text": "In 2024, The Evergreen State College in Olympia, Washington, received $2.135 million through Congressionally Directed Spending (CDS) to acquire advanced laboratory equipment for STEM research and research training programs. This funding was secured by U.S. Senator Patty Murray, formerly Chair of the Senate Appropriations Committee, as part of the fiscal year 2024 Commerce, Justice, Science, and Related Agencies appropriations bill. The National Institute of Standards and Technology (NIST), part of the U.S. Department of Commerce, administers the funds, managing their distribution and compliance, though the funding was directed by Congress.\n\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM"
   },
   {
-    "objectID": "MetaCategory/Other.html",
-    "href": "MetaCategory/Other.html",
-    "title": "Meta-Category: Other",
+    "objectID": "MetaCategory/Spectroscopy.html",
+    "href": "MetaCategory/Spectroscopy.html",
+    "title": "Meta-Category: Spectroscopy",
     "section": "",
-    "text": "Instron 34SC-1"
+    "text": "Agilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
   }
 ]
