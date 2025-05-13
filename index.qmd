@@ -27,7 +27,7 @@ format:
 
 ## Imaging
 
-[Meta-Category: Data loggers](/MetaCategory/Imaging.qmd)
+[Meta-Category: Imaging](/MetaCategory/Imaging.qmd)
 
 ## Microscopy
 
@@ -57,13 +57,21 @@ format:
 
 :::
 
+## Unmanned Vehicle Systems (UVS)
+
+[Meta-Category: Unmanned Vehicle Systems (UVS)](/MetaCategory/UnmannedVehicleSystems.qmd)
+
+::: {layout-ncol=2}
+
+[![Blue Robotics BlueROV2](/assets/images/BlueRobotics-ROV-BlueROV2.jpg){fig-align="left" width=200}](/Instrumentation/BlueRobotics-ROV-BlueROV2.html)
+
+:::
+
 ## Other
 
 [Meta-Category: Other](/MetaCategory/Other.qmd)
 
 ::: {layout-ncol=2}
-
-[![Blue Robotics BlueROV2](/assets/images/BlueRobotics-ROV-BlueROV2.jpg){fig-align="left" width=200}](/Instrumentation/BlueRobotics-ROV-BlueROV2.html)
 
 [![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg "Instron 34SC-1"){fig-align="left" width=200}](/Instrumentation/Instron-34SC-1.qmd)
 
