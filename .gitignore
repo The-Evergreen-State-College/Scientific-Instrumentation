@@ -23,3 +23,9 @@ Gemfile.lock
 
 # VS Code files and directories
 .vscode/
+
+# R
+.Rhistory
+
+# MAC Users
+.DS_Store
