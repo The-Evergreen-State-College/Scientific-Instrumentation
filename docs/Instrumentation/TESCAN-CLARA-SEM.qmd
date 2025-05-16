@@ -1,6 +1,6 @@
 ---
-title: "TESCAN CLARA SEM"
-subtitle: "Scanning Electron Microscope"
+title: "TESCAN CLARA LMU Ultra-High Resolution Variable Pressure Schottky Field Emission Scanning Electron Microscope (SEM)"
+subtitle: "with [Quorum - PP3010 Cryo-SEM Preparation System](https://www.quorumtech.com/products/cryo-preparation-systems/pp3010)"
 date: last-modified
 format:
   html:
@@ -32,3 +32,5 @@ The [TESCAN CLARA](https://info.tescan.com/sem/clara), an ultra-high-resolution 
 
 
 ## Instrument Table
+
+[SI-Table-TESCAN-CLARA-SEM](/Instrumentation/SI-Table-TESCAN-CLARA-SEM.qmd)
