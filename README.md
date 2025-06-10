@@ -21,3 +21,8 @@ Collection of resources used in the development of this website.
 
 ### Typeface
 - [Google Fonts](https://fonts.google.com/)
+
+
+
+## 📊 GitHub Stats
+![Alt](https://repobeats.axiom.co/api/embed/1ca2d17fb0b0e38085db4b3a6d1cba1b30b39b76.svg "Repobeats analytics image")
