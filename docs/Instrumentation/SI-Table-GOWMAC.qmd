@@ -1,0 +1,220 @@
+---
+title: "Scientific Instrumentation Table: GOWMAC 400"
+date: last-modified
+format:
+  html:
+    toc: true
+    css: styles.css
+---
+
+# Tables
+
+## GOWMAC 1
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | GOWMAC 400      |
+| Instrument_Acquisition_Date    | 2025-07      |
+| Instrument_CommonName          | GOWMAC      |
+| Instrument_Manufacturer        |  [GOWMAC Instrument Co.](https://www.gow-mac.com/)    |
+| Instrument_Model               |  [400 Academic](https://www.gow-mac.com/index.php/academic/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    3   |
+| Instrument_Room                |   3216    |
+| Computer_Hostname              |   SC-GOWMAC-01    |
+| Computer_IP                    |       |
+| Computer_MAC                   |   B4-E9-B8-43-D5-9C     |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |   Pro Max Slim FCS 1250    |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |   24H2    |
+| Computer_RAM                   |   32 GB    |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}
+
+## GOWMAC 2
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | GOWMAC 400      |
+| Instrument_Acquisition_Date    | 2025-07      |
+| Instrument_CommonName          | GOWMAC      |
+| Instrument_Manufacturer        |  [GOWMAC Instrument Co.](https://www.gow-mac.com/)    |
+| Instrument_Model               |  [400 Academic](https://www.gow-mac.com/index.php/academic/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    3   |
+| Instrument_Room                |   3216    |
+| Computer_Hostname              |   SC-GOWMAC-02    |
+| Computer_IP                    |       |
+| Computer_MAC                   |  B4-E9-B8-43-D5-37      |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |   Pro Max Slim FCS 1250    |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |   24H2    |
+| Computer_RAM                   |   32 GB    |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}
+
+## GOWMAC 3
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | GOWMAC 400      |
+| Instrument_Acquisition_Date    | 2025-07      |
+| Instrument_CommonName          | GOWMAC      |
+| Instrument_Manufacturer        |  [GOWMAC Instrument Co.](https://www.gow-mac.com/)    |
+| Instrument_Model               |  [400 Academic](https://www.gow-mac.com/index.php/academic/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    3   |
+| Instrument_Room                |   3216    |
+| Computer_Hostname              |   SC-GOWMAC-03    |
+| Computer_IP                    |       |
+| Computer_MAC                   |  B4-E9-B8-43-D5-A6      |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |   Pro Max Slim FCS 1250    |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |   24H2    |
+| Computer_RAM                   |   32 GB    |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}
+
+## GOWMAC 4
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | GOWMAC 400      |
+| Instrument_Acquisition_Date    | 2025-07      |
+| Instrument_CommonName          | GOWMAC      |
+| Instrument_Manufacturer        |  [GOWMAC Instrument Co.](https://www.gow-mac.com/)    |
+| Instrument_Model               |  [400 Academic](https://www.gow-mac.com/index.php/academic/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    3   |
+| Instrument_Room                |   3216    |
+| Computer_Hostname              |   SC-GOWMAC-04    |
+| Computer_IP                    |       |
+| Computer_MAC                   |   B4-E9-B8-43-D5-7B     |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |   Pro Max Slim FCS 1250    |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |   24H2    |
+| Computer_RAM                   |   32 GB    |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}
+
+## GOWMAC 5
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | GOWMAC 400      |
+| Instrument_Acquisition_Date    | 2025-07      |
+| Instrument_CommonName          | GOWMAC      |
+| Instrument_Manufacturer        |  [GOWMAC Instrument Co.](https://www.gow-mac.com/)    |
+| Instrument_Model               |  [400 Academic](https://www.gow-mac.com/index.php/academic/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    3   |
+| Instrument_Room                |   3216    |
+| Computer_Hostname              |   SC-GOWMAC-05    |
+| Computer_IP                    |       |
+| Computer_MAC                   |   B4-E9-B8-43-D5-13     |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |   Pro Max Slim FCS 1250    |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |   24H2    |
+| Computer_RAM                   |   32 GB    |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}
+
+## GOWMAC 6
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | GOWMAC 400      |
+| Instrument_Acquisition_Date    | 2025-07      |
+| Instrument_CommonName          | GOWMAC      |
+| Instrument_Manufacturer        |  [GOWMAC Instrument Co.](https://www.gow-mac.com/)    |
+| Instrument_Model               |  [400 Academic](https://www.gow-mac.com/index.php/academic/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    3   |
+| Instrument_Room                |   3216    |
+| Computer_Hostname              |   SC-GOWMAC-06    |
+| Computer_IP                    |       |
+| Computer_MAC                   | B4-E9-B8-43-D5-2F       |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |   Pro Max Slim FCS 1250    |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |   24H2    |
+| Computer_RAM                   |   32 GB    |
+| Computer_HD                    |       |
+| Software_Vendor                |       |
+| Software_Product_Name          |       |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}

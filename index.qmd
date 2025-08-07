@@ -14,6 +14,16 @@ format:
 
 # meta-categories
 
+## Chromatography
+
+[Meta-Category: Chromatography](/MetaCategory/Chromatography.qmd)
+
+::: {layout-ncol=2}
+
+[![GOWMAC 400](/assets/images/GOWMAC-400-front.jpeg "GOWMAC 400"){fig-align="left" width=200}](/Instrumentation/GOWMAC-400.qmd)
+
+:::
+
 
 ## Data loggers
 
@@ -24,6 +34,7 @@ format:
 [![YSI EXO1 Sonde](/assets/images/YSI-EXO1-Sonde-HH.jpg "YSI EXO1 Sonde"){fig-align="left" width=200}](/Instrumentation/YSI-EXO1-Sonde.qmd)
 
 :::
+
 
 ## Imaging
 

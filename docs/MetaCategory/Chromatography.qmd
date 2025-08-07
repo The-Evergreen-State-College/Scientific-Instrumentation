@@ -1,0 +1,10 @@
+---
+title: "Meta-Category: Chromatography"
+---
+
+
+::: {layout-ncol=1}
+
+[![GOWMAC 400](/assets/images/GOWMAC-400-front.jpeg "GOWMAC 400"){fig-align="left" width=200}](/Instrumentation/GOWMAC-400.html)
+
+:::

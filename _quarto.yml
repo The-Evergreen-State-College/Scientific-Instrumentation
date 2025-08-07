@@ -19,6 +19,8 @@ website:
         menu:
           - text: "NIST-2024"
             href: "MetaCategory/NIST-2024.qmd"
+          - text: "Chromatography"
+            href: "MetaCategory/Chromatography.qmd"
           - text: "Data Loggers"
             href: "MetaCategory/DataLoggers.qmd"
           - text: "Imaging"
@@ -37,6 +39,8 @@ website:
             href: "Instrumentation/Agilent-ICP-MS-7850.qmd"
           - text: "Blue Robotics BlueROV2"
             href: "Instrumentation/BlueRobotics-ROV-BlueROV2.qmd"
+          - text: "GOWMAC 400"
+            href: "Instrumentation/GOWMAC-400.qmd"
           - text: "Instron 34SC-1"
             href: "Instrumentation/Instron-34SC-1.qmd"
           - text: "Molecular Devices SpectraMax iD3 Microplate Reader"
