@@ -157,4 +157,4 @@ To contribute effectively, set up the following tools:
   - [GitHub Guides](https://guides.github.com/)
   - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-Thank you for contributing to **Scientific-Instrumentation**! Your work helps advance open-source scientific tools at Evergreen.
+Thank you for contributing to **Scientific-Instrumentation**! Your work helps advance creative commons & open-source scientific tools at Evergreen.

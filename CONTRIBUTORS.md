@@ -21,4 +21,4 @@ This file lists the contributors to the Scientific-Instrumentation project.
 
 
 ## Acknowledgments
-* The Evergreen State College for supporting this project
+* The Sciences at The Evergreen State College for supporting this project.
