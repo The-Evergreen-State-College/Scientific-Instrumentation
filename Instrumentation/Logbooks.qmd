@@ -14,6 +14,7 @@ format:
 - [Agilent ICP-MS 7850](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/4)
 - [Blue Robotics BlueROV2](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/11)
 - [Instron 34SC-1](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2)
+- [Leica M205 FCA Microscope](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/14)
 - [Molecular Devices SpectraMax iD3 Microplate Reader](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/5)
 - [PerkinElmer FT-IR Spectrum Two](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/6)
 - [PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/7)

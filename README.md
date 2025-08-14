@@ -1,7 +1,7 @@
 ![](/assets/logo/Evergreen-full-name--green.png)
 
 # This is the Github readme...
-Go to website: [Scientific-Instrumentation](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/)
+# Go to website: [Scientific-Instrumentation](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/)
 
 <h2 align="center"> :bangbang:  :construction:  :bangbang: WORK IN PROGRESS... :bangbang:  :construction:  :bangbang: </h2> <br>
 
