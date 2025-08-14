@@ -1,0 +1,58 @@
+---
+title: "Leica-M205-FCA-Microscope"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Leica-M205-FCS-Microscope.png "Leica M205 FCA Microscope"){fig-align="left" width=300}
+
+
+## Description
+
+The [Leica M205 FCA](https://www.leica-microsystems.com/products/light-microscopes/stereo-microscopes/p/leica-m205-fca/) is a fluorescence stereo microscope designed for high-resolution imaging of macroscopic samples. It features a zoom range of 7.8:1 (0.64x–5x) with a maximum magnification of 160x using standard 1x objectives. The microscope uses a coded zoom system for precise magnification tracking and reproducibility. It is equipped with a fluorescence module that supports multiple filter sets for visualizing fluorescent signals across various wavelengths, suitable for applications like biological research or material inspection.The system includes a trinocular head for camera integration, enabling digital image capture. It uses LED illumination for both brightfield and fluorescence, with adjustable intensity to minimize photobleaching. The working distance ranges from 61.5 mm to 135 mm, depending on the objective, allowing flexibility for sample manipulation. The microscope has a modular design, supporting accessories like motorized focus, stages, and camera adapters for customized setups.The optical system employs apochromatic correction to reduce chromatic aberrations, providing clear and sharp images. It also features ergonomic adjustments for user comfort during extended use, including adjustable eyepieces and a tilting head option. The instrument is controlled via a combination of manual knobs and software for fluorescence settings and image acquisition.
+
+
+
+## Technical Details
+
+| **Feature** | **Specification** |
+|-------------|-------------------|
+| **Optical System** | Fully apochromatic optics with FusionOptics technology |
+| **Zoom Ratio** | 20.5:1 manual zoom |
+| **Magnification Range** | 8x–160x (standard with 1x objective) |
+| **Maximum Resolution** | 1279 lp/mm (0.78 µm, ISO18221 standard with 2.0x PlanApo objective) |
+| **Numerical Aperture** | Up to 0.35 (with 2.0x PlanApo objective) |
+| **Objective** | 2.0x PlanApo objective (optional correction collar for refractive index adjustment) |
+| **Working Distance** | 61.5 mm–135 mm (depending on objective) |
+| **Depth of Field** | Enhanced via FusionOptics (right channel: high resolution, left channel: high depth) |
+| **Illumination** | LED for brightfield and fluorescence, adjustable intensity |
+| **Fluorescence Technology** | TripleBeam technology (separate excitation light path, no dichroic mirror) |
+| **Filter Changer** | Four-position coded filter changer |
+| **Stage** | Leica LMT 260 scanning stage, sub-µm positioning, supports live cell incubation |
+| **Automation** | Semi-automated with manual zoom; optional footswitch for filter, focus, and illumination control |
+| **Image Coding** | Encoded zoom and iris diaphragm, real-time magnification and scale bar updates |
+| **Software** | Compatible with Leica LAS X for experiment setup and analysis |
+| **Camera Integration** | Trinocular head, supports cameras (e.g., Leica DFC7000T, DFC3000 G) |
+| **Ergonomics** | Adjustable eyepieces, optional tilting head, footswitch option |
+| **Applications** | Transgenic research, neuroscience, cell culture imaging, developmental biology, immunohistochemistry, live cell imaging, fluorescent protein studies, zebrafish models |
+
+*[source](https://downloads.leica-microsystems.com/M205%20FCA/Brochure%20or%20Flyer/Leica_M205_FCA_brochure_EN.pdf)
+
+## Manuals
+
+[Leica M205 FCA User Manual](/docs/Instrumentation/Manuals/Leica_M165FC-M205FCA_UserManual_EN.pdf)
+
+[Motorized Focus Column User Manual](https://downloads.leica-microsystems.com/M205%20FCA/User%20Manual/Leica_Motorized%20focus%20column_UserManual_EN.pdf)
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[SI-Table-Leica-M205-FCA-Microscope](/Instrumentation/SI-Table-Leica-M205-FCA-Microscope.qmd)

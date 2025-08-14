@@ -48,6 +48,8 @@ format:
 
 [![TESCAN CLARA SEM](/assets/images/TESCAN_CLARA.webp "TESCAN CLARA SEM"){fig-align="left" width=300}](/Instrumentation/TESCAN-CLARA-SEM.qmd)
 
+[![Leica M205 FCA Microscope](/assets/images/Leica-M205-FCA-Microscope.png "Leica M205 FCA Microscope"){fig-align="left" width=300}](/Instrumentation/Leica-M205-FCA-Microscope.qmd)
+
 :::
 
 

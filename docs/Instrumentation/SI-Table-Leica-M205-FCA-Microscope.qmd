@@ -1,0 +1,43 @@
+---
+title: "Scientific Instrumentation Table Schema: Leica M205 FCA Microscope"
+date: last-modified
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+# Table Schema
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                |  Leica M205 FCA Microscope     |
+| Instrument_Acquisition_Date    |  2019-03     |
+| Instrument_CommonName          |  Leica M205 Stereomicroscope, a.k.a. Z-stacker     |
+| Instrument_Manufacturer        |  [Leica](https://www.leica-microsystems.com/)     |
+| Instrument_Model               |  [M205 FCA](https://www.leica-microsystems.com/products/light-microscopes/stereo-microscopes/p/leica-m205-fca/)     |
+| Instrument_Serial#             |       |
+| Instrument_Asset_Tag           |       |
+| Instrument_MAC                 |   NA    |
+| Instrument_IP                  |   NA    |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab I    |
+| Instrument_Floor               |   0    |
+| Instrument_Room                |   067D    |
+| Computer_Hostname              | SC-L-M205-FCA      |
+| Computer_IP                    | DHCP      |
+| Computer_MAC                   |  50-9A-4C-4C-E0-97     |
+| Computer_Make                  |   Dell    |
+| Computer_Model                 | Precision  3620     |
+| Computer_Asset_Tag             |  10064     |
+| Computer_OS                    |  Windows 10     |
+| Computer_OS_Version            |   22H2    |
+| Computer_RAM                   |   16 GB    |
+| Computer_HD                    |   256 GB    |
+| Software_Vendor                |   Leica    |
+| Software_Product_Name          |  LASX     |
+| Software_Version               |       |
+| Software_Last_Updated_Date     |       |
+
+: Table {.bordered .hover}

@@ -43,6 +43,8 @@ website:
             href: "Instrumentation/GOWMAC-400.qmd"
           - text: "Instron 34SC-1"
             href: "Instrumentation/Instron-34SC-1.qmd"
+          - text: "Leica M205 FCA Microscope"
+            href: "Instrumentation/Leica-M205-FCA-Microscope.qmd"  
           - text: "Molecular Devices SpectraMax iD3 Microplate Reader"
             href: "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd"
           - text: "PerkinElmer FI-IR Spectrum Two" 

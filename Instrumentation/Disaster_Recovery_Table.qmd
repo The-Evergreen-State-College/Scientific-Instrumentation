@@ -60,6 +60,7 @@ All images can be found here: `\\SC-Tellus\Images`
 | 30 | Molecular Devices SpectraMax iD3                                         | SC-MD-iD3-PL              | SC-MD-iD3-PL-img                                | 35 GB      | 2025-03-27  |                                                                       |
 | 31 | PerkinElmer FT-IR Spectrum Two                                           | SC-PE-FTIR-01             | PerkinElmer-FTIR-Spectrum-Two-01-img            | 69.2 GB    | 2025-04-14  |                  |
 | 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two      | SC-PE-FTIR-02             | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img  | 70.4 GB  | 2025-04-14  |                  |
+| 33 | [Leica M205 FCA Microscope](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/Instrumentation/Leica-M205-FCA-Microscope.html) | SC-L-M205-FCA          | SC-Leica-M205-FCA-Microscope-img                  | 57 GB    | 2025-08-14 |       
 
 : Table {.striped .bordered .hover}
 

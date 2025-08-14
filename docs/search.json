@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Chromatography\n\n\n\n\n\n\n\n\n\n\nGOWMAC 400\n\n\n\n\n\n\n\n\nMeta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Imaging\n\n\n\nMeta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Unmanned Vehicle Systems (UVS)\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
+    "text": "Meta-Category: Chromatography\n\n\n\n\n\n\n\n\n\n\nGOWMAC 400\n\n\n\n\n\n\n\n\nMeta-Category: Data loggers\n\n\n\n\n\n\n\n\n\n\nYSI EXO1 Sonde\n\n\n\n\n\n\n\n\nMeta-Category: Imaging\n\n\n\nMeta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\n\n\n\nLeica M205 FCA Microscope\n\n\n\n\n\n\n\n\nMeta-Category: Spectroscopy\n\n\n\n\n\n\n\n\n\n\nAgilent ICP-MS 7850\n\n\n\n\n\n\n\n\n\n\n\nMolecular Devices SpectraMax iD3 Microplate Reader\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Spectrum Two\n\n\n\n\n\n\n\n\n\n\n\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\n\n\n\n\n\n\n\n\nMeta-Category: Unmanned Vehicle Systems (UVS)\n\n\n\n\n\n\n\n\n\n\nBlue Robotics BlueROV2\n\n\n\n\n\n\n\n\nMeta-Category: Other\n\n\n\n\n\n\n\n\n\n\nInstron 34SC-1"
   },
   {
     "objectID": "index.html#chromatography",
@@ -32,7 +32,7 @@
     "href": "index.html#microscopy",
     "title": "Instrument Gallery",
     "section": "",
-    "text": "Meta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM"
+    "text": "Meta-Category: Microscopy\n\n\n\n\n\n\n\n\n\n\nTESCAN CLARA SEM\n\n\n\n\n\n\n\n\n\n\n\nLeica M205 FCA Microscope"
   },
   {
     "objectID": "index.html#spectroscopy",
@@ -74,7 +74,7 @@
     "href": "MetaCategory/Microscopy.html",
     "title": "Meta-Category: Microscopy",
     "section": "",
-    "text": "TESCAN CLARA SEM"
+    "text": "TESCAN CLARA SEM\n\n\n\n\n\n\n\n\n\n\n\nLeica M205 FCA Microscope"
   },
   {
     "objectID": "MetaCategory/DataLoggers.html",
@@ -133,81 +133,109 @@
     "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nSpotlight 200i FT-IR Microscopy System with Spectrum Two\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nInfrared Spectroscopy FTIR with Microscope\n\n\nInstrument_Manufacturer\nPerkinElmer\n\n\nInstrument_Model\nSpotlight 200i FT-IR Microscopy System\n\n\nInstrument_Serial#\n127082\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-PE-FTIR-02\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-71-D2\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\n12200\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n64 GB\n\n\nComputer_HD\n1 TB\n\n\nSoftware_Vendor\nPerkinElmer\n\n\nSoftware_Product_Name\nPerkinElmer Spectrum IR\n\n\nSoftware_Version\n10.7.2.1630 Service Pack 2.6\n\n\nSoftware_Last_Updated_Date\n2025-03"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
-    "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
-    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "objectID": "Instrumentation/SI-Table-Leica-M205-FCA-Microscope.html",
+    "href": "Instrumentation/SI-Table-Leica-M205-FCA-Microscope.html",
+    "title": "Scientific Instrumentation Table Schema: Leica M205 FCA Microscope",
     "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nLeica M205 FCA Microscope\n\n\nInstrument_Acquisition_Date\n2019-03\n\n\nInstrument_CommonName\nLeica M205 Stereomicroscope, a.k.a. Z-stacker\n\n\nInstrument_Manufacturer\nLeica\n\n\nInstrument_Model\nM205 FCA\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\nNA\n\n\nInstrument_IP\nNA\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n0\n\n\nInstrument_Room\n067D\n\n\nComputer_Hostname\nSC-L-M205-FCA\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n50-9A-4C-4C-E0-97\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 3620\n\n\nComputer_Asset_Tag\n10064\n\n\nComputer_OS\nWindows 10\n\n\nComputer_OS_Version\n22H2\n\n\nComputer_RAM\n16 GB\n\n\nComputer_HD\n256 GB\n\n\nSoftware_Vendor\nLeica\n\n\nSoftware_Product_Name\nLASX\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
-    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
-    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html",
+    "href": "Instrumentation/SI-Table-GOWMAC.html",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-01\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-9C\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-02\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-37\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-03\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-A6\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-04\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-7B\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-05\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-06\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-2F\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-1",
+    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-1",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-01\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-9C\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-2",
+    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-2",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-02\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-37\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-3",
+    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-3",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-03\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-A6\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-4",
+    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-4",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-04\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-7B\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-5",
+    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-5",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-05\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-6",
+    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-6",
+    "title": "Scientific Instrumentation Table: GOWMAC 400",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-06\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-2F\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
     "section": "",
     "text": "Disaster Recovery Table"
   },
   {
-    "objectID": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
-    "href": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
-    "title": "Scientific Instrumentation Table Schema",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Description",
+    "text": "Description\nThe PerkinElmer Spotlight 200i is an integrated Fourier Transform Infrared (FTIR) microscopy system coupled with a Spectrum Two spectrometer. This instrument combines infrared spectroscopy with optical microscopy for molecular characterization of microscale samples and spatially-resolved chemical analysis. The system features dual-mode operation allowing both visible and infrared imaging of samples.\nThe Spotlight 200i microscope enables both point-by-point spectral data collection and rapid infrared imaging using a linear array detector. It provides automated sample stage control, multiple objectives for different magnifications, and can be configured for transmission, reflection, and attenuated total reflection (ATR) sampling modes. The system is designed for applications in materials science, polymer analysis, pharmaceutical development, forensic science, and biomedical research where microscale chemical identification is required.\nKey capabilities include chemical mapping of heterogeneous samples, identifying contaminants, analyzing layer structures, and performing quality control on small samples or defined regions of larger specimens. The integration with the Spectrum Two spectrometer provides a complete spectroscopic solution with extended spectral range capabilities."
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nValue\n\n\n\n\nMicroscope Model\nSpotlight 200i\n\n\nSpectrometer\nIntegrated Spectrum Two FTIR\n\n\nSpectral Range\n7,800 - 450 cm⁻¹ (with standard KBr beamsplitter)\n\n\nSpectral Resolution\n1 cm⁻¹ - 64 cm⁻¹ (adjustable)\n\n\nDetector Options\nMCT (Mercury Cadmium Telluride), Linear MCT Array\n\n\nImaging Modes\nTransmission, Reflectance, ATR\n\n\nPixel Size\n1.56 μm (minimum) - 25 μm (maximum)\n\n\nMaximum Image Area\n10 × 10 cm\n\n\nSample Viewing\nDigital Color Camera with 10× and 40× objectives\n\n\nStage Control\nComputer-controlled, motorized XYZ stage\n\n\nSoftware\nSpectrum 10, Spotlight, ImageAnalyze\n\n\nLiquid Nitrogen Cooling\nRequired for MCT detector (4-hour minimum hold time)\n\n\nOptical Purge\nAvailable for microscope and sample compartment\n\n\nDimensions (approx.)\n71 × 73 × 51 cm (W × D × H)\n\n\nWeight\nApproximately 84 kg (combined system)\n\n\nPower Requirements\n100-240 V, 50/60 Hz\n\n\nOperating Temperature\n15-35°C\n\n\nOperating Humidity\n&lt;80% RH, non-condensing"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
+    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
+    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200"
+  },
+  {
+    "objectID": "Instrumentation/Logbooks.html",
+    "href": "Instrumentation/Logbooks.html",
+    "title": "Scientific Instrumentation Digital Logbooks",
     "section": "",
-    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nBlue Robotics BlueROV2\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nBlueROV2\n\n\nInstrument_Manufacturer\nBlue Robotics\n\n\nInstrument_Model\nBlueROV2\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Description",
-    "text": "Description\nThe PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.\nThe instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems."
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\nSpecification [1]\nValue\n\n\n\n\n21 CFR Part 11 Compatible\nYes\n\n\nDepth\n30.0 cm\n\n\nDetector Type\nLiTaO₃\n\n\nHeight\n21.0 cm\n\n\nModel Name\nSpectrum Two FT-IR Spectrometer (LiTaO₃ Detector)\n\n\nOperating Range\n5 - 45 °C\n\n\nPortable\nYes\n\n\nProduct Brand Name\nSpectrum Two\n\n\nWarranty\n1 year\n\n\nWave Length\n8\n\n\nWave Length Range\n8,300 – 350 cm⁻¹\n\n\nWeight\n13.0 kg\n\n\nWidth\n45.0 cm\n\n\n\n[1]: Spectrum Two Specifications"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
-    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
-    "title": "PerkinElmer FT-IR Spectrum Two",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Spectrum-Two"
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Description",
-    "text": "Description\nThe Molecular Devices SpectraMax iD3 Multi-Mode Microplate Reader is a versatile, high-performance instrument designed for a wide range of laboratory applications in life sciences research. It offers three primary detection modes: absorbance, fluorescence, and luminescence ,making it suitable for assays such as ELISAs, nucleic acid and protein quantification, and microbial growth studies. The iD3 is equipped with a large, high-resolution touchscreen interface, allowing users to set up custom protocols, run experiments, and access preconfigured protocols without needing a dedicated computer workstation. Its built-in near-field communication (NFC) functionality enables personalized workflows, letting users tap NFC tags to quickly access custom protocols and results, which is particularly useful in multi-user labs. The optical system of the SpectraMax iD3 features a xenon flash lamp and an ultra-cooled photomultiplier tube (PMT) detector, which reduces background noise to provide excellent sensitivity and a wide dynamic range. This makes it ideal for demanding applications requiring high precision. The instrument supports flexible temperature control, adjustable from ambient up to 66°C, enabling temperature-sensitive assays. It also includes the QuickSync feature, which pushes data to any computer on the same network in an Excel-compatible format, streamlining data management. The iD3 is compatible with 6- to 384-well microplate formats and offers orbital shaking for uniform sample mixing. Powered by Molecular Devices’ industry-leading SoftMax Pro Software, the iD3 provides over 160 ready-to-run protocols, advanced data analysis tools, and 21 curve-fit options. For regulated environments, the SoftMax Pro GxP Compliance Software ensures compliance with FDA 21 CFR Part 11 and EudraLex Annex 11, offering secure data integrity for GMP/GLP labs. The instrument is modular and upgradeable, with options to expand capabilities for additional assays, though it does not include advanced modes like TR-FRET or BRET, which are available in the iD5 model."
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Technical Details",
-    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nRead modes\nAbsorbance, Fluorescence (top/bottom read), Luminescence (top read)\n\n\nWavelength ranges\nAbs: 230 - 1000 nm, FL Ex: 250 - 830 nm, FL Em: 270 - 850 nm, Lumi: 300 - 850 nm\n\n\nWavelength selection\nMonochromator tunable in 1-nm increments\n\n\nAbsorbance photometric accuracy/linearity\n&lt; ±0.010 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nAbsorbance photometric precision/repeatability\n&lt; ±0.003 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nSensitivity top read optimized\nFL: 1 pM fluorescein 96 well, 1 pM fluorescein 384 well, Lumi: 2 pM ATP 96 well, 4 pM\n\n\nLight source(s)\nHigh power xenon flash lamp\n\n\nDetector(s)\nSilicon photodiode, Ultra-cooled photomultiplier tube\n\n\nRead types (endpoint, kinetic, etc)\nEndpoint, Kinetic, Spectrum scan, Well scan\n\n\nRead times\nAbs: 28 seconds, FL: 21 seconds, Lumi: 21 seconds\n\n\nPlate shaking\nLinear, Orbital, Double orbital\n\n\nInjectors\ntrue\n\n\nWestern blot\nfalse\n\n\nStand-alone touchscreen operation\ntrue\n\n\nRobotics / automation\ntrue\n\n\nPlate type(s)\n6-384 well plates\n\n\nTemperature control\ntrue, Ambient + 5°C to 66°C\n\n\nDimensions\nH 40.1 cm x W 53.2 cm x D 59.8 cm\n\n\nValidation tools\ntrue, Absorbance validation plate, Fluorescence validation plate, Luminescence validation plate, SoftMax® Pro GxP Software"
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Manuals",
-    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
-  },
-  {
-    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
-    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
-    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
-    "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader"
+    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nBlue Robotics BlueROV2\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nTESCAN CLARA SEM\nYSI EXO1 Sonde"
   },
   {
     "objectID": "Instrumentation/Instrument_Template.html#description",
@@ -340,7 +368,7 @@
     "href": "Instrumentation/Disaster_Recovery_Table.html",
     "title": "Scientific Instrumentation Disaster Recovery Table",
     "section": "",
-    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Tellus\\Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nDR Table\nTotal Storage: ~680 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\nDecommissioned\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\nDecommissioned\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-#\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\nDecommissioned\n\n\n10\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n11\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n12\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n13\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n14\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n15\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n16\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n17\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\nDecommissioned\n\n\n18\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\nDecommissioned\n\n\n19\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n20\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n21\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n22\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n23\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n24\nVarian NMR-400\nSC-NMR\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n25\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n26\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n27\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nDecommissioned\n\n\n28\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n29\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27\n\n\n\n30\nMolecular Devices SpectraMax iD3\nSC-MD-iD3-PL\nSC-MD-iD3-PL-img\n35 GB\n2025-03-27\n\n\n\n31\nPerkinElmer FT-IR Spectrum Two\nSC-PE-FTIR-01\nPerkinElmer-FTIR-Spectrum-Two-01-img\n69.2 GB\n2025-04-14\n\n\n\n32\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nSC-PE-FTIR-02\nPerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img\n70.4 GB\n2025-04-14"
+    "text": "Basic Information\nScientific instrumentation disaster recovery images are based on CloneZilla images.\nAll images can be found here: \\\\SC-Tellus\\Images\n\nSecondary file storage is on an external (Western Digital) hard drive (USB)\nimg means a full disk image\npart means a partition image\n\n\n\nDR Table\nTotal Storage: ~680 GB\n\nTable\n\n\n\n\n\n\n\n\n\n\n\n#\nScientific Instrument\nComputer Hostname\nImage Name\nImage Size\nImage Date\nNotes\n\n\n\n\n1\nAgilent Diode Array 8453\nsc-diodearray-1\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n2\nAgilent Diode Array 8453\nsc-diodearray-3\nHP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img\n4.25 GB\n2018-05-07\n\n\n\n3\nAgilent GC-MSD 7890A\nSC-GCMS-2\nAgilent-GCMSD-7890A-20181120-img\n9.5 GB\n2018-11-21\n\n\n\n4\nDionex Ion Chromatography 2020i\nSC-IC-2020i-1\nIC2020i-part\n7.35 GB\n2013-08-13\nDecommissioned\n\n\n5\nDionex IC IC25A\nSC-IC2\nDionex-IC25-20170814-img\n5.42 GB\n2017-08-14\n\n\n\n6\nDionex IC DX 500\nSC-IC-DX500-3\nIC-DX500-img\n7.35 GB\n2013-07-02\nDecommissioned\n\n\n7\nGOW-MAC 69-350\nSCI-GOWMAC-#\nGOWMAC\n13.1 GB\n2018-07-26\nGeneric Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument.\n\n\n8\nHP Diode Array 8452A\nsc-diodearray-#\nHP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img\n1.8 GB\n2018-05-04\n\n\n\n9\nHP GC-MSD 5890\nSC-GCMS-1\nGC-MSD-1-img\n1.35 GB\n2013-07-18\nDecommissioned\n\n\n10\nJEOL SEM JSM-6480LV\nSC-SEM\nSEM-20170727-img\n7.23 GB\n2017-07-27\n\n\n\n11\nKodak GelLogic 100\nSC-GELLOGIC-W\nKodak-GELLogic100-20191004-img\n16.1 GB\n2019-10-04\n\n\n\n12\nLeica Stereo Microscope\nSC-LSM\nLeica-MZ16-20171220-img\n37.8 GB\n2017-12-21\n\n\n\n13\nNippon Instruments MA-3000\nSC-NIC-DA-3000\nNIC-MA-3000-20190724-img\n15.7 GB\n2019-07-24\n\n\n\n14\nOcean Optics Spectrometer PC2000\nSC-PC2E-???\nOceanOptics-PC2E-Windows-XP-img\n3.48 GB\n2013-07-31\nSingle image for all computers; after a restore, simply change computer hostname.\n\n\n15\nOlympus IX81 Confocal Microscope\nSC-Olympus-IX81\nOlympus-IX81-20180201-img\n16.5 GB\n2018-02-01\nImage taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense.\n\n\n16\nPerkinElmer CHNS/O 2400 Analyzer\nSC-CHN-1\nPerkinElmer-CHN-2400-20170815-img\n20.8 GB\n2017-08-15\n\n\n\n17\nPerkinElmer ELAN DRC-E ICP-MS\nElanDRCe\nPerkinElmer-ICP-MS-20180906-img\n10.6 GB\n2018-09-06\nDecommissioned\n\n\n18\nPerkin Elmer Spectrum 2000 FT-IR\nSC-FTIR-1\nPerkinElmer-Spectrum2000-FT-IR-1-20170807-img\n19.5 GB\n2017-08-07\nDecommissioned\n\n\n19\nPrinceton Applied Research ETA 394\nSC-Polarograph\nETA-1-img\n9.13 GB\n2013-08-16\n\n\n\n20\nSeal Analytical Discrete Analyzer\nSC-DA-1\nSeal-AQ1-DA-20191127-img\n21.7 GB\n2019-11-27\n\n\n\n21\nTECAN Spectra Fluor\nSC-Fluor\nTECAN-Spectra-Fluor-20191004-img\n15.6 GB\n2019-10-04\n\n\n\n22\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-2\nSC-FTIR-2-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n23\nThermo Electron Corp FTIR Nicolet IR200\nSC-FTIR-3\nSC-FTIR-3-20190731-img\n3.5 GB\n2019-07-31\nDecommissioned\n\n\n24\nVarian NMR-400\nSC-NMR\nVarian-NMR-20190122-img\n1.8 GB\n2019-01-22\n\n\n\n25\nNewport ORIEL Monochromator\nSC-Monochrom-1\nNewport-ORIEL-Monochromator-CS260-img\n20.7 GB\n2017-07-11\nImage not really needed; application is easy to install. Use Windows 10 base image.\n\n\n26\nOlympus BX63 Upright Microscope\nSC-Olympus-BX63\nOlympus-BX63-20180130-img\n25 GB\n2018-01-30\n\n\n\n27\nPackard Tri-Carb 2200CA\nSC-Packard-TriCarb\nPACKARD-TRICARD-2200CA-20180129-img\n10 MB\n2018-01-29\nDecommissioned\n\n\n28\nInstron 34SC-1\nSC-Instron-34SC-1\nInstron-34SC-1-img\n29.4 GB\n2025-03-17\n\n\n\n29\nAgilent ICP-MS 7850\nSC-ICP-MS-7850\nSC-Agilent-ICP-MS-7850-img\n35 GB\n2025-03-27\n\n\n\n30\nMolecular Devices SpectraMax iD3\nSC-MD-iD3-PL\nSC-MD-iD3-PL-img\n35 GB\n2025-03-27\n\n\n\n31\nPerkinElmer FT-IR Spectrum Two\nSC-PE-FTIR-01\nPerkinElmer-FTIR-Spectrum-Two-01-img\n69.2 GB\n2025-04-14\n\n\n\n32\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nSC-PE-FTIR-02\nPerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img\n70.4 GB\n2025-04-14\n\n\n\n33\nLeica M205 FCA Microscope\nSC-L-M205-FCA\nSC-Leica-M205-FCA-Microscope-img\n57 GB\n2025-08-14"
   },
   {
     "objectID": "Instrumentation/Instron-34SC-1.html#description",
@@ -371,102 +399,109 @@
     "text": "Instrument Table\nSI-Table-Instron-34SC-1"
   },
   {
-    "objectID": "Instrumentation/Logbooks.html",
-    "href": "Instrumentation/Logbooks.html",
-    "title": "Scientific Instrumentation Digital Logbooks",
-    "section": "",
-    "text": "Digital Logbook Index\n\nAgilent ICP-MS 7850\nBlue Robotics BlueROV2\nInstron 34SC-1\nMolecular Devices SpectraMax iD3 Microplate Reader\nPerkinElmer FT-IR Spectrum Two\nPerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two\nTESCAN CLARA SEM\nYSI EXO1 Sonde"
-  },
-  {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#description",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "objectID": "Instrumentation/Leica-M205-FCA-Microscope.html#description",
+    "href": "Instrumentation/Leica-M205-FCA-Microscope.html#description",
+    "title": "Leica-M205-FCA-Microscope",
     "section": "Description",
-    "text": "Description\nThe PerkinElmer Spotlight 200i is an integrated Fourier Transform Infrared (FTIR) microscopy system coupled with a Spectrum Two spectrometer. This instrument combines infrared spectroscopy with optical microscopy for molecular characterization of microscale samples and spatially-resolved chemical analysis. The system features dual-mode operation allowing both visible and infrared imaging of samples.\nThe Spotlight 200i microscope enables both point-by-point spectral data collection and rapid infrared imaging using a linear array detector. It provides automated sample stage control, multiple objectives for different magnifications, and can be configured for transmission, reflection, and attenuated total reflection (ATR) sampling modes. The system is designed for applications in materials science, polymer analysis, pharmaceutical development, forensic science, and biomedical research where microscale chemical identification is required.\nKey capabilities include chemical mapping of heterogeneous samples, identifying contaminants, analyzing layer structures, and performing quality control on small samples or defined regions of larger specimens. The integration with the Spectrum Two spectrometer provides a complete spectroscopic solution with extended spectral range capabilities."
+    "text": "Description\nThe Leica M205 FCA is a fluorescence stereo microscope designed for high-resolution imaging of macroscopic samples. It features a zoom range of 7.8:1 (0.64x–5x) with a maximum magnification of 160x using standard 1x objectives. The microscope uses a coded zoom system for precise magnification tracking and reproducibility. It is equipped with a fluorescence module that supports multiple filter sets for visualizing fluorescent signals across various wavelengths, suitable for applications like biological research or material inspection.The system includes a trinocular head for camera integration, enabling digital image capture. It uses LED illumination for both brightfield and fluorescence, with adjustable intensity to minimize photobleaching. The working distance ranges from 61.5 mm to 135 mm, depending on the objective, allowing flexibility for sample manipulation. The microscope has a modular design, supporting accessories like motorized focus, stages, and camera adapters for customized setups.The optical system employs apochromatic correction to reduce chromatic aberrations, providing clear and sharp images. It also features ergonomic adjustments for user comfort during extended use, including adjustable eyepieces and a tilting head option. The instrument is controlled via a combination of manual knobs and software for fluorescence settings and image acquisition."
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#technical-details",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "objectID": "Instrumentation/Leica-M205-FCA-Microscope.html#technical-details",
+    "href": "Instrumentation/Leica-M205-FCA-Microscope.html#technical-details",
+    "title": "Leica-M205-FCA-Microscope",
     "section": "Technical Details",
-    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nValue\n\n\n\n\nMicroscope Model\nSpotlight 200i\n\n\nSpectrometer\nIntegrated Spectrum Two FTIR\n\n\nSpectral Range\n7,800 - 450 cm⁻¹ (with standard KBr beamsplitter)\n\n\nSpectral Resolution\n1 cm⁻¹ - 64 cm⁻¹ (adjustable)\n\n\nDetector Options\nMCT (Mercury Cadmium Telluride), Linear MCT Array\n\n\nImaging Modes\nTransmission, Reflectance, ATR\n\n\nPixel Size\n1.56 μm (minimum) - 25 μm (maximum)\n\n\nMaximum Image Area\n10 × 10 cm\n\n\nSample Viewing\nDigital Color Camera with 10× and 40× objectives\n\n\nStage Control\nComputer-controlled, motorized XYZ stage\n\n\nSoftware\nSpectrum 10, Spotlight, ImageAnalyze\n\n\nLiquid Nitrogen Cooling\nRequired for MCT detector (4-hour minimum hold time)\n\n\nOptical Purge\nAvailable for microscope and sample compartment\n\n\nDimensions (approx.)\n71 × 73 × 51 cm (W × D × H)\n\n\nWeight\nApproximately 84 kg (combined system)\n\n\nPower Requirements\n100-240 V, 50/60 Hz\n\n\nOperating Temperature\n15-35°C\n\n\nOperating Humidity\n&lt;80% RH, non-condensing"
+    "text": "Technical Details\n\n\n\n\n\n\n\nFeature\nSpecification\n\n\n\n\nOptical System\nFully apochromatic optics with FusionOptics technology\n\n\nZoom Ratio\n20.5:1 manual zoom\n\n\nMagnification Range\n8x–160x (standard with 1x objective)\n\n\nMaximum Resolution\n1279 lp/mm (0.78 µm, ISO18221 standard with 2.0x PlanApo objective)\n\n\nNumerical Aperture\nUp to 0.35 (with 2.0x PlanApo objective)\n\n\nObjective\n2.0x PlanApo objective (optional correction collar for refractive index adjustment)\n\n\nWorking Distance\n61.5 mm–135 mm (depending on objective)\n\n\nDepth of Field\nEnhanced via FusionOptics (right channel: high resolution, left channel: high depth)\n\n\nIllumination\nLED for brightfield and fluorescence, adjustable intensity\n\n\nFluorescence Technology\nTripleBeam technology (separate excitation light path, no dichroic mirror)\n\n\nFilter Changer\nFour-position coded filter changer\n\n\nStage\nLeica LMT 260 scanning stage, sub-µm positioning, supports live cell incubation\n\n\nAutomation\nSemi-automated with manual zoom; optional footswitch for filter, focus, and illumination control\n\n\nImage Coding\nEncoded zoom and iris diaphragm, real-time magnification and scale bar updates\n\n\nSoftware\nCompatible with Leica LAS X for experiment setup and analysis\n\n\nCamera Integration\nTrinocular head, supports cameras (e.g., Leica DFC7000T, DFC3000 G)\n\n\nErgonomics\nAdjustable eyepieces, optional tilting head, footswitch option\n\n\nApplications\nTransgenic research, neuroscience, cell culture imaging, developmental biology, immunohistochemistry, live cell imaging, fluorescent protein studies, zebrafish models\n\n\n\n*source"
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#manuals",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "objectID": "Instrumentation/Leica-M205-FCA-Microscope.html#manuals",
+    "href": "Instrumentation/Leica-M205-FCA-Microscope.html#manuals",
+    "title": "Leica-M205-FCA-Microscope",
+    "section": "Manuals",
+    "text": "Manuals\nLeica M205 FCA User Manual\nMotorized Focus Column User Manual\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/Leica-M205-FCA-Microscope.html#instrument-table",
+    "href": "Instrumentation/Leica-M205-FCA-Microscope.html#instrument-table",
+    "title": "Leica-M205-FCA-Microscope",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-Leica-M205-FCA-Microscope"
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#description",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "Description",
+    "text": "Description\nThe Molecular Devices SpectraMax iD3 Multi-Mode Microplate Reader is a versatile, high-performance instrument designed for a wide range of laboratory applications in life sciences research. It offers three primary detection modes: absorbance, fluorescence, and luminescence ,making it suitable for assays such as ELISAs, nucleic acid and protein quantification, and microbial growth studies. The iD3 is equipped with a large, high-resolution touchscreen interface, allowing users to set up custom protocols, run experiments, and access preconfigured protocols without needing a dedicated computer workstation. Its built-in near-field communication (NFC) functionality enables personalized workflows, letting users tap NFC tags to quickly access custom protocols and results, which is particularly useful in multi-user labs. The optical system of the SpectraMax iD3 features a xenon flash lamp and an ultra-cooled photomultiplier tube (PMT) detector, which reduces background noise to provide excellent sensitivity and a wide dynamic range. This makes it ideal for demanding applications requiring high precision. The instrument supports flexible temperature control, adjustable from ambient up to 66°C, enabling temperature-sensitive assays. It also includes the QuickSync feature, which pushes data to any computer on the same network in an Excel-compatible format, streamlining data management. The iD3 is compatible with 6- to 384-well microplate formats and offers orbital shaking for uniform sample mixing. Powered by Molecular Devices’ industry-leading SoftMax Pro Software, the iD3 provides over 160 ready-to-run protocols, advanced data analysis tools, and 21 curve-fit options. For regulated environments, the SoftMax Pro GxP Compliance Software ensures compliance with FDA 21 CFR Part 11 and EudraLex Annex 11, offering secure data integrity for GMP/GLP labs. The instrument is modular and upgradeable, with options to expand capabilities for additional assays, though it does not include advanced modes like TR-FRET or BRET, which are available in the iD5 model."
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#technical-details",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\n\n\n\n\nSpecification\nDetails\n\n\n\n\nRead modes\nAbsorbance, Fluorescence (top/bottom read), Luminescence (top read)\n\n\nWavelength ranges\nAbs: 230 - 1000 nm, FL Ex: 250 - 830 nm, FL Em: 270 - 850 nm, Lumi: 300 - 850 nm\n\n\nWavelength selection\nMonochromator tunable in 1-nm increments\n\n\nAbsorbance photometric accuracy/linearity\n&lt; ±0.010 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nAbsorbance photometric precision/repeatability\n&lt; ±0.003 OD ±1.0%, 0 - 3 OD VIS 0 - 3 OD UV\n\n\nSensitivity top read optimized\nFL: 1 pM fluorescein 96 well, 1 pM fluorescein 384 well, Lumi: 2 pM ATP 96 well, 4 pM\n\n\nLight source(s)\nHigh power xenon flash lamp\n\n\nDetector(s)\nSilicon photodiode, Ultra-cooled photomultiplier tube\n\n\nRead types (endpoint, kinetic, etc)\nEndpoint, Kinetic, Spectrum scan, Well scan\n\n\nRead times\nAbs: 28 seconds, FL: 21 seconds, Lumi: 21 seconds\n\n\nPlate shaking\nLinear, Orbital, Double orbital\n\n\nInjectors\ntrue\n\n\nWestern blot\nfalse\n\n\nStand-alone touchscreen operation\ntrue\n\n\nRobotics / automation\ntrue\n\n\nPlate type(s)\n6-384 well plates\n\n\nTemperature control\ntrue, Ambient + 5°C to 66°C\n\n\nDimensions\nH 40.1 cm x W 53.2 cm x D 59.8 cm\n\n\nValidation tools\ntrue, Absorbance validation plate, Fluorescence validation plate, Luminescence validation plate, SoftMax® Pro GxP Software"
+  },
+  {
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#manuals",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
     "section": "Manuals",
     "text": "Manuals\n\n(SOP) Standard Operating Procedure"
   },
   {
-    "objectID": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
-    "href": "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.html#instrument-table",
-    "title": "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two",
+    "objectID": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
+    "href": "Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html#instrument-table",
+    "title": "Molecular Devices SpectraMax iD3 Microplate Reader",
     "section": "Instrument Table",
-    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Microscopy-System-Spotlight-200"
+    "text": "Instrument Table\nSI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
-    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html",
-    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#description",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Description",
+    "text": "Description\nThe PerkinElmer Spectrum Two is a Fourier Transform Infrared (FTIR) spectrometer developed for analytical applications in laboratory and field settings. Introduced in the early 2010s, this benchtop instrument is characterized by its compact design and portability. The device employs interferometric measurement techniques to capture infrared absorption spectra, which can identify molecular components in various samples.\nThe instrument is commonly used in academic research, quality control laboratories, and industrial settings for applications including polymer analysis, material identification, pharmaceutical composition verification, and environmental testing. Its design incorporates features intended to minimize maintenance requirements, including pre-aligned optical components and environmental protection systems."
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#technical-details",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Technical Details",
+    "text": "Technical Details\n\n\n\nSpecification [1]\nValue\n\n\n\n\n21 CFR Part 11 Compatible\nYes\n\n\nDepth\n30.0 cm\n\n\nDetector Type\nLiTaO₃\n\n\nHeight\n21.0 cm\n\n\nModel Name\nSpectrum Two FT-IR Spectrometer (LiTaO₃ Detector)\n\n\nOperating Range\n5 - 45 °C\n\n\nPortable\nYes\n\n\nProduct Brand Name\nSpectrum Two\n\n\nWarranty\n1 year\n\n\nWave Length\n8\n\n\nWave Length Range\n8,300 – 350 cm⁻¹\n\n\nWeight\n13.0 kg\n\n\nWidth\n45.0 cm\n\n\n\n[1]: Spectrum Two Specifications"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#manuals",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Manuals",
+    "text": "Manuals\n\n(SOP) Standard Operating Procedure"
+  },
+  {
+    "objectID": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
+    "href": "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.html#instrument-table",
+    "title": "PerkinElmer FT-IR Spectrum Two",
+    "section": "Instrument Table",
+    "text": "Instrument Table\nSI-Table-PerkinElmer-FTIR-Spectrum-Two"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
+    "href": "Instrumentation/SI-Table-BlueRobotics-BlueROV2.html",
+    "title": "Scientific Instrumentation Table Schema",
     "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nICP-MS 7850\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nICP-MS\n\n\nInstrument_Manufacturer\nAgilent\n\n\nInstrument_Model\n7850\n\n\nInstrument_Serial#\nSG25011003\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n192.168.1.128/24 [255.255.255.0]\n\n\nInstrument_Hostname\nICPMS01\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3223\n\n\nComputer_Hostname\nSC-ICP-MS-7850\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-30-72-48\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\nNVMe 1 TB\n\n\nSoftware_Vendor\nAgilent\n\n\nSoftware_Product_Name\nMass Hunter\n\n\nSoftware_Version\n5.3 [G7OID v.D.0.1.03 Build 748.2]\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+    "text": "Table Schema\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nBlue Robotics BlueROV2\n\n\nInstrument_Acquisition_Date\n2025-03 (NIST grant)\n\n\nInstrument_CommonName\nBlueROV2\n\n\nInstrument_Manufacturer\nBlue Robotics\n\n\nInstrument_Model\nBlueROV2\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\n\n\n\nInstrument_Roaming\n\n\n\nInstrument_Building\n\n\n\nInstrument_Floor\n\n\n\nInstrument_Room\n\n\n\nComputer_Hostname\n\n\n\nComputer_IP\n\n\n\nComputer_MAC\n\n\n\nComputer_Make\n\n\n\nComputer_Model\n\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\n\n\n\nComputer_OS_Version\n\n\n\nComputer_RAM\n\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
   },
   {
-    "objectID": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
-    "href": "Instrumentation/SI-Table-Agilent-ICP-MS-7850.html#disaster-recovery-table",
-    "title": "Scientific Instrumentation Table: Agilent ICP-MS 7850",
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
+    "section": "",
+    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\n34SC-1 Universal Testing System\n\n\nInstrument_Acquisition_Date\n2025-03\n\n\nInstrument_CommonName\nTensile Strength Tester\n\n\nInstrument_Manufacturer\nInstron\n\n\nInstrument_Model\n34SC-1\n\n\nInstrument_Serial#\n34SC1B32396\n\n\nInstrument_Asset_Tag\nNA\n\n\nInstrument_MAC\n00-02-CE-80-80-4A\n\n\nInstrument_IP\n169.254.1.2/24 [255.255.255.0]\n\n\nInstrument_TurnKeySolution\nYes\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab I\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3057\n\n\nComputer_Hostname\nSC-Instron-34SC-1\n\n\nComputer_IP\nDHCP\n\n\nComputer_MAC\n10-98-19-2F-E4-54\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPrecision 5860\n\n\nComputer_Asset_Tag\nNA\n\n\nComputer_OS\nWindows\n\n\nComputer_OS_Version\n11 [24H2]\n\n\nComputer_RAM\n16GB\n\n\nComputer_HD\nNVMe 500 GB\n\n\nSoftware_Vendor\nInstron\n\n\nSoftware_Product_Name\nBlueHill Elements\n\n\nSoftware_Version\n4.48\n\n\nSoftware_Last_Updated_Date\n2025-03\n\n\n\n\n\nDisaster Recovery Table"
+  },
+  {
+    "objectID": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "href": "Instrumentation/SI-Table-Instron-34SC-1.html#disaster-recovery-table",
+    "title": "Scientific Instrumentation Table: Instron 34SC-1 Universal Testing System",
     "section": "",
     "text": "Disaster Recovery Table"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html",
-    "href": "Instrumentation/SI-Table-GOWMAC.html",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-01\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-9C\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-02\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-37\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-03\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-A6\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-04\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-7B\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-05\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date\n\n\n\n\n\n\n\n\nTable\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-06\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-2F\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-1",
-    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-1",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-01\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-9C\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-2",
-    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-2",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-02\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-37\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-3",
-    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-3",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-03\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-A6\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-4",
-    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-4",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-04\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-7B\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-5",
-    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-5",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-05\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-13\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
-  },
-  {
-    "objectID": "Instrumentation/SI-Table-GOWMAC.html#gowmac-6",
-    "href": "Instrumentation/SI-Table-GOWMAC.html#gowmac-6",
-    "title": "Scientific Instrumentation Table: GOWMAC 400",
-    "section": "",
-    "text": "Table\n\n\nField\nValue\n\n\n\n\nInstrument_Name\nGOWMAC 400\n\n\nInstrument_Acquisition_Date\n2025-07\n\n\nInstrument_CommonName\nGOWMAC\n\n\nInstrument_Manufacturer\nGOWMAC Instrument Co.\n\n\nInstrument_Model\n400 Academic\n\n\nInstrument_Serial#\n\n\n\nInstrument_Asset_Tag\n\n\n\nInstrument_MAC\n\n\n\nInstrument_IP\n\n\n\nInstrument_TurnKeySolution\nNo\n\n\nInstrument_Roaming\nNo\n\n\nInstrument_Building\nLab II\n\n\nInstrument_Floor\n3\n\n\nInstrument_Room\n3216\n\n\nComputer_Hostname\nSC-GOWMAC-06\n\n\nComputer_IP\n\n\n\nComputer_MAC\nB4-E9-B8-43-D5-2F\n\n\nComputer_Make\nDell\n\n\nComputer_Model\nPro Max Slim FCS 1250\n\n\nComputer_Asset_Tag\n\n\n\nComputer_OS\nWindows 11 Enterprise\n\n\nComputer_OS_Version\n24H2\n\n\nComputer_RAM\n32 GB\n\n\nComputer_HD\n\n\n\nSoftware_Vendor\n\n\n\nSoftware_Product_Name\n\n\n\nSoftware_Version\n\n\n\nSoftware_Last_Updated_Date"
   },
   {
     "objectID": "Instrumentation/SI-Table-Molecular-Devices-SpectraMax-iD3-Microplate-Reader.html",

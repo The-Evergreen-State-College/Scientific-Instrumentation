@@ -3,12 +3,19 @@
 ## Get image(s) of the instrument
 1. Get a high-resolution image of the instrument from the internet or take a photo of it.
 2. save the image(s) in: `assets/images` with the following naming convention:
-   - Make-InstrumentClass-Model {.jpg, .png}
+   - Make-Model-InstrumentClass {.jpg, .png}
+    - e.g. `Leica-M205-FCS-Microscope.jpg` , `TESCAN-Clara-SEM.jpg`
+    
 
 ## Make a copy of the instrument template: Instrumentation/Instrument-Template.qmd
-1. Copy the template file to the 'Instrumentation' folder and rename it to: Make-InstrumentClass-Model.qmd
+1. Copy the template file `/Instrumentation/Instrumentation_Template.qmd` to the '/Instrumentation' folder and rename it to: <Make>-<Model>-<InstrumentClass>.qmd>
+   - <Make> = Manufacturer of the instrument
+   - <Model> - Model of the instrument
+   - <InstrumentClass> = Class of the instrument (e.g. Microscope, SEM, etc.)
 2. Fill in the 'Title'
 3. Add image to the top of the page.
+   - replace `![](/assets/images/<image> "Instrument Name"){fig-align="left" width=300}` with the image you saved in the previous step.
+   - e.g. `![](/assets/images/Leica-M205-FCS-Microscope.jpg "Leica M205 FCA Microscope"){fig-align="left" width=300}`
 4. Fill in the rest of the page.
 
 ## Add the instrument to the index page: index.qmd
