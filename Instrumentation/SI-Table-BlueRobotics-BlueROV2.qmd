@@ -16,28 +16,28 @@ format:
 | Instrument_CommonName          | BlueROV2                                      |
 | Instrument_Manufacturer        | [Blue Robotics](https://bluerobotics.com/)    |
 | Instrument_Model               | [BlueROV2](https://bluerobotics.com/store/rov/bluerov2/)       |
-| Instrument_Serial#             |       |
+| Instrument_Serial#             |     |
 | Instrument_Asset_Tag           |       |
 | Instrument_MAC                 |       |
 | Instrument_IP                  |       |
-| Instrument_TurnKeySolution     |       |
-| Instrument_Roaming             |       |
+| Instrument_TurnKeySolution     |   No    |
+| Instrument_Roaming             |   Yes    |
 | Instrument_Building            |       |
 | Instrument_Floor               |       |
 | Instrument_Room                |       |
-| Computer_Hostname              |       |
-| Computer_IP                    |       |
-| Computer_MAC                   |       |
-| Computer_Make                  |       |
-| Computer_Model                 |       |
-| Computer_Asset_Tag             |       |
-| Computer_OS                    |       |
-| Computer_OS_Version            |       |
-| Computer_RAM                   |       |
-| Computer_HD                    |       |
-| Software_Vendor                |       |
-| Software_Product_Name          |       |
+| Computer_Hostname              |  SC-BR-BlueROV2       |
+| Computer_IP                    |   DHCP    |
+| Computer_MAC                   |   48-21-0B-91-8F-2C   |
+| Computer_Make                  |  Dell      |
+| Computer_Model                 |   Pro Rugged 14 RB14250   |
+| Computer_Asset_Tag             |  14285     |
+| Computer_OS                    |  Fedora     |
+| Computer_OS_Version            |   42    |
+| Computer_RAM                   |   32GB    |
+| Computer_HD                    |   1TB    |
+| Software_Vendor                |  Blue Robotics     |
+| Software_Product_Name          |  BlueOS     |
 | Software_Version               |       |
-| Software_Last_Updated_Date     |       |
+| Software_Last_Updated_Date     |   2025-08    |
 
 : Table {.bordered .hover}

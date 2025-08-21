@@ -11,7 +11,13 @@ format:
     page-layout: full
 ---
 
-![](/assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA"){fig-align="left" width=300}
+::: {layout-ncol=2}
+
+![](/assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA"){width=300}
+
+[![](/assets/images/TESC-TESCAN-Clara-SEM.jpg "TESC TESCAN Clara SEM"){width=300}](/assets/images/TESC-TESCAN-Clara-SEM.jpg)
+
+:::
 
 
 ## Description
