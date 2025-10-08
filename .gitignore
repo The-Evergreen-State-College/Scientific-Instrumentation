@@ -29,3 +29,4 @@ Gemfile.lock
 
 # MAC Users
 .DS_Store
+**/*.quarto_ipynb

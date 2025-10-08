@@ -51,6 +51,8 @@ website:
             href: "Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd"
           - text: "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"
             href: "Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd"
+          - text: "SEAL AQ 300"
+            href: "Instrumentation/SEAL-AQ-300-Discrete_Analyzer.qmd"
           - text: "TESCAN CLARA SEM"
             href: "Instrumentation/TESCAN-CLARA-SEM.qmd"
           - text: "YSI EXO1 Sonde"

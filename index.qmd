@@ -67,6 +67,7 @@ format:
 
 [![PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](/assets/images/PerkinElmer-FT-IR-Spotlight-200-with-Spectrum-Two-Image.png "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd)
 
+[![SEAL AQ 300 Discrete Analyzer](/assets/images/SEAL-AQ-300-DA.webp "SEAL AQ 300 Discrete Analyzer"){fig-align="left" width=200}](/Instrumentation/SEAL-AQ-300-Discrete_Analyzer.qmd)
 
 :::
 

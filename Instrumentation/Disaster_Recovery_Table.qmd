@@ -24,7 +24,7 @@ All images can be found here: `\\SC-Tellus\Images`
 
 # DR Table
 
-**Total Storage: ~680 GB**
+**Total Storage: ~1.18 TB**
 
 | #  | Scientific Instrument                                                    | Computer Hostname         | Image Name                                      | Image Size | Image Date  | Notes                                                                 |
 |----|--------------------------------------------------------------------------|---------------------------|-------------------------------------------------|------------|-------------|-----------------------------------------------------------------------|
@@ -61,6 +61,6 @@ All images can be found here: `\\SC-Tellus\Images`
 | 31 | PerkinElmer FT-IR Spectrum Two                                           | SC-PE-FTIR-01             | PerkinElmer-FTIR-Spectrum-Two-01-img            | 69.2 GB    | 2025-04-14  |                  |
 | 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two      | SC-PE-FTIR-02             | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img  | 70.4 GB  | 2025-04-14  |                  |
 | 33 | [Leica M205 FCA Microscope](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/Instrumentation/Leica-M205-FCA-Microscope.html) | SC-L-M205-FCA          | SC-Leica-M205-FCA-Microscope-img                  | 57 GB    | 2025-08-14 |       
-
+| 34 | [SEAL AQ 300 Discrete Analyzer](/Instrumentation/SEAL-AQ-300-Discrete_Analyzer.qmd) | SC-SEAL-AQ-300 | SEAL-AQ-300-img | 29.3 GB | 2025-10-08 |  |
 : Table {.striped .bordered .hover}
 

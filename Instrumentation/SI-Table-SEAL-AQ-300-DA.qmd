@@ -1,0 +1,43 @@
+---
+title: "Scientific Instrumentation Table SEAL AQ 300 Discrete Analyzer"
+date: last-modified
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+# Table Schema
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | SEAL AQ 300 Discrete Analyzer      |
+| Instrument_Acquisition_Date    | 2025-06     |
+| Instrument_CommonName          | Discrete Analyzer  |
+| Instrument_Manufacturer        | [SEAL](https://seal-analytical.com/en/)      |
+| Instrument_Model               | [AQ 300](https://seal-analytical.com/en/Products/Discrete-Analyzers/AQ300-Discrete-Analyzer/)      |
+| Instrument_Serial#             | [131288](/assets/images/SEAL-AQ-300-DA-SerialNumber.jpg)   |
+| Instrument_Asset_Tag           |   NA    |
+| Instrument_MAC                 |   NA    |
+| Instrument_IP                  |   NA    |
+| Instrument_TurnKeySolution     |   Yes    |
+| Instrument_Roaming             |   No    |
+| Instrument_Building            |   Lab II    |
+| Instrument_Floor               |    2   |
+| Instrument_Room                |    3223   |
+| Computer_Hostname              | SC-SEAL-AQ-300      |
+| Computer_IP                    |  DHCP     |
+| Computer_MAC                   |  AC-B4-80-FE-9E-35     |
+| Computer_Make                  |  Dell     |
+| Computer_Model                 |  Pro Max Tower T2 FCT2250     |
+| Computer_Asset_Tag             |  EME14494     |
+| Computer_OS                    |  Windows 11 Enterprise     |
+| Computer_OS_Version            |  24H2     |
+| Computer_RAM                   |   16 GB    |
+| Computer_HD                    |    500 GB   |
+| Software_Vendor                |  SEAL     |
+| Software_Product_Name          |  AQ     |
+| Software_Version               |  2.5.2     |
+| Software_Last_Updated_Date     |  2025-09   |
+
+: Table {.bordered .hover}

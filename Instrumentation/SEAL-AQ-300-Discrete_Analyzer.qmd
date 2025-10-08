@@ -1,0 +1,46 @@
+---
+title: "SEAL AQ 300 Discrete Analyzer"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![SEAL AQ 300 Discrete Analyzer](/assets/images/SEAL-AQ-300-DA.webp "SEAL AQ 300 Discrete Analyzer"){fig-align="left" width=300}
+
+
+## Description
+
+The SEAL AQ 300 is a discrete analyzer designed for the automated colorimetric analysis of multiple parameters from a single environmental sample. The instrument utilizes a 10 mm pathlength quartz cuvette for optical measurements, ensuring high reproducibility and low detection limits.
+
+Key operational features include automated standard preparation, dilution of over-range samples, and correction for sample background color via automated blanking. The system is also capable of performing automated sample spiking. Reagent consumption is minimal, with volumes ranging from 20 to 400 μL per test. To prevent cross-contamination, the sample probe is cleaned by a dedicated washer after each aspiration.
+
+## Technical Details
+
+| Feature | Specification |
+| :--- | :--- |
+| **Analysis Principle** | Discrete analysis with a stationary 100% optical glass cuvette. |
+| **Cuvette Pathlength** | 10 mm |
+| **Sample Capacity** | Up to 97 sample positions. |
+| **Reagent Capacity** | 18 reagent positions (with on-board cooling). |
+| **Reaction Wells** | 180 (low-cost, disposable). |
+| **Detector** | Stationary photometer with 9 filter positions (350 - 880 nm). |
+| **Reagent Consumption**| Typically 20 - 400 µL per test. |
+| **Sample Cup Sizes** | 1.2 mL or 2.0 mL. |
+| **Automation Features**| - True unattended operation (including overnight runs).<br>- Automated standard preparation.<br>- Automated pre- and post-dilution of over-range samples.<br>- Automated sample spiking and blanking.<br>- Automated in-situ cadmium coil regeneration. |
+| **Cross-Contamination**| Eliminated via a dedicated probe washer. |
+| **Data Handling** | LIMS compatible with data export in .csv format. |
+| **Regulatory Methods**| EPA, ISO, and other international regulatory compliant methods available. |
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[Scientific Instrumentation Table SEAL AQ 300 Discrete Analyzer](/Instrumentation/SI-Table-SEAL-AQ-300-DA.qmd)
