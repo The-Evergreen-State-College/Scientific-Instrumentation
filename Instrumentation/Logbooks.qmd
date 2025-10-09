@@ -13,6 +13,7 @@ format:
 
 - [Agilent ICP-MS 7850](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/4)
 - [Blue Robotics BlueROV2](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/11)
+- [Bruker Avance 400 MHz NMR Spectrometer](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/17)
 - [Instron 34SC-1](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/2)
 - [Leica M205 FCA Microscope](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/14)
 - [Molecular Devices SpectraMax iD3 Microplate Reader](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/5)

@@ -39,6 +39,8 @@ website:
             href: "Instrumentation/Agilent-ICP-MS-7850.qmd"
           - text: "Blue Robotics BlueROV2"
             href: "Instrumentation/BlueRobotics-ROV-BlueROV2.qmd"
+          - text: "Bruker Avance 400 MHz NMR"
+            href: "Instrumentation/Bruker-Avance-400MHz-NMR.qmd"
           - text: "GOWMAC 400"
             href: "Instrumentation/GOWMAC-400.qmd"
           - text: "Instron 34SC-1"

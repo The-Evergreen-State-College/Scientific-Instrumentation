@@ -61,6 +61,9 @@ format:
 
 [![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
 
+[![Bruker Avance NMR 400 MHz Spectrometer](/assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-front.jpg "Bruker Avance 400 MHz NMR Spectrometer"){fig-align="left" width=300}](/Instrumentation/Bruker-Avance-400MHz-NMR.qmd)
+
+
 [![Molecular Devices SpectraMax iD3 Microplate Reader](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=300}](/Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)
 
 [![PerkinElmer FT-IR Spectrum Two](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd)

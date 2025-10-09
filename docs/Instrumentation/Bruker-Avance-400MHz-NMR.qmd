@@ -1,0 +1,48 @@
+---
+title: "Bruker Avance 400 MHz NMR Spectrometer"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-front.jpg "Bruker Avance 400 MHz NMR Spectrometer"){fig-align="left" width=300}
+
+
+## Description
+
+NMR Spectroscopy can be used to indicate the presence of certain organic functional groups. It can be used to determine the type and number of certain atoms (C, H most common) in a molecule and it can provide information about molecular connectivity (the C-H backbone of organic compounds). NMR spectroscopy involves the interaction between molecules suspended within an applied magnetic field and radiofrequency waves. The spectrometer transmitter creates the radiofrequency waves and the receiver detects the NMR signal.
+
+A Bruker NMR spectrometer, such as the AVANCE NEO series, consists of a superconducting magnet (typically 400–1200 MHz proton Larmor frequency, with hybrid HTS/LTS coil designs at GHz fields), a digital console for RF pulse generation and signal digitization, and a probe assembly for sample excitation and detection. Operation involves aligning nuclear spins (e.g., ¹H, ¹³C) in the static field, applying RF pulses via quadrature coils to induce free-induction decay (FID), and acquiring time-domain signals at rates up to 100 MS/s with 24-bit resolution. Post-acquisition processing in TopSpin software includes Fourier transformation (via FFT algorithms), phase correction, baseline fitting, and peak integration, yielding frequency-domain spectra for chemical shift analysis (ppm scale). Computational extensions support multidimensional experiments (e.g., COSY, HSQC) with pulse sequence scripting in Python-like syntax, enabling integration with molecular dynamics simulations or machine learning-based assignment tools.
+
+## Technical Details
+
+| Specification Category | Parameter | Value |
+|-----------------------|-----------|-------|
+| Magnet                | Proton Larmor Frequency | 400 MHz |
+| Magnet                | Field Strength | 9.4 Tesla |
+| Magnet                | Type | Superconducting |
+| Magnet                | Bore Size | 54 mm |
+| Console               | Model | Avance |
+| Console               | Channels | 2 |
+| Console               | Gradient Support | Z-gradient with gradient shimming |
+| Acquisition           | Digitizer Resolution | 24-bit |
+| Acquisition           | Maximum Sampling Rate | 100 MS/s |
+| Acquisition           | Software | TopSpin |
+| Probe                 | Typical Configuration | 5 mm broadband inverse probe (e.g., BBI or TCI) |
+| Probe                 | Temperature Range | -50°C to 150°C |
+| General               | Cryogen Requirements | Liquid helium and nitrogen |
+| General               | Dimensions (approximate) | Height: 1.5 m, Weight: ~1000 kg |
+
+## Manuals
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[Scientific Instrumentation Table: Bruker Avance 400 MHz NMR Spectrometer](/Instrumentation/SI-Table-Bruker-Avance-400MHz-NMR.qmd)

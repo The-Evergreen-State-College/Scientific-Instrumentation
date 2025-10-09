@@ -13,6 +13,8 @@ In 2024, The Evergreen State College in Olympia, Washington, received $2.135 mil
 
 [![Blue Robotics BlueROV2](/assets/images/BlueRobotics-ROV-BlueROV2.jpg){fig-align="left" width=200}](/Instrumentation/BlueRobotics-ROV-BlueROV2.html)
 
+[![Bruker Avance NMR 400 MHz Spectrometer](/assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-front.jpg "Bruker Avance 400 MHz NMR Spectrometer"){fig-align="left" width=300}](/Instrumentation/Bruker-Avance-400MHz-NMR.qmd)
+
 [![GOWMAC 400](/assets/images/GOWMAC-400-front.jpeg "GOWMAC 400"){fig-align="left" width=200}](/Instrumentation/GOWMAC-400.qmd)
 
 [![Instron 34SC-1](/assets/images/Instron-3400-Series-Single-Column-Table-Model-1000x1000.jpg){fig-align="left" width=200}](/Instrumentation/Instron-34SC-1.html)
