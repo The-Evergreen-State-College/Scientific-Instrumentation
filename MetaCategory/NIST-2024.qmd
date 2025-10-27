@@ -9,6 +9,8 @@ In 2024, The Evergreen State College in Olympia, Washington, received $2.135 mil
 
 ::: {layout-ncol=2}
 
+[![Agilent Cary 3500 UV-Vis Flexible](/assets/images/Agilent-Cary-3500-uv-vis-flexible-spectrophotometer.jpg "Agilent Cary 3500 UV-Vis Flexible"){fig-align="left" width=200}](/Instrumentation/Agilent-Cary-3500-UV-Vis-Flexible.qmd)
+
 [![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
 
 [![Blue Robotics BlueROV2](/assets/images/BlueRobotics-ROV-BlueROV2.jpg){fig-align="left" width=200}](/Instrumentation/BlueRobotics-ROV-BlueROV2.html)
