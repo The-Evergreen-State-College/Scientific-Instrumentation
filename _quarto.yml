@@ -35,6 +35,8 @@ website:
             href: "MetaCategory/Other.qmd"
       - text: "Instruments" 
         menu:
+          - text: "Agilent Cary 3500 UV-Vis Flexible"
+            href: "Instrumentation/Agilent-Cary-3500-UV-Vis-Flexible.qmd"        
           - text: "Agilent ICP-MS 7850"
             href: "Instrumentation/Agilent-ICP-MS-7850.qmd"
           - text: "Blue Robotics BlueROV2"

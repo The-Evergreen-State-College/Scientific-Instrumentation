@@ -62,5 +62,7 @@ All images can be found here: `\\SC-Tellus\Images`
 | 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two      | SC-PE-FTIR-02             | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img  | 70.4 GB  | 2025-04-14  |                  |
 | 33 | [Leica M205 FCA Microscope](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/Instrumentation/Leica-M205-FCA-Microscope.html) | SC-L-M205-FCA          | SC-Leica-M205-FCA-Microscope-img                  | 57 GB    | 2025-08-14 |       
 | 34 | [SEAL AQ 300 Discrete Analyzer](/Instrumentation/SEAL-AQ-300-Discrete_Analyzer.qmd) | SC-SEAL-AQ-300 | SEAL-AQ-300-img | 29.3 GB | 2025-10-08 |  |
+| 35 | [Agilent Cary 3500 UV-Vis Flexible](/Instrumentation/Agilent-Cary-3500-UV-Vis-Flexible.qmd) | Agilent Cary 3500 UV-Vis Flexible | Agilent Cary 3500 UV-Vis Flexible-img | 51 GB | 2025-10-22 | |
 : Table {.striped .bordered .hover}
+
 

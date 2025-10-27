@@ -1,0 +1,49 @@
+---
+title: "Agilent Cary 3500 UV-Vis Flexible"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Agilent-Cary-3500-uv-vis-flexible-spectrophotometer.jpg "Agilent Cary 3500 UV-Vis Flexible"){fig-align="left" width=300}
+
+
+## Description
+
+The Cary 3500 Flexible UV-Vis Spectrophotometer is a double-beam ultraviolet-visible spectrophotometer designed for high-precision photometric measurements of both liquid and solid samples. It features a xenon flash lamp light source, eliminating warm-up time and reducing maintenance frequency. The instrument supports a wavelength range of 190–1100 nm and offers a variable spectral bandwidth from 0.1 to 5.0 nm, adjustable in 0.01 nm increments.
+
+## Technical Details
+
+| Specification | Value |
+|---------------|-------|
+| Compliance Software | OpenLab Software Suite |
+| Control Software | Cary UV Workstation |
+| Depth | 700 mm |
+| Height | 345 mm |
+| Light Source | Xenon flash lamp (250 Hz) with 10-year warranty on new instruments |
+| Maximum Scanning Speed | UV-Vis 150,000 nm/min |
+| Photometric Range (Abs) | 6 Abs |
+| Photometric System | Double beam |
+| Power Requirements | 100-240 VAC, 50/60 Hz |
+| Spectral Bandwidth | UV-Vis 0.1 - 5.0 nm |
+| Wavelength | 190 - 1100 nm |
+| Weight | 31 kg |
+| Width | 445 mm |
+| Z-height | 15 mm |
+
+## Manuals
+
+[Agilent Cary 3500 UV-Vis Spectrophotometer User's Guide](/Instrumentation/Manuals/Agilent-Cary-3500-UV-Vis_UserGuide.pdf)
+
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[SI-Table Agilent Cary 3500 UV-Vis Flexible](/Instrumentation/SI-Table-Agilent-Cary-3500-UV-Vis-Flexible.qmd)

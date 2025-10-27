@@ -5,6 +5,8 @@ title: "Meta-Category: Spectroscopy"
 
 ::: {layout-ncol=2}
 
+[![Agilent Cary 3500 UV-Vis Flexible](/assets/images/Agilent-Cary-3500-uv-vis-flexible-spectrophotometer.jpg "Agilent Cary 3500 UV-Vis Flexible"){fig-align="left" width=200}](/Instrumentation/Agilent-Cary-3500-UV-Vis-Flexible.qmd)
+
 [![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
 
 [![Bruker Avance NMR 400 MHz Spectrometer](/assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-front.jpg "Bruker Avance 400 MHz NMR Spectrometer"){fig-align="left" width=300}](/Instrumentation/Bruker-Avance-400MHz-NMR.qmd)

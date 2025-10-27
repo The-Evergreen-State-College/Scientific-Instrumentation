@@ -41,3 +41,11 @@ format:
 | Software_Last_Updated_Date     |       |
 
 : Table {.bordered .hover}
+
+### Additional Notes
+- Equipment Number 13559829
+- Serial Number of 5095753
+
+
+## Disaster Recovery Table
+[Disaster Recovery Table](/Instrumentation/Disaster_Recovery_Table.qmd)
