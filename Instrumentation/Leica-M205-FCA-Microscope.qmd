@@ -10,7 +10,7 @@ format:
     page-layout: full
 ---
 
-![](/assets/images/Leica-M205-FCS-Microscope.png "Leica M205 FCA Microscope"){fig-align="left" width=300}
+![](/assets/images/Leica-M205-FCA-Microscope.png "Leica M205 FCA Microscope"){fig-align="left" width=300}
 
 
 ## Description

@@ -1,7 +1,15 @@
+#Key identity information, name of the company, links to brand guidelines, etc.
 meta:
-  name: brand.yml
-  link: https://posit-dev.github.io/brand-yml
+  # brand.yml
+  # https://posit-dev.github.io/brand-yml
+  name: 
+    short: TESC
+    full: The evergreen State College Scientific Instrumentation
+  link:
+    home: https://the-evergreen-state-college.github.io/Scientific-Instrumentation/
+    brand-guidelines: https://posit-dev.github.io/brand-yml/
 
+# Files or links to the brand’s logo at various sizes.
 logo:
   images:
     icon: /assets/logo/evergreen-state-college-logo.ico
@@ -9,6 +17,37 @@ logo:
     light: /assets/logo/Evergreen-full-name--white.png
     dark: /assets/logo/Evergreen-full-name--black.png
 
+
+
+# Color Scheme
+# define a color in the palette
+# give the color a hex value
+# Solarized Colors
+# not all colors updated to match solarized scheme -- needs work
+# Themed colors can be assigned to the following roles
+# {foreground, background, primary, secondary, tertiary, info, success, warning, danger, light, dark}
+
+color:
+  palette:
+    blue: "#268bd2"
+    orange: "#ee6331"
+    teal: "#419599"
+    green: "#729943"
+    burgundy: "#9a4665"
+    purple: burgundy
+    gray: "#404041"
+    black: "#151515"
+    white: "#ffffff"
+  foreground: black
+  background: white
+  primary: blue
+  secondary: gray
+  info: teal
+  success: green
+  warning: orange
+  danger: burgundy
+
+# Font family, weight, style, color, and line height for key elements, e.g. base, headings and monospace text
 typography:
   base:
     family: Open Sans
@@ -16,3 +55,7 @@ typography:
     family: Roboto
   monospace:
     family: Fira Code
+
+
+# Defaults
+# Additional context-specific settings beyond the basic brand colors and typography. These could be options, for example, that are used by Bootstrap in Quarto or Shiny. They could also be folded into existing Quarto yaml fields like format or website, or they could be new fields for other contexts like shiny.

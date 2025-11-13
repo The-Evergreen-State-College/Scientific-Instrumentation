@@ -9,8 +9,32 @@ project:
     - "MetaCategory/*.qmd"
   preview:
     browser: false
+
+format:
+  html:
+#    respect-user-color-scheme: true
+    theme: 
+      light: flatly
+      dark: darkly
+    font-size: medium
+
+
 website:
+# Puts it below the TOC. Using "Tools" instead for GitHub links.
+# repo-url: https://github.com/The-Evergreen-State-College/Scientific-Instrumentation
+# repo-actions: [source, issue]
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "**INFORMATIONAL NOTICE:** This site is under active development!"
+    type: primary
+    position: below-navbar
+  back-to-top-navigation: true
+  page-footer: "In pursuit of scientific inquiry."
+  reader-mode: true
+  page-navigation: true
   navbar:
+    background: primary
     search: true
     left:
       - text: "Home"

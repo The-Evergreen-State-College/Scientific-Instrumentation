@@ -3,7 +3,9 @@ title: "Instrument Gallery"
 date: last-modified
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
     toc: true
     toc-location: left
     toc-title: Contents
