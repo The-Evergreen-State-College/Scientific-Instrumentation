@@ -1,0 +1,51 @@
+---
+title: "Agilent Cary 60 UV-Vis Spectrophotometer"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Agilent-Cary-60-UV-VIS-Spectrometer.jpg "Agilent Cary 60 UV-Vis Spectrophotometer"){fig-align="left" width=300}
+
+
+## Description
+
+The Cary 60 is a compact, single-beam UV-Visible spectrophotometer designed for routine quantitative and qualitative analysis of liquid samples. The instrument employs a xenon flash lamp as the light source, providing wavelength coverage from 190 to 1100 nm. The optical system utilizes a Czerny-Turner monochromator with a fixed spectral bandwidth of 1.5 nm. Sample measurements are performed using standard 10 mm path length cuvettes in a single-cell holder. The instrument interfaces with a computer running Cary WinUV software for instrument control, data acquisition, and spectral analysis. The system is suitable for applications including concentration determination, kinetics studies, spectral scanning, and multi-component analysis.
+
+
+## Technical Details
+
+| Specification | Value |
+|---------------|-------|
+| Compliance Software | Cary WinUV Pharma |
+| Connectivity | USB |
+| Control Software | Cary WinUV for UV-Vis Applications |
+| Depth | 567 mm |
+| Height | 196 mm |
+| Light Source | Xenon flash lamp (80 Hz) with 10-year warranty on new instruments |
+| Maximum Scanning Speed | UV-Vis 24,000 nm/min |
+| Photometric Range (Abs) | 4 Abs |
+| Photometric System | Double beam |
+| Power Requirements | 100-240 VAC, 50/60 Hz |
+| Spectral Bandwidth | UV-Vis 1.5 nm |
+| Wavelength | 190 - 1100 nm |
+| Weight | 18 kg |
+| Width | 477 mm |
+| Z-height | 20 mm |
+
+## Manuals
+
+[Agilent Cary 60 UV-Vis Spectrophotometer](/Instrumentation/Manuals/Agilent_Cary_60_UV-Vis_Brochure.pdf)
+
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table
+
+[SI-Table-Agilent-Cary-60-UV-Vis-Spectrophotometer](/Instrumentation/SI-Table-Agilent-Cary-60-UV-Vis-Spectrophotometer.qmd)

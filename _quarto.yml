@@ -59,6 +59,8 @@ website:
             href: "MetaCategory/Other.qmd"
       - text: "Instruments" 
         menu:
+          - text: "Agilent Cary 60 UV-Vis"
+            href: "Instrumentation/Agilent-Cary-60-UV-Vis.qmd"            
           - text: "Agilent Cary 3500 UV-Vis Flexible"
             href: "Instrumentation/Agilent-Cary-3500-UV-Vis-Flexible.qmd"        
           - text: "Agilent ICP-MS 7850"

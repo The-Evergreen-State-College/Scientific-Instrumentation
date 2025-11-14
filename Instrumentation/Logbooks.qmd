@@ -11,6 +11,7 @@ format:
 
 # Digital Logbook Index
 
+- [Agilent Cary 60 UV-Vis Spectrophotometer](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/19)
 - [Agilent Cary 3500 UV-Vis Flexible](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/18)
 - [Agilent ICP-MS 7850](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/4)
 - [Blue Robotics BlueROV2](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/11)
