@@ -22,6 +22,13 @@ format:
 
 ::: {layout-ncol=2}
 
+[![Agilent GC-7890A MSD-5975C](/assets/images/Agilent_GC-7890A_MSD-5975C.jpg "Agilent GC-7890A MSD-5975C"){fig-align="left" width=200}](/Instrumentation/Agilent-GC-7890A-MSD-5975C.qmd)
+
+:::
+
+
+::: {layout-ncol=2}
+
 [![GOWMAC 400](/assets/images/GOWMAC-400-front.jpeg "GOWMAC 400"){fig-align="left" width=200}](/Instrumentation/GOWMAC-400.qmd)
 
 :::
@@ -67,12 +74,12 @@ format:
 
 [![Agilent ICP-MS 7850](/assets/images/Agilent-ICP-MS-7850.png "Agilent ICP-MS 7850"){fig-align="left" width=200}](/Instrumentation/Agilent-ICP-MS-7850.qmd)
 
-[![Bruker Avance NMR 400 MHz Spectrometer](/assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-front.jpg "Bruker Avance 400 MHz NMR Spectrometer"){fig-align="left" width=300}](/Instrumentation/Bruker-Avance-400MHz-NMR.qmd)
+[![Bruker Avance NMR 400 MHz Spectrometer](/assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-front.jpg "Bruker Avance 400 MHz NMR Spectrometer"){fig-align="left" width=200}](/Instrumentation/Bruker-Avance-400MHz-NMR.qmd)
 
 
-[![Molecular Devices SpectraMax iD3 Microplate Reader](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=300}](/Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)
+[![Molecular Devices SpectraMax iD3 Microplate Reader](/assets/images/Molecular-Devices-spectramax-id3-multimode-microplate-reader-front.png "Molecular Devices SpectraMax iD3 Microplate Reader"){fig-align="left" width=200}](/Instrumentation/Molecular-Devices-SpectraMax-iD3-Microplate-Reader.qmd)
 
-[![PerkinElmer FT-IR Spectrum Two](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd)
+[![PerkinElmer FT-IR Spectrum Two](/assets/images/PerkinElmer_FT-IR-SpectrumTwo.png "PerkinElmer FT-IR Spectrum Two"){fig-align="left" width=200}](/Instrumentation/PerkinElmer-FTIR-Spectrum-Two.qmd)
 
 [![PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two](/assets/images/PerkinElmer-FT-IR-Spotlight-200-with-Spectrum-Two-Image.png "PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two"){fig-align="left" width=300}](/Instrumentation/PerkinElmer-FTIR-Microscopy-System-Spotlight-200.qmd)
 

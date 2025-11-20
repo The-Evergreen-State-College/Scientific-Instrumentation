@@ -1,0 +1,75 @@
+---
+title: "Agilent GC-7890A MSD-5975C"
+date: last-modified
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    css: styles.css
+    page-layout: full
+---
+
+![](/assets/images/Agilent_GC-7890A_MSD-5975C.jpg "Agilent GC-7890A MSD-5975C"){fig-align="left" width=300}
+
+
+## Description
+
+The Agilent 7890A/5975C is a gas chromatograph-mass spectrometer (GC-MS) system combining capillary gas chromatography with quadrupole mass spectrometry for separation and identification of volatile and semi-volatile organic compounds. The 7890A gas chromatograph features electronic pneumatic control (EPC) for precise carrier gas flow regulation, programmable temperature control up to 450°C, and support for split/splitless injection modes. The 5975C mass selective detector employs electron ionization (EI) at 70 eV and operates with a hyperbolic quadrupole mass filter providing unit mass resolution across a nominal mass range of 1.6 to 1050 amu. The detector utilizes an electron multiplier for ion detection and maintains vacuum through a turbomolecular pump system. Data acquisition and instrument control are managed through Agilent MassHunter software, which provides spectral library searching, quantitative analysis, and method development capabilities. The system is applicable to environmental analysis, forensic chemistry, pharmaceutical testing, and complex mixture characterization.
+
+## Technical Details
+
+### Gas Chromatograph (7890A)
+
+| Specification | Value |
+|---------------|-------|
+| Model | 7890A |
+| Type | Gas Chromatograph |
+| Oven Temperature Range | Ambient +4°C to 450°C |
+| Oven Temperature Precision | ±0.001°C |
+| Oven Heating Rate | Up to 120°C/min (programmable) |
+| Oven Cooling Time | <3 min (450°C to 50°C) |
+| Injector Types | Split/Splitless, Direct, PTV, MMI |
+| Inlet Temperature Range | Up to 450°C |
+| Carrier Gas Control | Electronic Pneumatic Control (EPC) |
+| Pressure Control Range | 0-150 psi |
+| Flow Control Range | 0-1500 mL/min |
+| Detector Options | FID, TCD, ECD, NPD, FPD, MSD |
+| Column Capacity | Up to 3 columns simultaneously |
+| Dimensions (W x D x H) | 43 x 66 x 51 cm |
+| Weight | ~45 kg |
+| Power Requirements | 100-240 VAC, 50/60 Hz, 1500 W |
+
+### Mass Selective Detector (5975C)
+
+| Specification | Value |
+|---------------|-------|
+| Model | 5975C |
+| Type | Quadrupole Mass Spectrometer |
+| Ionization Method | Electron Ionization (EI), 70 eV |
+| Mass Range | 1.6 - 1050 amu |
+| Mass Resolution | Unit resolution (0.1 amu at 10% peak height) |
+| Scan Speed | Up to 10,000 amu/sec |
+| Sensitivity (Octafluoronaphthalene) | >1,000,000:1 S/N ratio |
+| Mass Axis Stability | <0.1 amu/24 hours |
+| Quadrupole Type | Hyperbolic |
+| Detector | Electron Multiplier (gain >10^6) |
+| Vacuum System | Turbomolecular pump (split-flow design) |
+| Operating Vacuum | <1 x 10^-5 Torr |
+| Ion Source Temperature Range | 150 - 350°C |
+| Quadrupole Temperature Range | 100 - 200°C |
+| Data Acquisition Rates | Up to 20 spectra/second |
+| Dimensions (W x D x H) | 46 x 71 x 76 cm |
+| Weight | ~68 kg |
+| Power Requirements | 100-240 VAC, 50/60 Hz, 1000 W |
+
+
+## Manuals
+
+- [Agilent GC 7890A Data Sheet](/Instrumentation/Manuals/Agilent_GC_7890A_Data-Sheet.pdf)
+- [Agilent MSD 5975C](/Instrumentation/Manuals/Agilent_MSD_5975_Operation-Manual.pdf)
+
+### (SOP) Standard Operating Procedure
+
+
+## Instrument Table

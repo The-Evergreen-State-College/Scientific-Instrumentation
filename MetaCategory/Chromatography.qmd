@@ -5,6 +5,8 @@ title: "Meta-Category: Chromatography"
 
 ::: {layout-ncol=1}
 
+[![Agilent GC-7890A MSD-5975C](/assets/images/Agilent_GC-7890A_MSD-5975C.jpg "Agilent GC-7890A MSD-5975C"){fig-align="left" width=200}](/Instrumentation/Agilent-GC-7890A-MSD-5975C.qmd)
+
 [![GOWMAC 400](/assets/images/GOWMAC-400-front.jpeg "GOWMAC 400"){fig-align="left" width=200}](/Instrumentation/GOWMAC-400.html)
 
 :::

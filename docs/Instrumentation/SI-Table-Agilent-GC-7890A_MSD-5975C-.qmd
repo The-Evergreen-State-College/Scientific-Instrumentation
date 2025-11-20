@@ -1,0 +1,83 @@
+---
+title: "Scientific Instrumentation Table: Agilent GC-7890A MSD-5975C"
+date: last-modified
+format:
+  html:
+    toc: true
+    css: styles.css
+---
+
+
+## Private Network Configuration:
+
+| Host | IP |
+|------|----|
+| PC | 10.1.1.100 |
+| GC | 10.1.1.101 |
+| MSD | 10.1.1.102 |
+
+: Table {.bordered .hover}
+
+# Table Schema
+
+## Agilent GC-7890A
+
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                | Gas Chromatograph 7890A      |
+| Instrument_Acquisition_Date    |       |
+| Instrument_CommonName          | GC      |
+| Instrument_Manufacturer        | Agilent      |
+| Instrument_Model               |  7890A     |
+| Instrument_Serial#             |  CN10730077     |
+| Instrument_Asset_Tag           |  080282     |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |  10.1.1.101     |
+| Instrument_TurnKeySolution     |  No     |
+| Instrument_Roaming             |  No     |
+| Instrument_Building            |  Lab I     |
+| Instrument_Floor               |  2nd     |
+| Instrument_Room                |  2037     |
+
+: Table {.bordered .hover}
+
+## Agilent MSD-5975C
+| Field                          | Value |
+|--------------------------------|-------|
+| Instrument_Name                |  Mass Selective Detector     |
+| Instrument_Acquisition_Date    |       |
+| Instrument_CommonName          |  MSD     |
+| Instrument_Manufacturer        |  Agilent     |
+| Instrument_Model               |   5975C    |
+| Instrument_Serial#             |  US71226788     |
+| Instrument_Asset_Tag           |  00985     |
+| Instrument_MAC                 |       |
+| Instrument_IP                  |  10.1.1.102     |
+| Instrument_TurnKeySolution     |  No     |
+| Instrument_Roaming             |  No     |
+| Instrument_Building            |  Lab 1     |
+| Instrument_Floor               |  2nd     |
+| Instrument_Room                |  2037     |
+
+: Table {.bordered .hover}
+
+
+## Computer for GC-MSD
+| Field                          | Value |
+|--------------------------------|-------|
+| Computer_Hostname              |  SC-GC-MSD     |
+| Computer_IP                    |  DHCP     |
+| Computer_MAC                   |  50:7C:6F:5B:71:7C     |
+| Computer_Make                  |   Dell    |
+| Computer_Model                 | Precision 5820      |
+| Computer_Asset_Tag             |       |
+| Computer_OS                    |  Windows 11     |
+| Computer_OS_Version            |  25H2     |
+| Computer_RAM                   |  32 GB     |
+| Computer_HD                    |  500 GB     |
+| Software_Vendor                | Agilent      |
+| Software_Product_Name          | MassHunter Workstation     |
+| Software_Version               | 10.2      |
+| Software_Last_Updated_Date     | 2023-07      |
+
+: Table {.bordered .hover}

@@ -1,12 +1,25 @@
 ![](/assets/logo/Evergreen-full-name--green.png)
 
 # This is the Github readme...
+
 # Go to website: [Scientific-Instrumentation](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/)
 
 <h2 align="center"> :bangbang:  :construction:  :bangbang: WORK IN PROGRESS... :bangbang:  :construction:  :bangbang: </h2> <br>
 
 ### How To Add Instrumentation
 - [How-To-Add-Instrumentation](How-To-Add-Instrument.md)
+
+### Version Control
+- Uses Edition --as in for publication-- numbering system.
+  - i.e., Edition: \<Major\>.\<Minor\>
+   - Major: Significant changes to content, structure.
+   - Minor: Small updates, corrections, or additions that do not significantly alter the overall content or structure.
+
+
+## ToDo
+- [ ] NIST Licor Eddy Covariance
+- [ ] Agilent GC-MSD
+- [ ] Create directory for SI-Tables
 
 
 ## Resources

@@ -13,6 +13,7 @@ format:
 
 - [Agilent Cary 60 UV-Vis Spectrophotometer](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/19)
 - [Agilent Cary 3500 UV-Vis Flexible](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/18)
+- [Agilent GC-7890A MSD-5975C](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/20)
 - [Agilent ICP-MS 7850](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/4)
 - [Blue Robotics BlueROV2](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/11)
 - [Bruker Avance 400 MHz NMR Spectrometer](https://github.com/The-Evergreen-State-College/Scientific-Instrumentation/issues/17)
