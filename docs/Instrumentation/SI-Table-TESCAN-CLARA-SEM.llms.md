@@ -1,0 +1,42 @@
+# Scientific Instrumentation Table TESCAN CLARA SEM
+
+Published
+
+August 13, 2025
+
+# Table Schema
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Tescan Clara S8124, model 2023 |
+| Instrument_Acquisition_Date | 2025-07 |
+| Instrument_CommonName | Scanning Electron Microscope |
+| Instrument_Manufacturer | [TESCAN](https://info.tescan.com/) |
+| Instrument_Model | [Clara S8124](https://www.tescan.com/product/sem-for-materials-science-tescan-clara/) |
+| Instrument_Serial# | [124-0216](../assets/images/TESCAN-systeminfo.png) |
+| Instrument_Asset_Tag | NA |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution | Yes |
+| Instrument_Roaming | No |
+| Instrument_Building | Lab I |
+| Instrument_Floor | 0 |
+| Instrument_Room | 064 |
+| Computer_Hostname | SC-TESCAN-SEM |
+| Computer_IP | DHCP |
+| Computer_MAC | D8-43-AE-9A-0A-05 |
+| Computer_Make | XPG |
+| Computer_Model | MS-7D98 |
+| Computer_Asset_Tag | NA |
+| Computer_OS | Windows 11 Pro |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM | 32 GB |
+| Computer_HD | 500 GB |
+| Software_Vendor | TESCAN |
+| Software_Product_Name | Essence |
+| Software_Version | [1.3.5.1](../assets/images/TESCAN-systeminfo.png) |
+| Software_Last_Updated_Date | 2025-08-7 |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+Back to top

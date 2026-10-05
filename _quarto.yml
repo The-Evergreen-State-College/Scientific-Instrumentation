@@ -20,6 +20,8 @@ format:
 
 
 website:
+# create llm friendly markdown 
+  llms-txt: true
 # Puts it below the TOC. Using "Tools" instead for GitHub links.
 # repo-url: https://github.com/The-Evergreen-State-College/Scientific-Instrumentation
 # repo-actions: [source, issue]

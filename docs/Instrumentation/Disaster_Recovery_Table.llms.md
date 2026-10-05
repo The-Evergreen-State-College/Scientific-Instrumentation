@@ -1,0 +1,61 @@
+# Scientific Instrumentation Disaster Recovery Table
+
+Published
+
+October 27, 2025
+
+# Basic Information
+
+Scientific instrumentation disaster recovery images are based on [CloneZilla](http://clonezilla.org/) images.
+
+All images can be found here: `\\SC-Tellus\Images`
+
+- Secondary file storage is on an external (Western Digital) hard drive (USB)
+- *img* means a full disk image
+- *part* means a partition image
+
+# DR Table
+
+**Total Storage: ~1.18 TB**
+
+| \# | Scientific Instrument | Computer Hostname | Image Name | Image Size | Image Date | Notes |
+|----|----|----|----|----|----|----|
+| 1 | Agilent Diode Array 8453 | sc-diodearray-1 | HP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img | 4.25 GB | 2018-05-07 |  |
+| 2 | Agilent Diode Array 8453 | sc-diodearray-3 | HP-Agilent-DiodeArray-Dell-OptiPlex-760-160GB-img | 4.25 GB | 2018-05-07 |  |
+| 3 | Agilent GC-MSD 7890A | SC-GCMS-2 | Agilent-GCMSD-7890A-20181120-img | 9.5 GB | 2018-11-21 |  |
+| 4 | Dionex Ion Chromatography 2020i | SC-IC-2020i-1 | IC2020i-part | 7.35 GB | 2013-08-13 | Decommissioned |
+| 5 | Dionex IC IC25A | SC-IC2 | Dionex-IC25-20170814-img | 5.42 GB | 2017-08-14 |  |
+| 6 | Dionex IC DX 500 | SC-IC-DX500-3 | IC-DX500-img | 7.35 GB | 2013-07-02 | Decommissioned |
+| 7 | GOW-MAC 69-350 | SCI-GOWMAC-# | GOWMAC | 13.1 GB | 2018-07-26 | Generic Windows 10 (1803) image; uses Vernier LoggerPro for interfacing with instrument. |
+| 8 | HP Diode Array 8452A | sc-diodearray-# | HP-Agilent-DiodeArray-Dell-OptiPlex-755-160GB-img | 1.8 GB | 2018-05-04 |  |
+| 9 | HP GC-MSD 5890 | SC-GCMS-1 | GC-MSD-1-img | 1.35 GB | 2013-07-18 | Decommissioned |
+| 10 | JEOL SEM JSM-6480LV | SC-SEM | SEM-20170727-img | 7.23 GB | 2017-07-27 |  |
+| 11 | Kodak GelLogic 100 | SC-GELLOGIC-W | Kodak-GELLogic100-20191004-img | 16.1 GB | 2019-10-04 |  |
+| 12 | Leica Stereo Microscope | SC-LSM | Leica-MZ16-20171220-img | 37.8 GB | 2017-12-21 |  |
+| 13 | Nippon Instruments MA-3000 | SC-NIC-DA-3000 | NIC-MA-3000-20190724-img | 15.7 GB | 2019-07-24 |  |
+| 14 | Ocean Optics Spectrometer PC2000 | SC-PC2E-??? | OceanOptics-PC2E-Windows-XP-img | 3.48 GB | 2013-07-31 | Single image for all computers; after a restore, simply change computer hostname. |
+| 15 | Olympus IX81 Confocal Microscope | SC-Olympus-IX81 | Olympus-IX81-20180201-img | 16.5 GB | 2018-02-01 | Image taken after tech’s updated the software. Image contains correct license file. Image contains default layout for CellSense. |
+| 16 | PerkinElmer CHNS/O 2400 Analyzer | SC-CHN-1 | PerkinElmer-CHN-2400-20170815-img | 20.8 GB | 2017-08-15 |  |
+| 17 | PerkinElmer ELAN DRC-E ICP-MS | ElanDRCe | PerkinElmer-ICP-MS-20180906-img | 10.6 GB | 2018-09-06 | Decommissioned |
+| 18 | Perkin Elmer Spectrum 2000 FT-IR | SC-FTIR-1 | PerkinElmer-Spectrum2000-FT-IR-1-20170807-img | 19.5 GB | 2017-08-07 | Decommissioned |
+| 19 | Princeton Applied Research ETA 394 | SC-Polarograph | ETA-1-img | 9.13 GB | 2013-08-16 |  |
+| 20 | Seal Analytical Discrete Analyzer | SC-DA-1 | Seal-AQ1-DA-20191127-img | 21.7 GB | 2019-11-27 |  |
+| 21 | TECAN Spectra Fluor | SC-Fluor | TECAN-Spectra-Fluor-20191004-img | 15.6 GB | 2019-10-04 |  |
+| 22 | Thermo Electron Corp FTIR Nicolet IR200 | SC-FTIR-2 | SC-FTIR-2-20190731-img | 3.5 GB | 2019-07-31 | Decommissioned |
+| 23 | Thermo Electron Corp FTIR Nicolet IR200 | SC-FTIR-3 | SC-FTIR-3-20190731-img | 3.5 GB | 2019-07-31 | Decommissioned |
+| 24 | Varian NMR-400 | SC-NMR | Varian-NMR-20190122-img | 1.8 GB | 2019-01-22 |  |
+| 25 | Newport ORIEL Monochromator | SC-Monochrom-1 | Newport-ORIEL-Monochromator-CS260-img | 20.7 GB | 2017-07-11 | Image not really needed; application is easy to install. Use Windows 10 base image. |
+| 26 | Olympus BX63 Upright Microscope | SC-Olympus-BX63 | Olympus-BX63-20180130-img | 25 GB | 2018-01-30 |  |
+| 27 | Packard Tri-Carb 2200CA | SC-Packard-TriCarb | PACKARD-TRICARD-2200CA-20180129-img | 10 MB | 2018-01-29 | Decommissioned |
+| 28 | [Instron 34SC-1](../Instrumentation/Instron-34SC-1.llms.md) | SC-Instron-34SC-1 | Instron-34SC-1-img | 29.4 GB | 2025-03-17 |  |
+| 29 | [Agilent ICP-MS 7850](../Instrumentation/Agilent-ICP-MS-7850.llms.md) | SC-ICP-MS-7850 | SC-Agilent-ICP-MS-7850-img | 35 GB | 2025-03-27 |  |
+| 30 | Molecular Devices SpectraMax iD3 | SC-MD-iD3-PL | SC-MD-iD3-PL-img | 35 GB | 2025-03-27 |  |
+| 31 | PerkinElmer FT-IR Spectrum Two | SC-PE-FTIR-01 | PerkinElmer-FTIR-Spectrum-Two-01-img | 69.2 GB | 2025-04-14 |  |
+| 32 | PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two | SC-PE-FTIR-02 | PerkinElmer-FTIR-Microscope-Sprectrum-Two-02-img | 70.4 GB | 2025-04-14 |  |
+| 33 | [Leica M205 FCA Microscope](https://the-evergreen-state-college.github.io/Scientific-Instrumentation/Instrumentation/Leica-M205-FCA-Microscope.html) | SC-L-M205-FCA | SC-Leica-M205-FCA-Microscope-img | 57 GB | 2025-08-14 |  |
+| 34 | [SEAL AQ 300 Discrete Analyzer](../Instrumentation/SEAL-AQ-300-Discrete_Analyzer.llms.md) | SC-SEAL-AQ-300 | SEAL-AQ-300-img | 29.3 GB | 2025-10-08 |  |
+| 35 | [Agilent Cary 3500 UV-Vis Flexible](../Instrumentation/Agilent-Cary-3500-UV-Vis-Flexible.llms.md) | Agilent Cary 3500 UV-Vis Flexible | Agilent Cary 3500 UV-Vis Flexible-img | 51 GB | 2025-10-22 |  |
+
+Table {.table-striped .table-bordered .table-hover .caption-top .table}
+
+Back to top

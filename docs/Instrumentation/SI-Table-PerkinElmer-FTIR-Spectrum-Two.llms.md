@@ -1,0 +1,42 @@
+# Scientific Instrumentation Table Schema: PerkinElmer FT-IR Spectrum Two
+
+Published
+
+April 18, 2025
+
+# Table Schema
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Spectrum Two FT-IR |
+| Instrument_Acquisition_Date | 2025-03 |
+| Instrument_CommonName | Infrared Spectroscopy FTIR |
+| Instrument_Manufacturer | [PerkinElmer](https://content.perkinelmer.com/) |
+| Instrument_Model | [Spectrum Two](https://www.perkinelmer.com/Product/spectrum-two-ft-ir-sp10-software-l160000a?_gl=1*d24g6z*_gcl_au*MTM4OTQ5NTY0NS4xNzQzNDM2MzY1) |
+| Instrument_Serial# | [126501](assets/images/PerkinElmer-FTIR-Spectrum-Two-01_serialPlate.jpg) |
+| Instrument_Asset_Tag | NA |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution | Yes |
+| Instrument_Roaming | No |
+| Instrument_Building | Lab II |
+| Instrument_Floor | 3 |
+| Instrument_Room | 3216 |
+| Computer_Hostname | SC-PE-FTIR-01 |
+| Computer_IP | DHCP |
+| Computer_MAC | 10-98-19-30-73-32 |
+| Computer_Make | Dell |
+| Computer_Model | Precision 5860 |
+| Computer_Asset_Tag | EME12201 |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM | 64 GB |
+| Computer_HD | 1 TB |
+| Software_Vendor | PerkinElmer |
+| Software_Product_Name | PerkinElmer Spectrum IR |
+| Software_Version | 10.7.2.1630 Service Pack 2.6 |
+| Software_Last_Updated_Date | 2025-03 |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+Back to top

@@ -1,0 +1,51 @@
+# Scientific Instrumentation Table: Bruker Avance 400 MHz NMR Spectrometer
+
+Published
+
+October 16, 2025
+
+# Table Schema
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Bruker Avance 400 MHz NMR Spectrometer |
+| Instrument_Acquisition_Date | 2025-08 |
+| Instrument_CommonName | NMR |
+| Instrument_Manufacturer | [Bruker](https://www.bruker.com) |
+| Instrument_Model | [Avance 400 MHz NMR](https://www.bruker.com/en/products-and-solutions/mr/nmr/avance-nmr-spectrometer.html) |
+| Instrument_Serial# | [Z180824 / MSC12724](../assets/images/Bruker-Avance-NMR-400MHz-Spectrometer-Serial-Plate.jpg) |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution | Yes |
+| Instrument_Roaming | No |
+| Instrument_Building | Lab I |
+| Instrument_Floor | 2 |
+| Instrument_Room | 2033 |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make |  |
+| Computer_Model |  |
+| Computer_Asset_Tag |  |
+| Computer_OS |  |
+| Computer_OS_Version |  |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+### Additional Notes
+
+- Equipment Number 13559829
+- Serial Number of 5095753
+
+## Disaster Recovery Table
+
+[Disaster Recovery Table](../Instrumentation/Disaster_Recovery_Table.llms.md)
+
+Back to top

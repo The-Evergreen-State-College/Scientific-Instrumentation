@@ -1,0 +1,42 @@
+# PerkinElmer FT-IR Microscopy System Spotlight 200 with Spectrum Two
+
+Published
+
+April 18, 2025
+
+# Table Schema
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Spotlight 200i FT-IR Microscopy System with Spectrum Two |
+| Instrument_Acquisition_Date | 2025-03 |
+| Instrument_CommonName | Infrared Spectroscopy FTIR with Microscope |
+| Instrument_Manufacturer | [PerkinElmer](https://content.perkinelmer.com/) |
+| Instrument_Model | [Spotlight 200i FT-IR Microscopy System](https://www.perkinelmer.com/Product/spotlight-200i-sp2-system-na-l1862105) |
+| Instrument_Serial# | 127082 |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution | Yes |
+| Instrument_Roaming | No |
+| Instrument_Building | Lab II |
+| Instrument_Floor | 3 |
+| Instrument_Room | 3216 |
+| Computer_Hostname | SC-PE-FTIR-02 |
+| Computer_IP | DHCP |
+| Computer_MAC | 10-98-19-30-71-D2 |
+| Computer_Make | Dell |
+| Computer_Model | Precision 5860 |
+| Computer_Asset_Tag | 12200 |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM | 64 GB |
+| Computer_HD | 1 TB |
+| Software_Vendor | PerkinElmer |
+| Software_Product_Name | PerkinElmer Spectrum IR |
+| Software_Version | 10.7.2.1630 Service Pack 2.6 |
+| Software_Last_Updated_Date | 2025-03 |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+Back to top

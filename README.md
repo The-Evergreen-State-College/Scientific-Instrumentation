@@ -15,6 +15,8 @@
    - Major: Significant changes to content, structure.
    - Minor: Small updates, corrections, or additions that do not significantly alter the overall content or structure.
 
+### [Change Log](changelog.md)
+
 
 ## ToDo
 - [ ] NIST Licor Eddy Covariance

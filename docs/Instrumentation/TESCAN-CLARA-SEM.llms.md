@@ -1,0 +1,37 @@
+# TESCAN CLARA LMU Ultra-High Resolution Variable Pressure Schottky Field Emission Scanning Electron Microscope (SEM)
+
+with [Quorum - PP3010 Cryo-SEM Preparation System](https://www.quorumtech.com/products/cryo-preparation-systems/pp3010)
+
+Published
+
+October 5, 2026
+
+![](../assets/images/TESCAN_CLARA.webp "TESCAN SEM CLARA")
+
+[![](../assets/images/TESC-TESCAN-Clara-SEM.jpg "TESC TESCAN Clara SEM")](../assets/images/TESC-TESCAN-Clara-SEM.jpg)
+
+## Description
+
+The [TESCAN CLARA](https://info.tescan.com/sem/clara), an ultra-high-resolution scanning electron microscope (UHR-SEM), facilitates advanced nanoscale characterization of diverse materials, including magnetic and beam-sensitive specimens. Its field-free BrightBeam™ optics enable high-contrast imaging at low beam energies, while a multidetector system distinguishes electrons by angle and energy, enhancing topographic and compositional data. The microscope’s modular architecture supports customization, accommodating specialized research requirements. The Essence™ interface, with guided workflows and In-Flight™ automation, streamlines operation and data collection. Compatible with multimodal techniques such as Raman spectroscopy, serial block face imaging, and tensile stage testing. The instrument is equipped with Energy-Dispersive X-ray Spectroscopy (EDS) for elemental mapping of geological samples.
+
+## Detectors and Accessories
+
+| Component | Specification | Application |
+|----|----|----|
+| TESCAN Essence™ EDS2 | 30 mm² sensor | Energy-Dispersive X-ray Spectroscopy (EDS) for elemental mapping of geological samples |
+
+## Technical Details
+
+[TESCAN CLARA Data Sheet](../Instrumentation/Manuals/TESCAN_CLARA_SEM_Product_Data_Sheet.pdf)
+
+## Manuals
+
+[TESCAN CLARA User Manual](../Instrumentation/Manuals/TESCAN_CLARA_SEM_User_Manual.pdf)
+
+### (SOP) Standard Operating Procedure
+
+## Instrument Table
+
+[SI-Table-TESCAN-CLARA-SEM](../Instrumentation/SI-Table-TESCAN-CLARA-SEM.llms.md)
+
+Back to top

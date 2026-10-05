@@ -1,0 +1,217 @@
+# Scientific Instrumentation Table: Agilent Cary 60 UV-Vis Spectrophotometer
+
+Published
+
+November 14, 2025
+
+## Table Schema Cary 60 UV-Vis Spectrophotometer \#1
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Agilent Cary 60 UV-Vis Spectrophotometer |
+| Instrument_Acquisition_Date | 2025-09 |
+| Instrument_CommonName | Spec |
+| Instrument_Manufacturer | [Agilent](https://www.agilent.com/) |
+| Instrument_Model | [Cary 60 UV-Vis](https://www.agilent.com/en/product/molecular-spectroscopy/uv-vis-uv-vis-nir-spectroscopy/uv-vis-uv-vis-nir-systems/cary-60-uv-vis-spectrophotometer#literature) |
+| Instrument_Serial# |  |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution |  |
+| Instrument_Roaming |  |
+| Instrument_Building |  |
+| Instrument_Floor |  |
+| Instrument_Room |  |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make | Dell |
+| Computer_Model | Pro Max Tower T2 FCT2250 |
+| Computer_Asset_Tag |  |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+## Table Schema Cary 60 UV-Vis Spectrophotometer \#2
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Agilent Cary 60 UV-Vis Spectrophotometer |
+| Instrument_Acquisition_Date | 2025-09 |
+| Instrument_CommonName | Spec |
+| Instrument_Manufacturer | [Agilent](https://www.agilent.com/) |
+| Instrument_Model | [Cary 60 UV-Vis](https://www.agilent.com/en/product/molecular-spectroscopy/uv-vis-uv-vis-nir-spectroscopy/uv-vis-uv-vis-nir-systems/cary-60-uv-vis-spectrophotometer#literature) |
+| Instrument_Serial# |  |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution |  |
+| Instrument_Roaming |  |
+| Instrument_Building |  |
+| Instrument_Floor |  |
+| Instrument_Room |  |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make | Dell |
+| Computer_Model | Pro Max Tower T2 FCT2250 |
+| Computer_Asset_Tag |  |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+## Table Schema Cary 60 UV-Vis Spectrophotometer \#3
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Agilent Cary 60 UV-Vis Spectrophotometer |
+| Instrument_Acquisition_Date | 2025-09 |
+| Instrument_CommonName | Spec |
+| Instrument_Manufacturer | [Agilent](https://www.agilent.com/) |
+| Instrument_Model | [Cary 60 UV-Vis](https://www.agilent.com/en/product/molecular-spectroscopy/uv-vis-uv-vis-nir-spectroscopy/uv-vis-uv-vis-nir-systems/cary-60-uv-vis-spectrophotometer#literature) |
+| Instrument_Serial# |  |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution |  |
+| Instrument_Roaming |  |
+| Instrument_Building |  |
+| Instrument_Floor |  |
+| Instrument_Room |  |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make | Dell |
+| Computer_Model | Pro Max Tower T2 FCT2250 |
+| Computer_Asset_Tag |  |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+## Table Schema Cary 60 UV-Vis Spectrophotometer \#4
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Agilent Cary 60 UV-Vis Spectrophotometer |
+| Instrument_Acquisition_Date | 2025-09 |
+| Instrument_CommonName | Spec |
+| Instrument_Manufacturer | [Agilent](https://www.agilent.com/) |
+| Instrument_Model | [Cary 60 UV-Vis](https://www.agilent.com/en/product/molecular-spectroscopy/uv-vis-uv-vis-nir-spectroscopy/uv-vis-uv-vis-nir-systems/cary-60-uv-vis-spectrophotometer#literature) |
+| Instrument_Serial# |  |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution |  |
+| Instrument_Roaming |  |
+| Instrument_Building |  |
+| Instrument_Floor |  |
+| Instrument_Room |  |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make | Dell |
+| Computer_Model | Pro Max Tower T2 FCT2250 |
+| Computer_Asset_Tag |  |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+## Table Schema Cary 60 UV-Vis Spectrophotometer \#5
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Agilent Cary 60 UV-Vis Spectrophotometer |
+| Instrument_Acquisition_Date | 2025-09 |
+| Instrument_CommonName | Spec |
+| Instrument_Manufacturer | [Agilent](https://www.agilent.com/) |
+| Instrument_Model | [Cary 60 UV-Vis](https://www.agilent.com/en/product/molecular-spectroscopy/uv-vis-uv-vis-nir-spectroscopy/uv-vis-uv-vis-nir-systems/cary-60-uv-vis-spectrophotometer#literature) |
+| Instrument_Serial# |  |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution |  |
+| Instrument_Roaming |  |
+| Instrument_Building |  |
+| Instrument_Floor |  |
+| Instrument_Room |  |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make | Dell |
+| Computer_Model | Pro Max Tower T2 FCT2250 |
+| Computer_Asset_Tag |  |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+## Table Schema Cary 60 UV-Vis Spectrophotometer \#6
+
+| Field | Value |
+|----|----|
+| Instrument_Name | Agilent Cary 60 UV-Vis Spectrophotometer |
+| Instrument_Acquisition_Date | 2025-09 |
+| Instrument_CommonName | Spec |
+| Instrument_Manufacturer | [Agilent](https://www.agilent.com/) |
+| Instrument_Model | [Cary 60 UV-Vis](https://www.agilent.com/en/product/molecular-spectroscopy/uv-vis-uv-vis-nir-spectroscopy/uv-vis-uv-vis-nir-systems/cary-60-uv-vis-spectrophotometer#literature) |
+| Instrument_Serial# |  |
+| Instrument_Asset_Tag |  |
+| Instrument_MAC |  |
+| Instrument_IP |  |
+| Instrument_TurnKeySolution |  |
+| Instrument_Roaming |  |
+| Instrument_Building |  |
+| Instrument_Floor |  |
+| Instrument_Room |  |
+| Computer_Hostname |  |
+| Computer_IP |  |
+| Computer_MAC |  |
+| Computer_Make | Dell |
+| Computer_Model | Pro Max Tower T2 FCT2250 |
+| Computer_Asset_Tag |  |
+| Computer_OS | Windows 11 Enterprise |
+| Computer_OS_Version | 24H2 |
+| Computer_RAM |  |
+| Computer_HD |  |
+| Software_Vendor |  |
+| Software_Product_Name |  |
+| Software_Version |  |
+| Software_Last_Updated_Date |  |
+
+Table {.table-bordered .table-hover .caption-top .table}
+
+Back to top
